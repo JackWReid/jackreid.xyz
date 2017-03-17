@@ -1,6 +1,8 @@
 import React from 'react';
 import { Route } from 'react-router-dom';
 
+import WritingDayFour from './WritingDayFour';
+import WritingAccessibilityThing from './WritingAccessibilityThing';
 import WritingJetset from './WritingJetset';
 import WritingFat from './WritingFat';
 import WritingTwitterDesktop from './WritingTwitterDesktop';
@@ -12,6 +14,8 @@ import WritingMusicChanging from './WritingMusicChanging';
 
 export default () => (
   <div>
+    <Route path="/writing/depop-day4" component={WritingDayFour} />
+    <Route path="/writing/accessibility-thing" component={WritingAccessibilityThing} />
     <Route path="/writing/the-jetset-ape" component={WritingJetset} />
     <Route path="/writing/fat-internet-historian" component={WritingFat} />
     <Route path="/writing/twitters-desktop-troubles" component={WritingTwitterDesktop} />

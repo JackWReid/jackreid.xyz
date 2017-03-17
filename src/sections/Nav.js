@@ -60,6 +60,8 @@ export default () => (
 
     <div {...css(sectionStyle)}>
       <h1 {...css(sectionTitleStyle)}>Writing</h1>
+      <NavLink {...css(linkStyle)} activeStyle={activeLinkStyle} to="/writing/depop-day4">Depop Does Day 4</NavLink>
+      <NavLink {...css(linkStyle)} activeStyle={activeLinkStyle} to="/writing/accessibility-thing">That Accessibility Thing</NavLink>
       <NavLink {...css(linkStyle)} activeStyle={activeLinkStyle} to="/writing/the-jetset-ape">The Jetset Ape</NavLink>
       <NavLink {...css(linkStyle)} activeStyle={activeLinkStyle} to="/writing/fat-internet-historian">@fat: Internet Historian</NavLink>
       <NavLink {...css(linkStyle)} activeStyle={activeLinkStyle} to="/writing/twitters-desktop-troubles">Twitter's Desktop Troubles</NavLink>
