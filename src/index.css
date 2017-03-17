@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  line-height: 1.4;
+  font-size: 16px;
+  font-family: 'Inconsolata', Monaco, monospace;
+  background: azure;
+  animation: fadeIn .5s;
+}
+
+a {
+  color: inherit;
+  text-shadow: 1px 1px 0px pink;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+::selection {
+  color: azure;
+  background-color: pink;
+}
