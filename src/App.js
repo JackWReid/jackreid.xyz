@@ -4,6 +4,7 @@ import Helmet from 'react-helmet';
 import { css } from 'glamor';
 
 import SiteHeader from './components/SiteHeader';
+import ScrollToTopOnNav from './ScrollToTopOnNav';
 
 import Intro from './sections/Intro';
 import Nav from './sections/Nav';
@@ -51,6 +52,7 @@ class App extends Component {
               <div {...css(columnBase)}><Intro /></div>
               <div {...css(columnBase)}><Nav /></div>
               <div {...css({...columnBase, flex: 3})}>
+                <ScrollToTopOnNav />
                 <Switch>
                   <Route exact path="/" component={HomeFinal}/>
                   <Route path="/work" component={Work} />
