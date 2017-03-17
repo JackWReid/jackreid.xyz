@@ -11,5 +11,6 @@ export default () => (
     <p>Twitter: <a href="https://www.twitter.com/jackreid">@jackreid</a></p>
     <p>Instagram: <a href="https://instagram.com/jackwreid">@jackwreid</a></p>
     <p>GitHub: <a href="https://www.github.com/jackwreid">@jackwreid</a></p>
+    <p><a href="https://medium.com/making-depop/jack-reid-eff8f2300259#.4p8wt4vh7">Profile at Depop</a></p>
   </div>
 );
