@@ -16,7 +16,7 @@
   "scripts": {
     "start": "serve ./build --single",
     "build": "react-scripts build",
-    "dev": "react-script start",
+    "dev": "react-scripts start",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   }
