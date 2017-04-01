@@ -1,22 +1,35 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { css } from 'glamor';
+import styled from 'styled-components';
 
-const headerReset = {
-  margin: 0,
-  fontWeight: 'normal',
-  fontSize: 16,
-};
+const Header = styled.div`
+  width: 100%;
+  padding: 16px;
+  text-transform: lowercase;
+`;
+
+const Title = styled.h1`
+  margin: 0;
+  font-weight: normal;
+  font-size: 16px;
+  & a {
+    color: white;
+    background-color: pink;
+    text-decoration: none;
+  }
+`;
+
+const Subtitle = styled.h2`
+  margin: 0;
+  font-weight: normal;
+  font-size: 16px;
+`;
 
 export default () => (
-  <div {...css({
-    width: '100%',
-    padding: 16,
-    textTransform: 'lowercase',
-  })}>
-    <h1 {...css(headerReset)}>
-      <Link to="/" {...css({color: 'white', backgroundColor: 'pink', textDecoration: 'none'})}>Jack Reid</Link>
-    </h1>
-    <h2 {...css(headerReset)}>Web Idiot</h2>
-  </div>
+  <Header>
+    <Title>
+      <Link to="/">Jack Reid</Link>
+    </Title>
+    <Subtitle>Web Idiot</Subtitle>
+  </Header>
 );

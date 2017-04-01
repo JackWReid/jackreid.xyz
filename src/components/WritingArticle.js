@@ -1,28 +1,33 @@
 import React from 'react';
 import Helmet from 'react-helmet';
-import { css } from 'glamor';
+import styled from 'styled-components';
 
-const articleStyle = {
-  '& h1, & h2': {
-    maxWidth: '30rem',
-    fontSize: 16,
-    fontWeight: 'normal',
-  },
-  '& h1': {
-    marginTop: 0,
-    textDecoration: 'underline',
-  },
-  '& p': {
-    maxWidth: '40em',
-  },
-};
+const Title = styled.h1`
+  margin-top: 0;
+  max-width: 30rem;
+  font-size: 16px;
+  font-weight: normal;
+  text-decoration: underline;
+`;
+
+const Subtitle = styled.h1`
+  max-width: 30rem;
+  font-size: 16px;
+  font-weight: normal;
+`;
+
+const Content = styled.div`
+  max-width: 40em;
+`;
 
 export default ({title, subtitle, slug, date, children}) => (
-  <div {...css(articleStyle)}>
+  <div>
     <Helmet title={title} />
-    <h1>{title}</h1>
-    <h2>{subtitle}</h2>
+    <Title>{title}</Title>
+    <Subtitle>{subtitle}</Subtitle>
     <time>{date}</time>
-    {children}
+    <Content>
+      {children}
+    </Content>
   </div>
 );

@@ -1,7 +1,9 @@
 import React, { Component } from 'react';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import Helmet from 'react-helmet';
-import { css } from 'glamor';
+import styled from 'styled-components';
+
+import { randomGoodEmoji } from './utils';
 
 import SiteHeader from './components/SiteHeader';
 import ScrollToTopOnNav from './ScrollToTopOnNav';
@@ -16,42 +18,42 @@ import Photography from './content/photography';
 import Writing from './content/writing';
 import NotFound from './content/NotFound';
 
-const siteLayout = {
-  width: '100vw',
-  height: '100vh',
-  display: 'flex',
-  flexDirection: 'column',
-};
+const Layout = styled.div`
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+`;
 
-const panelsLayout = {
-  width: '100%',
-  flex: 1,
-  display: 'flex',
-  alignItems: 'stretch',
-  '@media(max-width: 700px)': {
-    display: 'block',
-  },
-}
+const Row = styled.div`
+  width: 100%;
+  flex: 1;
+  display: flex;
+  align-items: stretch;
+  @media(max-width: 700px) {
+    display: block;
+  }
+`;
 
-const columnBase = {
-  flex: 2,
-  maxHeight: '100%',
-  overflowY: 'scroll',
-  padding: 16,
-};
+const Column = styled.div`
+  flex: 2;
+  max-height: 100%;
+  overflow-y: scroll;
+  padding: 16px;
+`;
 
 class App extends Component {
   render() {
     return (
       <div>
-        <Helmet titleTemplate="%s | Jack Reid" defaultTitle="Jack Reid" />
+        <Helmet titleTemplate={`%s | Jack Reid ${randomGoodEmoji()}`} defaultTitle="Jack Reid" />
         <Router>
-          <div {...css(siteLayout)}>
+          <Layout>
             <SiteHeader />
-            <div {...css(panelsLayout)}>
-              <div {...css(columnBase)}><Intro /></div>
-              <div {...css(columnBase)}><Nav /></div>
-              <div {...css({...columnBase, flex: 3})}>
+            <Row>
+              <Column><Intro /></Column>
+              <Column><Nav /></Column>
+              <Column style={{flex: 3}}>
                 <ScrollToTopOnNav />
                 <Switch>
                   <Route exact path="/" component={HomeFinal}/>
@@ -61,9 +63,9 @@ class App extends Component {
                   <Route path="/writing" component={Writing} />
                   <Route component={NotFound} />
                 </Switch>
-              </div>
-            </div>
-          </div>
+              </Column>
+            </Row>
+          </Layout>
         </Router>
       </div>
     );
