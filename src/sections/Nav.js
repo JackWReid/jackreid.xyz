@@ -27,6 +27,7 @@ export default () => (
   <div>
     <Section>
       <SectionTitle>Work</SectionTitle>
+      <NavLink activeStyle={activeLinkStyle} to="/work/buzzfeed">Buzzfeed</NavLink>
       <NavLink activeStyle={activeLinkStyle} to="/work/tott">Tott</NavLink>
       <NavLink activeStyle={activeLinkStyle} to="/work/slashthread">/thread</NavLink>
       <NavLink activeStyle={activeLinkStyle} to="/work/buukks">Buukks</NavLink>
