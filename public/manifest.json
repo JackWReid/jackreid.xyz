@@ -1,0 +1,23 @@
+{
+  "short_name": "Jack W. Reid",
+  "name": "web idiot",
+  "theme_color": "azure",
+  "icons": [
+    {
+      "src": "icon48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "icon96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "icon192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "index.html"
+}
