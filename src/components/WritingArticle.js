@@ -1,6 +1,7 @@
 import React from 'react';
 import Helmet from 'react-helmet';
 import styled from 'styled-components';
+import marked from 'marked';
 
 const Title = styled.h1`
   margin-top: 0;
@@ -20,14 +21,14 @@ const Content = styled.div`
   max-width: 40em;
 `;
 
-export default ({title, subtitle, slug, date, children}) => (
+export default ({post: { title, subtitle, postDate, body }}) => (
   <div>
     <Helmet title={title} />
     <Title>{title}</Title>
     <Subtitle>{subtitle}</Subtitle>
-    <time>{date}</time>
+    <time>{postDate}</time>
     <Content>
-      {children}
+      <div dangerouslySetInnerHTML={{__html: marked(body)}}></div>
     </Content>
   </div>
 );

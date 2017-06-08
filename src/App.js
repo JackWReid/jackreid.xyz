@@ -60,7 +60,7 @@ class App extends Component {
                   <Route path="/work" component={Work} />
                   <Route path="/trip" component={Trips} />
                   <Route path="/photography" component={Photography} />
-                  <Route path="/writing" component={Writing} />
+                  <Route path="/writing/:slug" component={Writing} />
                   <Route component={NotFound} />
                 </Switch>
               </Column>
