@@ -11,7 +11,10 @@
     "styled-components": "^1.4.6"
   },
   "now": {
-    "alias": "jackreid.xyz"
+    "alias": [
+			"jackreid.xyz",
+			"jackwreid.uk"
+		]
   },
   "devDependencies": {
     "react-scripts": "^1.0.0"
