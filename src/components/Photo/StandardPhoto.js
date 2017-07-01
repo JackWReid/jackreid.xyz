@@ -5,6 +5,7 @@ const Image = styled.img`
   margin: 16px auto;
   opacity: ${props => props.loaded ? 1 : 0};
   transition: opacity .5s .5s ease-in-out;
+  cursor: ${props => props.loaded ? 'zoom-in' : 'progress'};
 `;
 
 export default class StandardPhoto extends Component {

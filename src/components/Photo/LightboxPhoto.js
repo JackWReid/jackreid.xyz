@@ -15,6 +15,7 @@ const Wrapper = styled.div`
 const Image = styled.img`
   display: block;
   max-width: 70vw;
+  cursor: zoom-out;
 `;
 
 export default ({url, closeLightbox}) => (
