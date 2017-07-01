@@ -16,3 +16,7 @@ Twitter: [@jackreid](https://twitter.com/jackreid)
 Instagram: [@jackwreid](https://instagram.com/jackwreid)
 
 GitHub: [@jackwreid](https://github.com/jackwreid)
+
+## todo
+- cache contentful requests with sw.js
+- move layout to css grid
