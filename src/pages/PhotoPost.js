@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Helmet from 'react-helmet';
 import styled from 'styled-components';
 
-import { getTripPost } from '../service';
+import { getPhotoPost } from '../service';
 
 const Title = styled.h1`
   margin-top: 0;
@@ -13,7 +13,18 @@ const Title = styled.h1`
 `;
 
 const Content = styled.div`
-  max-width: 40em;
+  max-width: 30em;
+  margin: 5em auto 0;
+  padding: 0 1rem;
+`;
+
+const PhotoList = styled.div`
+  max-width: 90vw;
+  margin: 5em auto 0;
+
+  img {
+    margin: 0 auto 5em;
+  }
 `;
 
 export default class Writing extends Component {
@@ -25,7 +36,7 @@ export default class Writing extends Component {
   }
 
   async componentDidMount() {
-    const post = await getTripPost(this.props.match.params.slug);
+    const post = await getPhotoPost(this.props.match.params.slug);
     this.setState({post});
   }
 
@@ -38,15 +49,18 @@ export default class Writing extends Component {
 
     return (
       <div>
-        <Helmet title={title} />
-        <Title>{title}</Title>
-        <time>{postDate}</time>
         <Content>
+          <Helmet title={title} />
+          <Title>{title}</Title>
+          <time>{postDate}</time>
           {body}
+        </Content>
+
+        <PhotoList>
           {photos.map((photo, key) => (
             <img alt={title} key={key} src={photo} />
           ))}
-        </Content>
+        </PhotoList>
       </div>
     );
   }

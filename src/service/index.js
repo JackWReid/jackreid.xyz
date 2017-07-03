@@ -1,6 +1,6 @@
 import { createClient } from 'contentful';
 
-import trips from './trips';
+import photoPosts from './photoPosts';
 
 const space = 'ixsvrch5ksw3'
 const accessToken = '77e9703639cf6c0aa24f5fae80b531febc654a73771f2df5dbc7c9cbe0811498'
@@ -30,22 +30,22 @@ export async function getWritingPost(slug) {
   .catch(error => console.error(error));
 }
 
-export async function getTripPosts() {
-  return trips.map(trip => ({
-    title: trip.title,
-    postDate: trip.postDate,
-    slug: trip.slug,
-    photo: trip.photos[0],
+export async function getPhotoPosts() {
+  return photoPosts.map(post => ({
+    title: post.title,
+    postDate: post.postDate,
+    slug: post.slug,
+    photo: post.photos[0],
   }));
 }
 
-export async function getTripPost(slug) {
-  return trips.find(trip => trip.slug === slug);
+export async function getPhotoPost(slug) {
+  return photoPosts.find(post => post.slug === slug);
 }
 
 export async function getRandomPhoto() {
   const random = array => array[Math.floor(Math.random() * array.length)];
-  const post = random(trips);
+  const post = random(photoPosts);
   return {
     title: post.title,
     slug: post.slug,

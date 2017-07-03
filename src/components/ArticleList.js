@@ -4,6 +4,7 @@ import styled from 'styled-components';
 
 const ArticleList = styled.ul`
   display: grid;
+  grid-area: articles;
   grid-gap: 1rem;
   grid-template-columns: 100%;
   grid-auto-rows: auto;
@@ -12,7 +13,7 @@ const ArticleList = styled.ul`
   list-style: none;
 
   @media (min-width: 800px) {
-    grid-auto-rows: 4rem;
+    padding: 0 0 0 1rem;
   }
 `;
 

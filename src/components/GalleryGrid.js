@@ -3,21 +3,24 @@ import { Link } from 'react-router-dom';
 import styled from 'styled-components';
 
 const Grid = styled.ul`
+  height: 100%;
+  grid-area: gallery;
   display: grid;
   grid-template-columns: 1fr 1fr;
-  grid-auto-rows: 9rem;
+  grid-auto-rows: 4rem;
   grid-auto-flow: row;
   grid-gap: 1rem;
   margin: 0;
-  padding: 1rem;
+  padding: 0 1rem;
   list-style: none;
 
-  @media (min-width: 800px) {
-    grid-template-columns: 1fr 1fr 1fr;
+  @media (min-width: 600px) {
+    grid-auto-rows: 1fr;
+    padding: 1rem 1rem 0 0;
   }
 
   @media (min-width: 1400px) {
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
   }
 `;
 
@@ -48,7 +51,7 @@ export default ({items}) => (
   <Grid>
     {items.map((item, key) => (
       <GalleryItem key={key} image={item.photo}>
-        <CentreLink to={`/trip/${item.slug}`}>
+        <CentreLink to={`/photo/${item.slug}`}>
           <h1>{item.title}</h1>
         </CentreLink>
       </GalleryItem>

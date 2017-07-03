@@ -2,9 +2,9 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import styled from 'styled-components';
 
-
 const HeadContainer = styled.div`
   max-width: 100%;
+  grid-area: header;
   height: 100vh;
   overflow: hidden;
   background: azure;
@@ -50,6 +50,10 @@ const PageTitle = styled.header`
   h1 span {
     background-color: pink;
   }
+
+  h2 span {
+    background-color: white;
+  }
 `;
 
 const Caption = styled.div`
@@ -61,20 +65,22 @@ const Caption = styled.div`
   }
 `;
 
+const PhotoLink = styled(Link)`
+  background-color: white;
+`;
+
 
 export default ({photo}) => (
   <HeadContainer>
     <HeadContent photo={photo.url}>
       <PageTitle>
         <h1><span>Jack Reid</span></h1>
-        <h2>Web Idiot</h2>
+        <h2><span>Web Idiot</span></h2>
       </PageTitle>
       <Caption>
-        <p>
-          <Link to={`/trip/${photo.slug}`}>
-            {photo.title}
-          </Link>
-        </p>
+        <PhotoLink to={`/photo/${photo.slug}`}>
+          <span role="img" aria-label="photo taken">📸</span> {photo.title}
+        </PhotoLink>
       </Caption>
     </HeadContent>
   </HeadContainer>
