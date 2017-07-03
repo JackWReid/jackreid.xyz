@@ -7,31 +7,24 @@
   to { opacity: 1; }
 }
 
-::-webkit-scrollbar {
-  display: none;
-}
-
 body {
+  width: 100vw;
+  min-height: 100vh;
   margin: 0;
   padding: 0;
   line-height: 1.4;
   font-size: 16px;
   font-family: 'Inconsolata', Monaco, monospace;
-  background: azure;
+  background-color: azure;
   animation: fadeIn .5s;
 }
 
 a {
   color: inherit;
-  text-shadow: 1px 1px 0px pink;
+  text-decoration: none;
 }
 
 img {
   display: block;
   max-width: 100%;
-}
-
-::selection {
-  color: azure;
-  background-color: pink;
 }
