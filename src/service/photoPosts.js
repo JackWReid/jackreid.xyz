@@ -290,7 +290,7 @@ export default [
   },
   {
     title: 'Las Vegas',
-    slug: 'las vegas',
+    slug: 'las-vegas',
     postDate: '',
     body: `
       These past few days, I’ve just been finding myself saying “This doesn’t make any sense” over and over again. The scale of these hotel resorts makes no sense, the desert in the background of this golf course makes no sense. It goes on and on, the contradiction of this place. It’s a hell of thing to behold, though.
@@ -317,7 +317,7 @@ export default [
   },
   {
     title: 'Grand Canyon',
-    slug: 'grand canyon',
+    slug: 'grand-canyon',
     postDate: '',
     body: `
       It took a fair bit of convincing for me to be on board with starting the trip out in Las Vegas. A big part of the argument for Vegas was the opportunity to visit the Grand Canyon, which I’ve been vastly underestimating until today.
@@ -336,6 +336,66 @@ export default [
       'https://s3.eu-west-2.amazonaws.com/jackwreid/jackwreid/trips/grand-canyon/joshua-s.jpg',
       'https://s3.eu-west-2.amazonaws.com/jackwreid/jackwreid/trips/grand-canyon/joshua-peak.jpg',
       'https://s3.eu-west-2.amazonaws.com/jackwreid/jackwreid/trips/grand-canyon/canyon-panorama.jpg',
+    ],
+  },
+  {
+    title: 'Womens\' March',
+    slug: 'womens-march',
+    postDate: '',
+    body: `
+      The election of Donald Trump as President of The United States of America is pretty much a global disaster. I don't think anybody's certain what exactly to do. The Womens' March was definitely a solid first step in an ongoing pattern of dissent and resistance. I'm proud to have taken part.
+    `,
+    photos: [
+      'https://s3.eu-west-2.amazonaws.com/jackwreid/jackwreid/photography/womens-march-17/crowd.jpg',
+      'https://s3.eu-west-2.amazonaws.com/jackwreid/jackwreid/photography/womens-march-17/sign-bizniz.jpg',
+      'https://s3.eu-west-2.amazonaws.com/jackwreid/jackwreid/photography/womens-march-17/sign-against-trump.jpg',
+      'https://s3.eu-west-2.amazonaws.com/jackwreid/jackwreid/photography/womens-march-17/sign-galdem.jpg',
+      'https://s3.eu-west-2.amazonaws.com/jackwreid/jackwreid/photography/womens-march-17/sign-lion.jpg',
+      'https://s3.eu-west-2.amazonaws.com/jackwreid/jackwreid/photography/womens-march-17/march-bw.jpg',
+      'https://s3.eu-west-2.amazonaws.com/jackwreid/jackwreid/photography/womens-march-17/march-glare.jpg',
+      'https://s3.eu-west-2.amazonaws.com/jackwreid/jackwreid/photography/womens-march-17/balloon.jpg',
+      'https://s3.eu-west-2.amazonaws.com/jackwreid/jackwreid/photography/womens-march-17/police-bikes.jpg',
+      'https://s3.eu-west-2.amazonaws.com/jackwreid/jackwreid/photography/womens-march-17/police-group.jpg',
+      'https://s3.eu-west-2.amazonaws.com/jackwreid/jackwreid/photography/womens-march-17/family.jpg',
+      'https://s3.eu-west-2.amazonaws.com/jackwreid/jackwreid/photography/womens-march-17/police-smoke.jpg',
+      'https://s3.eu-west-2.amazonaws.com/jackwreid/jackwreid/photography/womens-march-17/anarchist.jpg',
+    ],
+  },
+  {
+    title: 'Commute East',
+    slug: 'commute-east',
+    postDate: '',
+    body: `
+      I'd like to briefly address Abellio Greater Anglia trains directly. You suck, your service sucks, and I hate you. Now that I've gotten that out the way, here's some photos from the many hours a day I spend traversing the distance between Billericay and Shoreditch.
+    `,
+    photos: [
+      'https://s3.eu-west-2.amazonaws.com/jackwreid/jackwreid/photography/commute-east/bridge.jpg',
+      'https://s3.eu-west-2.amazonaws.com/jackwreid/jackwreid/photography/commute-east/bus.jpg',
+      'https://s3.eu-west-2.amazonaws.com/jackwreid/jackwreid/photography/commute-east/fish-tank.jpg',
+      'https://s3.eu-west-2.amazonaws.com/jackwreid/jackwreid/photography/commute-east/sleeper.jpg',
+      'https://s3.eu-west-2.amazonaws.com/jackwreid/jackwreid/photography/commute-east/station-fog.jpg',
+      'https://s3.eu-west-2.amazonaws.com/jackwreid/jackwreid/photography/commute-east/station-neon.jpg',
+      'https://s3.eu-west-2.amazonaws.com/jackwreid/jackwreid/photography/commute-east/station-train-above.jpg',
+      'https://s3.eu-west-2.amazonaws.com/jackwreid/jackwreid/photography/commute-east/train-beam-w.jpg',
+      'https://s3.eu-west-2.amazonaws.com/jackwreid/jackwreid/photography/commute-east/train-beam.jpg',
+      'https://s3.eu-west-2.amazonaws.com/jackwreid/jackwreid/photography/commute-east/window-gaze.jpg',
+    ],
+  },
+  {
+    title: 'Essex',
+    slug: 'essex',
+    postDate: '',
+    body: `
+      Essex gets a lot of flak in the UK (usually from me), but having lived here for a little bit now, I've found some pretty nice parts in my little corner.
+    `,
+    photos: [
+      'https://s3.eu-west-2.amazonaws.com/jackwreid/jackwreid/photography/bits-of-essex/autumn.jpg',
+      'https://s3.eu-west-2.amazonaws.com/jackwreid/jackwreid/photography/bits-of-essex/cherry-blossom.jpg',
+      'https://s3.eu-west-2.amazonaws.com/jackwreid/jackwreid/photography/bits-of-essex/curtain.jpg',
+      'https://s3.eu-west-2.amazonaws.com/jackwreid/jackwreid/photography/bits-of-essex/lamp.jpg',
+      'https://s3.eu-west-2.amazonaws.com/jackwreid/jackwreid/photography/bits-of-essex/refract.jpg',
+      'https://s3.eu-west-2.amazonaws.com/jackwreid/jackwreid/photography/bits-of-essex/steps.jpg',
+      'https://s3.eu-west-2.amazonaws.com/jackwreid/jackwreid/photography/bits-of-essex/wheat.jpg',
     ],
   },
 ];

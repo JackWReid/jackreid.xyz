@@ -8,7 +8,7 @@ import PhotoPost from './pages/PhotoPost';
 
 export default () => (
   <div>
-    <Helmet defaultTitle="jack reid" titleTemplate="%s | jack reid" />
+    <Helmet defaultTitle="Jack Reid" titleTemplate="%s | Jack Reid" />
     <Router>
       <Switch>
         <Route exact path="/" component={Home}/>

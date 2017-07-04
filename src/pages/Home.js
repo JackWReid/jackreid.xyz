@@ -16,7 +16,8 @@ const HomePage = styled.div`
     'header'
     'gallery'
     'articles'
-    'blurb';
+    'blurb'
+    'footer';
 
   @media (min-width: 600px) {
     grid-auto-rows: auto;
@@ -24,7 +25,8 @@ const HomePage = styled.div`
     grid-template-areas:
       'header gallery'
       'articles articles'
-      'blurb blurb';
+      'blurb blurb'
+      'footer footer';
   }
 
   @media (min-width: 800px) {
