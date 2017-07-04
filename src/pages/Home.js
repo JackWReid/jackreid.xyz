@@ -35,6 +35,10 @@ const HomePage = styled.div`
       'articles blurb'
       'footer footer';
   }
+
+  @media (min-width: 1800px) {
+    grid-template-columns: 1fr 2fr;
+  }
 `;
 
 const Blurb = styled.div`
