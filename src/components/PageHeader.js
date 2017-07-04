@@ -1,19 +1,63 @@
-import React from 'react';
+import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import styled from 'styled-components';
 
+const BackgroundImage = styled.img`
+  position: absolute;
+  object-fit: cover;
+  width: auto;
+  height: 100%;
+  z-index: 0;
+  transition: opacity 1s ease-in-out;
+  opacity: ${props => props.ready ? '1' : '0'}
+`;
+
+class LoaderImage extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      ready: false,
+    };
+  }
+
+  onLoad = () => this.setState({ready: true});
+
+  render() {
+    const { src, alt } = this.props;
+    const { ready } = this.state;
+
+    return (
+      <BackgroundImage
+        src={src}
+        alt={alt}
+        ready={ready}
+        onLoad={this.onLoad} />
+    );
+  }
+}
+
 const HeadContainer = styled.div`
-  max-width: 100%;
+  position: relative;
   grid-area: header;
+  width: 100%;
   height: 100vh;
+  padding: 0rem;
   overflow: hidden;
-  background: azure;
+  background-color: azure;
+
+  @media (min-width: 600px) {
+    padding: 1rem;
+  }
 `;
 
 const HeadContent = styled.div`
-  position: relative;
   width: 100%;
   height: 100%;
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
   padding: 1rem;
   display: grid;
   align-items: end;
@@ -24,16 +68,8 @@ const HeadContent = styled.div`
     'title . caption';
   z-index: 1;
 
-  &::after {
-    position: absolute;
-    top: 0; bottom: 0;
-    left: 0; right: 0;
-    content: '';
-    background-image: ${props => `url(${props.photo})`};
-    background-size: cover;
-    background-position: center;
-    opacity: 1;
-    z-index: -1;
+  @media (min-width: 600px) {
+    padding: 1rem 1rem 1rem 2rem;
   }
 `;
 
@@ -69,10 +105,9 @@ const PhotoLink = styled(Link)`
   background-color: white;
 `;
 
-
 export default ({photo}) => (
   <HeadContainer>
-    <HeadContent photo={photo.url}>
+    <HeadContent>
       <PageTitle>
         <h1><span>Jack Reid</span></h1>
         <h2><span>Web Idiot</span></h2>
@@ -83,5 +118,6 @@ export default ({photo}) => (
         </PhotoLink>
       </Caption>
     </HeadContent>
+    <LoaderImage src={photo.url} alt={photo.title} />
   </HeadContainer>
 );

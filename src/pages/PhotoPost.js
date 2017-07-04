@@ -4,6 +4,8 @@ import styled from 'styled-components';
 
 import { getPhotoPost } from '../service';
 
+import Image from '../components/Image';
+
 const Title = styled.h1`
   margin-top: 0;
   max-width: 30rem;
@@ -22,7 +24,7 @@ const PhotoList = styled.div`
   max-width: 90vw;
   margin: 5em auto 0;
 
-  img {
+  & > div {
     margin: 0 auto 5em;
   }
 `;
@@ -58,7 +60,7 @@ export default class Writing extends Component {
 
         <PhotoList>
           {photos.map((photo, key) => (
-            <img alt={title} key={key} src={photo} />
+            <Image alt={title} key={key} src={photo} />
           ))}
         </PhotoList>
       </div>

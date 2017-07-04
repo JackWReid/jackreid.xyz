@@ -16,7 +16,7 @@ body {
   font-size: 16px;
   font-family: 'Inconsolata', Monaco, monospace;
   background-color: azure;
-  animation: fadeIn 1s .5s;
+  /*animation: fadeIn 1s .5s;*/
 }
 
 a {
