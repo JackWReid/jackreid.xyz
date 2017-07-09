@@ -108,6 +108,7 @@ export default class Home extends Component {
         <ArticleList items={writingPosts} />
         <Blurb>
           <p>I make stuff on the internet. I read books. I take photos. I write things. The things I write aren’t very good, but I did English at uni so I have to do it anyway.</p>
+          <p>I work at Buzzfeed.</p>
         </Blurb>
         <Footer>
           <a href="mailto:emailjackreid@gmail.com">emailjackreid@gmail.com</a>

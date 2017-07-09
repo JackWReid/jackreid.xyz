@@ -25,7 +25,7 @@ const Grid = styled.ul`
 `;
 
 const GalleryItem = styled.li`
-  background-image: url(${props => props.image});
+  background: url(${props => props.image}) pink;
   background-position: center;
   background-size: cover;
 

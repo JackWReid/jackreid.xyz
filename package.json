@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "contentful": "^4.4.2",
+    "date-fns": "^1.28.5",
     "marked": "^0.3.6",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",

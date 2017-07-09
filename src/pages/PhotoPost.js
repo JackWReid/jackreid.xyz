@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import Helmet from 'react-helmet';
 import styled from 'styled-components';
 
+import ScrollToTopOnNav from '../components/ScrollToTopOnNav';
 import { getPhotoPost } from '../service';
 
 import Image from '../components/Image';
@@ -51,6 +52,7 @@ export default class Writing extends Component {
 
     return (
       <div>
+        <ScrollToTopOnNav />
         <Content>
           <Helmet title={title} />
           <Title>{title}</Title>

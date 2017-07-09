@@ -1,9 +1,11 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import Helmet from 'react-helmet';
+import { format } from 'date-fns';
 import styled from 'styled-components';
 import marked from 'marked';
 
+import ScrollToTopOnNav from '../components/ScrollToTopOnNav';
 import { getWritingPost } from '../service';
 
 const Article = styled.article`
@@ -49,11 +51,11 @@ export default class Writing extends Component {
 
     return (
       <Article>
+        <ScrollToTopOnNav />
         <Helmet title={title} />
-        <Link to="/">back</Link>
         <Title>{title}</Title>
         <Subtitle>{subtitle}</Subtitle>
-        <time>{postDate}</time>
+        <time>{format(postDate, 'Do MMMM YYYY')}</time>
         <Content>
           <div dangerouslySetInnerHTML={{__html: marked(body)}}></div>
         </Content>
