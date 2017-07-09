@@ -1,16 +1,16 @@
 import React, { Component } from 'react';
-import { Link } from 'react-router-dom';
 import Helmet from 'react-helmet';
 import { format } from 'date-fns';
 import styled from 'styled-components';
 import marked from 'marked';
 
 import ScrollToTopOnNav from '../components/ScrollToTopOnNav';
+import ReturnBadge from '../components/ReturnBadge';
 import { getWritingPost } from '../service';
 
 const Article = styled.article`
   max-width: 30em;
-  margin: 5em auto;
+  margin: 0 auto 5em;
 `;
 
 const Title = styled.h1`
@@ -52,6 +52,7 @@ export default class Writing extends Component {
     return (
       <Article>
         <ScrollToTopOnNav />
+        <ReturnBadge />
         <Helmet title={title} />
         <Title>{title}</Title>
         <Subtitle>{subtitle}</Subtitle>

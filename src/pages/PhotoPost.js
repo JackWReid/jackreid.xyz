@@ -5,6 +5,7 @@ import styled from 'styled-components';
 import ScrollToTopOnNav from '../components/ScrollToTopOnNav';
 import { getPhotoPost } from '../service';
 
+import ReturnBadge from '../components/ReturnBadge';
 import Image from '../components/Image';
 
 const Title = styled.h1`
@@ -17,7 +18,7 @@ const Title = styled.h1`
 
 const Content = styled.div`
   max-width: 30em;
-  margin: 5em auto 0;
+  margin: 0 auto 5em;
   padding: 0 1rem;
 `;
 
@@ -53,6 +54,7 @@ export default class Writing extends Component {
     return (
       <div>
         <ScrollToTopOnNav />
+        <ReturnBadge />
         <Content>
           <Helmet title={title} />
           <Title>{title}</Title>
