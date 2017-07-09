@@ -11,6 +11,7 @@ import { getWritingPost } from '../service';
 const Article = styled.article`
   max-width: 30em;
   margin: 0 auto 5em;
+  padding: 0 1em;
 `;
 
 const Title = styled.h1`
