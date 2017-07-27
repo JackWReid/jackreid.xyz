@@ -15,9 +15,8 @@
   },
   "now": {
     "alias": [
-      "jackreid.xyz",
-      "jackwreid.uk"
-    ]
+			"jackreid.xyz"
+		]
   },
   "devDependencies": {
     "react-scripts": "^1.0.0"
