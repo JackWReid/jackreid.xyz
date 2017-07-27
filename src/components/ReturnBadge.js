@@ -4,6 +4,7 @@ import styled from 'styled-components';
 
 const BadgeLink = styled(Link)`
   width: 50px;
+	height: 50px;
   display: block;
   margin: 50px auto;
 `;
