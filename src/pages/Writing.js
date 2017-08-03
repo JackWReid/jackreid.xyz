@@ -6,7 +6,6 @@ import marked from 'marked';
 
 import ScrollToTopOnNav from '../components/ScrollToTopOnNav';
 import ReturnBadge from '../components/ReturnBadge';
-import PostCardTags from '../components/PostCardTags'
 import { getWritingPost } from '../service';
 
 const Article = styled.article`
@@ -57,8 +56,14 @@ export default class Writing extends Component {
         <ReturnBadge />
         <Helmet>
           <title>{title}</title>
+          <meta name="twitter:card" content="summary" />
+          <meta name="twitter:site" content="@jackreid" />
+          <meta name="twitter:title" content={title} />
+          <meta name="twitter:description" content={subtitle} />
+          <meta property="og:title" content={title} />
+          <meta property="og:description" content={subtitle} />
+          <meta property="og:url" content={window.location} />
         </Helmet>
-        <PostCardTags post={this.state.post} />
         <Title>{title}</Title>
         <Subtitle>{subtitle}</Subtitle>
         <time>{format(postDate, 'Do MMMM YYYY')}</time>
