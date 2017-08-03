@@ -6,6 +6,7 @@ import marked from 'marked';
 
 import ScrollToTopOnNav from '../components/ScrollToTopOnNav';
 import ReturnBadge from '../components/ReturnBadge';
+import PostCardTags from '../components/PostCardTags'
 import { getWritingPost } from '../service';
 
 const Article = styled.article`
@@ -54,7 +55,10 @@ export default class Writing extends Component {
       <Article>
         <ScrollToTopOnNav />
         <ReturnBadge />
-        <Helmet title={title} />
+        <Helmet>
+          <title>{title}</title>
+        </Helmet>
+        <PostCardTags post={this.state.post} />
         <Title>{title}</Title>
         <Subtitle>{subtitle}</Subtitle>
         <time>{format(postDate, 'Do MMMM YYYY')}</time>
