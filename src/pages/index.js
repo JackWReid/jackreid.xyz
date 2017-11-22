@@ -12,6 +12,14 @@ import {
   ArtBlock
 } from '../components/Blocks';
 
+import hundredYears from '../images/100-years.jpg';
+import adorno from '../images/adorno.jpg';
+import charlottesville from '../images/charlottesville.jpg';
+import reparations from '../images/coates-reparations.jpg';
+import jonGold from '../images/jon-gold.jpg';
+import nixon from '../images/nixon.jpg';
+import rauchG from '../images/rauchg.jpg';
+
 const PostGrid = styled.div`
   margin: 0 0 10rem;
   display: grid;
@@ -77,13 +85,13 @@ export default ({ data }) => {
           gridRow="2 / 3"
           color="teal"
           href="https://www.lrb.co.uk/v39/n12/fredric-jameson/no-magic-no-metaphor"
-          image="https://lovelace-media.imgix.net/uploads/1169/66056c10-f8fb-0133-f1a8-0aacbc4f5d01.jpg?w=740&h=1098&fit=crop&crop=faces&auto=format&q=70"
+          image={hundredYears}
         />
         <NewsBlock
           gridColumn="2 / 4"
           gridRow="1 / 3"
           href="https://www.theatlantic.com/magazine/archive/1994/07/he-was-a-crook/308699/"
-          image="https://cdn.theatlantic.com/assets/media/img/2016/04/AP_999051130542/lead_960.jpg?1461952164"
+          image={nixon}
         >
           <h1>He Was a Crook</h1>
           <h2>Hunter S. Thompson, 1994</h2>
@@ -109,7 +117,7 @@ export default ({ data }) => {
           gridColumn="1 / 3"
           gridRow="3 / 4"
           href="https://www.theatlantic.com/magazine/archive/2014/06/the-case-for-reparations/361631/"
-          image="https://cdn.theatlantic.com/assets/media/img/2015/08/26/reparations_2/1920.jpg?1440631946"
+          image={reparations}
         >
           <h1>The Case for Reparations</h1>
           <h2>Ta-Nehisi Coates, 2014</h2>
@@ -133,7 +141,7 @@ export default ({ data }) => {
           gridColumn="1 / 3"
           gridRow="5 / 7"
           href="https://www.marxists.org/reference/archive/adorno/1944/culture-industry.htm"
-          image="https://i1.wp.com/thecharnelhouse.org/wp-content/uploads/2013/10/0895-theodor-adorno.jpg"
+          image={adorno}
         />
         <MarbleBlock to="/writing/siri/">
           <h1>Siri, Make Me A Sandwich</h1>
@@ -164,7 +172,7 @@ export default ({ data }) => {
         <NewsBlock
           gridColumn="2 / 4"
           href="http://www.jon.gold/2016/06/declarative-design-tools/"
-          image="https://i.imgur.com/KwsWMGW.jpg"
+          image={jonGold}
         >
           <h1>Declarative Design Tools</h1>
           <h2>Jon Gold, 2016</h2>
@@ -173,7 +181,7 @@ export default ({ data }) => {
           gridColumn="1 / 3"
           gridRow="8 / 10"
           href="https://www.law.uchicago.edu/news/sunstein-internet-and-political-polarization"
-          image="https://i.imgur.com/uSzcZLt.jpg"
+          image={charlottesville}
         >
           <h1>On The Internet and Political Polarization</h1>
           <h2>Cass R. Sunstein, 2007 </h2>
@@ -191,7 +199,7 @@ export default ({ data }) => {
           title="Pure UI, Guillermo Rauch"
           color="pink"
           href="https://rauchg.com/2015/pure-ui"
-          image="https://pbs.twimg.com/profile_images/871555682608136205/yMs8Gnot_400x400.jpg"
+          image={rauchG}
         />
         <MarbleBlock to="/writing/news-addict/">
           <h1>Confessions of a News Addict</h1>

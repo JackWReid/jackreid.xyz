@@ -2,6 +2,9 @@ import React from 'react';
 import styled from 'styled-components';
 import Link from 'gatsby-link';
 
+import darkWaves from '../images/dark-waves.jpg';
+import marble from '../images/marble.jpg';
+
 const Block = styled(Link)`
   height: 100%;
   width: 100%;
@@ -39,10 +42,10 @@ const AlbumBlock = styled(Block)`
   align-items: flex-end;
   justify-content: flex-end;
   padding: 1rem;
+  background-color: pink;
   background-image: url(${props => props.image});
   background-size: cover;
   background-position: center;
-  background-blend-mode: overlay;
 
   h1 {
     display: inline-block;
@@ -95,7 +98,7 @@ const IntroBlock = styled.div`
   text-align: center;
   padding: 1rem;
   background: linear-gradient(pink, pink),
-    url('https://i.pinimg.com/564x/d6/a5/8d/d6a58d881f03d3e80fb0f9c7428163e3.jpg');
+    url(${darkWaves});
   background-position: center;
   background-size: cover;
   background-blend-mode: screen;
@@ -106,7 +109,7 @@ const MarbleBlock = styled(Block)`
   display: block;
   padding: 1rem;
   background: linear-gradient(pink, pink),
-    url('https://i.pinimg.com/736x/92/ec/36/92ec361ce06fa46457258cd7068035cf--pattern-texture-pattern-print.jpg');
+    url(${marble});
   background-size: cover;
   background-blend-mode: screen;
   border: 0.3rem solid pink;
