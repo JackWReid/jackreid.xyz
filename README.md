@@ -1,22 +1,32 @@
-# jack reid
-## web idiot
+# gatsby-starter-blog-no-styles
+[Gatsby](https://www.gatsbyjs.org/) starter for creating a blog, without the CSS and typography included in the official [gatsby-starter-blog](https://github.com/gatsbyjs/gatsby-starter-blog).
 
-I make stuff on the internet. I read books. I take photos. I write things. The things I write aren’t very good, but I did English at uni so I have to do it anyway.
+The gatsby-starter-blog makes some decisions about styling that you might not want (inline css, react-responsive-grid, gatsby-plugin-typography/compass-vertical-rhythm). 
 
-I’m hard to teach but I’m a good listener. I learn things quickly (when they actually need to be learned). I live in London. I like cities. I hate cars. I’m handy in a pub quiz.
+In my case, I want to use [Styled Components](https://www.styled-components.com/) (which Gatsby also has a [plugin](https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-plugin-styled-components) for), so I ousted the aforementioned libraries and styles first and thought this no-styles starter could be useful to others.
 
-I care about politics. I studied it. I study it. I read the news. The only sports I ever care about happen on snow. Even then I forget to watch them on TV. I don’t watch live TV. I like films and music, and arguing about award shows.
+## Get Blogging
 
-I like people, mostly. I like making things for people. I’ll never make my mind up about what a personal website is for.
+1) Install Gatsby-CLI
 
-emailjackreid@gmail.com
+    `npm install --global gatsby-cli`
 
-Twitter: [@jackreid](https://twitter.com/jackreid)
+2) Create new Gatsby project using this starter
 
-Instagram: [@jackwreid](https://instagram.com/jackwreid)
+    `gatsby new my-gatsby-blog https://github.com/noahg/gatsby-starter-blog-no-styles`
 
-GitHub: [@jackwreid](https://github.com/jackwreid)
+3) Run Development Server
 
-## todo
-- cache contentful requests with sw.js
-- move layout to css grid
+    `gatsby develop`
+
+4) Add Posts
+    
+    See the example posts in the folder `src/pages` and use the same naming convention. e.g. `/2017-09-13-post-title/index.md`
+
+5) Deploy
+
+    Follow [the Gatsby docs](https://www.gatsbyjs.org/tutorial/part-one/#deploying-gatsbyjs-websites-on-the-web) for a super easy way to deploy using surge.sh  
+
+
+
+
