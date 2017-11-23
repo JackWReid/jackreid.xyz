@@ -1,7 +1,6 @@
 import React from 'react';
 import Helmet from 'react-helmet';
 import Link from 'gatsby-link';
-import get from 'lodash/get';
 import styled from 'styled-components';
 
 const Container = styled.div`
@@ -17,23 +16,19 @@ const PostBody = styled.div`
   }
 `;
 
-class BlogPostTemplate extends React.Component {
-  render() {
-    const post = this.props.data.markdownRemark;
-    const siteTitle = get(this.props, 'data.site.siteMetadata.title');
+export default ({ data }) => {
+  const post = data.markdownRemark;
+  const siteTitle = data.site.siteMetadata.title;
 
-    return (
-      <Container>
-        <Helmet title={`${post.frontmatter.title} | ${siteTitle}`} />
-        <h1>{post.frontmatter.title}</h1>
-        <p>{post.frontmatter.date}</p>
-        <PostBody dangerouslySetInnerHTML={{ __html: post.html }} />
-      </Container>
-    );
-  }
-}
-
-export default BlogPostTemplate;
+  return (
+    <Container>
+      <Helmet title={`${post.frontmatter.title} | ${siteTitle}`} />
+      <h1>{post.frontmatter.title}</h1>
+      <p>{post.frontmatter.date}</p>
+      <PostBody dangerouslySetInnerHTML={{ __html: post.html }} />
+    </Container>
+  );
+};
 
 export const pageQuery = graphql`
   query BlogPostByPath($path: String!) {
