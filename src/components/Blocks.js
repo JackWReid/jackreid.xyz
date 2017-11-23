@@ -16,18 +16,9 @@ const Block = styled(Link)`
   overflow: hidden;
 `;
 
-const ExternalBlock = styled.a`
-  height: 100%;
-  width: 100%;
-  display: block;
-  text-decoration: none;
-  color: inherit;
-  grid-column: ${props => props.gridColumn};
-  grid-row: ${props => props.gridRow};
-  overflow: hidden;
-`;
+const ExternalBlock = Block.withComponent('a');
 
-const ArtBlock = styled(ExternalBlock)`
+const ArtBlock = ExternalBlock.extend`
   display: block;
   min-height: 10rem;
   background-color: ${props => props.color};
@@ -37,7 +28,7 @@ const ArtBlock = styled(ExternalBlock)`
   background-blend-mode: overlay;
 `;
 
-const AlbumBlock = styled(Block)`
+const AlbumBlock = Block.extend`
   display: flex;
   align-items: flex-end;
   justify-content: flex-end;
@@ -56,7 +47,7 @@ const AlbumBlock = styled(Block)`
   }
 `;
 
-const NewsBlock = styled(ExternalBlock)`
+const NewsBlock = ExternalBlock.extend`
   padding: 1rem;
   font-size: 2rem;
   text-align: right;
@@ -105,7 +96,7 @@ const IntroBlock = styled.div`
   border: 0.3rem solid pink;
 `;
 
-const MarbleBlock = styled(Block)`
+const MarbleBlock = Block.extend`
   display: block;
   padding: 1rem;
   background: linear-gradient(pink, pink),
