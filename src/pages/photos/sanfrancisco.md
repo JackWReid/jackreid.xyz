@@ -1,5 +1,5 @@
 ---
-title: Boston
+title: San Francisco
 path: "/photos/san-francisco/"
 ---
 
