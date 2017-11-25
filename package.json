@@ -29,7 +29,7 @@
     "prettier": "^1.6.1"
   },
   "now": {
-    "alias": ["jackreid.xyz", "jackwreid.uk"]
+    "alias": ["jackreid.xyz"]
   },
   "scripts": {
     "start": "serve ./public --single",
