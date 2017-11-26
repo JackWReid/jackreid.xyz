@@ -3,10 +3,9 @@ import Link from 'gatsby-link';
 import get from 'lodash/get';
 import Helmet from 'react-helmet';
 
-
 import { TopTrio } from '../components/Grids';
 import { IntroBlock } from '../components/Blocks';
-import HomeGrid from './HomeGrid';
+import HomeGrid from '../components/HomeGrid';
 
 export default ({ data }) => {
   const siteTitle = get(data, 'site.siteMetadata.title');
