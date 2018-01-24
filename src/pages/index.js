@@ -5,6 +5,7 @@ import Helmet from 'react-helmet';
 
 import { TopTrio } from '../components/Grids';
 import { IntroBlock } from '../components/Blocks';
+import { CurrentlyReading } from '../components/CurrentlyReading';
 import HomeGrid from '../components/HomeGrid';
 
 export default ({ data }) => {
@@ -22,6 +23,7 @@ export default ({ data }) => {
           </p>
           <p>I work at BuzzFeed.</p>
         </IntroBlock>
+        <CurrentlyReading />
       </TopTrio>
       <HomeGrid />
     </div>
