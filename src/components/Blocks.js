@@ -4,6 +4,7 @@ import Link from 'gatsby-link';
 
 import darkWaves from '../images/dark-waves.jpg';
 import marble from '../images/marble.jpg';
+import cracks from '../images/cracks.jpg';
 
 const Block = styled(Link)`
   height: 100%;
@@ -96,6 +97,19 @@ const IntroBlock = styled.div`
   border: 0.3rem solid pink;
 `;
 
+const FadeWaveBlock = styled.div`
+  grid-area: reading;
+  align-items: flex-start;
+  padding: 1rem;
+  text-align: left;
+  background: linear-gradient(pink, teal),
+    url(${cracks});
+  background-size: cover;
+  background-position: center;
+  background-blend-mode: screen;
+  border: 0.3rem solid teal;
+`;
+
 const MarbleBlock = Block.extend`
   display: block;
   padding: 1rem;
@@ -111,4 +125,4 @@ const MarbleBlock = Block.extend`
   }
 `;
 
-export { ArtBlock, NewsBlock, AlbumBlock, IntroBlock, MarbleBlock };
+export { ArtBlock, NewsBlock, AlbumBlock, IntroBlock, FadeWaveBlock, MarbleBlock };
