@@ -6,11 +6,9 @@ import Link from 'gatsby-link';
 import favicon from '../favicon.png';
 import '../reset.css';
 
-import Home from './Home';
-import BarePage from './BarePage';
+import Page from './Page';
 
 export default ({location, ...props}) => {
-  const Inner = location.pathname === '/' ? Home : BarePage;
   return (
     <div>
     <Helmet>
@@ -20,7 +18,7 @@ export default ({location, ...props}) => {
         rel="stylesheet"
       />
     </Helmet>
-    <Inner {...props} />
+    <Page {...props} />
     <script>
       {`
       if (typeof window === 'undefined') {

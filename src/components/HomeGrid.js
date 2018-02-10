@@ -1,6 +1,5 @@
 import React from 'react';
-
-import { PostGrid } from '../components/Grids';
+import styled from 'styled-components';
 
 import {
   IntroBlock,
@@ -18,6 +17,20 @@ import jonGold from '../images/jon-gold.jpg';
 import nixon from '../images/nixon.jpg';
 import rauchG from '../images/rauchg.jpg';
 
+export const PostGrid = styled.div`
+display: grid;
+grid-gap: 1rem;
+grid-template-columns: 1fr 1fr 1fr;
+grid-auto-rows: 16rem;
+
+@media screen and (max-width: 600px) {
+  display: block;
+
+  & > * {
+    margin-bottom: 1rem;
+  }
+}
+`;
 
 export default () => (
   <PostGrid>

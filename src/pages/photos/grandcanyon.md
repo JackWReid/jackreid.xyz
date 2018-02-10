@@ -1,6 +1,8 @@
 ---
 title: Grand Canyon
 path: "/photos/grand-canyon/"
+type: "photos"
+poster: "https://s3.eu-west-2.amazonaws.com/jackwreid/jackwreid/trips/grand-canyon/canyon-wide-bw.jpg"
 ---
 
 It took a fair bit of convincing for me to be on board with starting the trip out in Las Vegas. A big part of the argument for Vegas was the opportunity to visit the Grand Canyon, which I’ve been vastly underestimating until today.

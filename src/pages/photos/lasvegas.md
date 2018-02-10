@@ -1,6 +1,8 @@
 ---
 title: Las Vegas
 path: "/photos/las-vegas/"
+type: "photos"
+poster: "https://s3.eu-west-2.amazonaws.com/jackwreid/jackwreid/trips/las-vegas/strip-mgm.jpg"
 ---
 
 These past few days, I’ve just been finding myself saying “This doesn’t make any sense” over and over again. The scale of these hotel resorts makes no sense, the desert in the background of this golf course makes no sense. It goes on and on, the contradiction of this place. It’s a hell of thing to behold, though.

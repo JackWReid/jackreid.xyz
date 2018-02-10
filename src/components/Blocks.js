@@ -6,7 +6,7 @@ import darkWaves from '../images/dark-waves.jpg';
 import marble from '../images/marble.jpg';
 import cracks from '../images/cracks.jpg';
 
-const Block = styled(Link)`
+export const Block = styled(Link)`
   height: 100%;
   width: 100%;
   display: block;
@@ -17,9 +17,9 @@ const Block = styled(Link)`
   overflow: hidden;
 `;
 
-const ExternalBlock = Block.withComponent('a');
+export const ExternalBlock = Block.withComponent('a');
 
-const ArtBlock = ExternalBlock.extend`
+export const ArtBlock = ExternalBlock.extend`
   display: block;
   min-height: 10rem;
   background-color: ${props => props.color};
@@ -29,7 +29,7 @@ const ArtBlock = ExternalBlock.extend`
   background-blend-mode: overlay;
 `;
 
-const AlbumBlock = Block.extend`
+export const AlbumBlock = Block.extend`
   display: flex;
   align-items: flex-end;
   justify-content: flex-end;
@@ -48,7 +48,7 @@ const AlbumBlock = Block.extend`
   }
 `;
 
-const NewsBlock = ExternalBlock.extend`
+export const NewsBlock = ExternalBlock.extend`
   padding: 1rem;
   font-size: 2rem;
   text-align: right;
@@ -81,7 +81,7 @@ const NewsBlock = ExternalBlock.extend`
   }
 `;
 
-const IntroBlock = styled.div`
+export const IntroBlock = styled.div`
   grid-area: intro;
   display: flex;
   flex-flow: column;
@@ -97,7 +97,7 @@ const IntroBlock = styled.div`
   border: 0.3rem solid pink;
 `;
 
-const FadeWaveBlock = styled.div`
+export const FadeWaveBlock = styled.div`
   grid-area: reading;
   align-items: flex-start;
   padding: 1rem;
@@ -110,7 +110,7 @@ const FadeWaveBlock = styled.div`
   border: 0.3rem solid teal;
 `;
 
-const MarbleBlock = Block.extend`
+export const MarbleBlock = Block.extend`
   display: block;
   padding: 1rem;
   background: linear-gradient(pink, pink),
@@ -124,5 +124,3 @@ const MarbleBlock = Block.extend`
     font-size: 1.2rem;
   }
 `;
-
-export { ArtBlock, NewsBlock, AlbumBlock, IntroBlock, FadeWaveBlock, MarbleBlock };

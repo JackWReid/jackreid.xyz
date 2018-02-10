@@ -1,6 +1,8 @@
 ---
 title: Budapest
 path: "/photos/budapest/"
+type: "photos"
+poster: "https://s3.eu-west-2.amazonaws.com/jackwreid/jackwreid/trips/budapest/main.jpg"
 ---
 
 We kicked off our visit to Budapest with a couple of back to back history museum visits. Man, the 20th century history of Hungary is bleak. Nevertheless, it didn't mar our enjoyment of Budapest's many coffee and cake stops. Of all the influences that have poured into the city over the centuries, the persistent cloud cover brought out the Soviet patina. I'm into it.

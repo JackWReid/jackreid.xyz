@@ -1,6 +1,8 @@
 ---
 title: Los Angeles
 path: "/photos/los-angeles/"
+type: "photos"
+poster: "https://s3.eu-west-2.amazonaws.com/jackwreid/jackwreid/trips/los-angeles/highway-strip.jpg"
 ---
 
 You know the TV depictions of the Southern Californian bubblehead? It’s not a gross exaggeration. It took me until I was sat in a shopping mall in Hollywood to hear my first, but sure enough along came a woman with overlarge sunglasses, a Starbucks in one hand, and her iPhone and dog leash (attached to a just-barely-visible-to-the-naked-eye Chihuahua) in the other. She was complaining loudly about how Chet stood her up, but she thought the thing was sketchy anyway because who tries to plan a date at a taqueria?

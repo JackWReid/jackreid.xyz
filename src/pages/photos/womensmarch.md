@@ -1,6 +1,8 @@
 ---
 title: "Women's March"
 path: "/photos/womens-march/"
+type: "photos"
+poster: "https://s3.eu-west-2.amazonaws.com/jackwreid/jackwreid/photography/womens-march-17/crowd.jpg"
 ---
 
 The election of Donald Trump as President of The United States of America is pretty much a global disaster. I don't think anybody's certain what exactly to do. The Womens' March was definitely a solid first step in an ongoing pattern of dissent and resistance. I'm proud to have taken part.

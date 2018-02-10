@@ -1,6 +1,8 @@
 ---
 title: San Francisco
 path: "/photos/san-francisco/"
+type: "photos"
+poster: "https://s3.eu-west-2.amazonaws.com/jackwreid/jackwreid/trips/san-francisco/dusk-bay.jpg"
 ---
 
 I feel bad for Chicago, because I’m not very happy to be flying there from this city right now. I love this city so much, for so many reasons. This time around, I’ve managed to see so many more neighbourhoods and soak them in. From the Mission, to Castro, to North Beach, to the Marina  —  they are all so distinct and so alive.

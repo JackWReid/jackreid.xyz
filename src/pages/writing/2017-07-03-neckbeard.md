@@ -3,6 +3,7 @@ title: Neckbeard
 subtitle: A History
 date: "2017-07-03T22:12:03.284Z"
 path: "/writing/neckbeard/"
+type: "writing"
 ---
 
 Neckbeard. The epithet connotes a number of things about a person: that they are socially inept, immature, that they have particularly uncool hobbies and interests. In the current political context the word also suggests a right or alt-right (read: neo-fascist) leaning, too. Where did this label come from, and how did it come to represent all these things?

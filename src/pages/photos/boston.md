@@ -1,6 +1,8 @@
 ---
 title: Boston
 path: "/photos/boston/"
+type: "photos"
+poster: "https://s3.eu-west-2.amazonaws.com/jackwreid/jackwreid/trips/boston/boston-statehouse.jpg"
 ---
 
 More than the other cities we’ve been to, Boston felt like a place steeped in history. Nowhere more than here did you feel like the hard-won independence of the country was something worth applauding. Sure, we Europeans chuckle under our breath when excitable tour guides tell us how ancient this or that building from the 18th century is, but part of what makes the place impressive is what the country has managed to become in such a short space of time.

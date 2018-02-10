@@ -1,6 +1,8 @@
 ---
 title: Chicago
 path: "/photos/chicago/"
+type: "photos"
+poster: "https://s3.eu-west-2.amazonaws.com/jackwreid/jackwreid/trips/chicago/aerial-burbs.jpg"
 ---
 
 From across Lake Michigan (it’s a sea though, isn’t it? - let’s not kid ourselves), Chicago looks a frigid, imposing grid. You can see where the excess of ironwork from America’s past has stuck around and been forged into buildings that look as cold as the ground around them. At street level though, it’s a totally different beast. It’s basically New York City’s quieter, diminutive sibling. The architecture here is some of the best I’ve ever seen, and despite the numerous warnings we’d been getting about the cold  —  I found it pretty hospitable.

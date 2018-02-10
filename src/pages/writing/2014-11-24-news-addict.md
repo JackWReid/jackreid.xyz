@@ -3,6 +3,7 @@ title: Confessions of a News Addict
 subtitle: Getting my fix in the feed reader
 date: "2014-11-24T22:12:03.284Z"
 path: "/writing/news-addict/"
+type: "writing"
 ---
 
 Hello. My name is Jack…

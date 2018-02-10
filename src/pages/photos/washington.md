@@ -1,6 +1,8 @@
 ---
 title: Washington
 path: "/photos/washington/"
+type: "photos"
+poster: "https://s3.eu-west-2.amazonaws.com/jackwreid/jackwreid/trips/washington-dc/washington-monument-crowd.jpg"
 ---
 
 When we booked the trip, it didn’t occur to me — the significance of coming to the nation’s capital for our final stop. The capital was a good place to reflect back on all our stops over the past few weeks. It feels apart from the diverse country we just travelled all over. Yet, it contains the foci of pretty much every institution, every historical thread, every agency, every major national incident in the United States. There’s a museum for everything.

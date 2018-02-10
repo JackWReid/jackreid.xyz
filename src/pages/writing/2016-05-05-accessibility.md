@@ -3,6 +3,7 @@ title: That Accessibility Thing
 subtitle: The year that accessible design clicked for me, and the year I realised how awfully we’re doing
 date: "2016-05-05T22:12:03.284Z"
 path: "/writing/accessibility/"
+type: "writing"
 ---
 
 Last year, surgeons removed my grandad’s left leg below the knee. He has had the daily symptoms of diabetes for as long as I can remember. A visit to my grandparents’ house as a child meant being fascinated and unnerved in equal measure by insulin needles on the kitchen table, insulin needles piercing his belly.

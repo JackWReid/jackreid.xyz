@@ -1,6 +1,8 @@
 ---
 title: New York
 path: "/photos/newyork/"
+type: "photos"
+poster: "https://s3.eu-west-2.amazonaws.com/jackwreid/jackwreid/trips/new-york-city/rock-view.jpg"
 ---
 
 It seems almost inappropriate to put all of these photos in one post. The places we covered in the city are so different, and there’s so many different subjects in the photos below that they could be from a dozen different cities — but they’re not. They’re all from one crazy, smelly, stunning, exhausting city. Oh, and we didn’t even go to Brooklyn.

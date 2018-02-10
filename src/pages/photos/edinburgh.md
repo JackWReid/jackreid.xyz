@@ -1,6 +1,8 @@
 ---
 title: Edinburgh
 path: "/photos/edinburgh/"
+type: "photos"
+poster: "https://s3.eu-west-2.amazonaws.com/jackwreid/jackwreid/trips/edinburgh/skyline-dim.jpg"
 ---
 
 It seems like an eternity since we got back from the North American tour. That makes sense really, given that that trip bottomed out our bank accounts for pretty much a year. Getting back to it though, we had a really relaxed trip to Edinburgh for Hogmanay. It's a beautiful city, and for whatever reason I can't help but drastically exaggerate my Scottish ancestry while I'm there.
