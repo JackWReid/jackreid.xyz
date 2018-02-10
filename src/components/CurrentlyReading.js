@@ -4,7 +4,7 @@ import styled from 'styled-components';
 import { FadeWaveBlock } from './Blocks';
 
 const Block = FadeWaveBlock.extend`
-  opacity: ${props => props.loaded ? 1 : 0};
+  opacity: ${props => (props.loaded ? 1 : 0)};
   transition: opacity 1s ease-in-out;
 `;
 
@@ -18,12 +18,12 @@ const LilTitle = styled.h1`
 export class CurrentlyReading extends Component {
   state = {
     readingData: false,
-  }
+  };
 
   async componentDidMount() {
     const response = await fetch('https://api.jackreid.xyz/reading');
     const readingData = await response.json();
-    this.setState({readingData});
+    this.setState({ readingData });
   }
 
   render() {

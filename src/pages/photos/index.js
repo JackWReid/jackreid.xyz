@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 import styled from 'styled-components';
 
 import { PostGrid } from '../../components/Grids';
@@ -20,19 +20,21 @@ const SectionTitle = styled.h1`
 
 export default ({ data: { allMarkdownRemark: { edges } } }) => {
   const posts = edges
-  .filter(({node}) => node.frontmatter.type === 'photos')
-  .map(({node}) => node);
+    .filter(({ node }) => node.frontmatter.type === 'photos')
+    .map(({ node }) => node);
   return (
     <div>
       <SectionTitle>Photos</SectionTitle>
       <Grid>
-        {posts.map((post, key) =>
+        {posts.map((post, key) => (
           <AlbumBlock
             key={key}
             to={post.frontmatter.path}
-            image={post.frontmatter.poster}>
+            image={post.frontmatter.poster}
+          >
             <h1>{post.frontmatter.title}</h1>
-          </AlbumBlock>)}
+          </AlbumBlock>
+        ))}
       </Grid>
     </div>
   );

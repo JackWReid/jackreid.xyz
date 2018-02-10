@@ -6,7 +6,7 @@ import {
   MarbleBlock,
   NewsBlock,
   AlbumBlock,
-  ArtBlock
+  ArtBlock,
 } from '../components/Blocks';
 
 import hundredYears from '../images/100-years.jpg';
@@ -18,35 +18,31 @@ import nixon from '../images/nixon.jpg';
 import rauchG from '../images/rauchg.jpg';
 
 export const PostGrid = styled.div`
-display: grid;
-grid-gap: 1rem;
-grid-template-columns: 1fr 1fr 1fr;
-grid-auto-rows: 16rem;
+  display: grid;
+  grid-gap: 1rem;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-auto-rows: 16rem;
 
-@media screen and (max-width: 600px) {
-  display: block;
+  @media screen and (max-width: 600px) {
+    display: block;
 
-  & > * {
-    margin-bottom: 1rem;
+    & > * {
+      margin-bottom: 1rem;
+    }
   }
-}
 `;
 
 export default () => (
   <PostGrid>
-    <MarbleBlock
-      gridColumn="1 / 2"
-      gridRow="1 / 2"
-      to="/writing/neckbeard/"
-    >
+    <MarbleBlock gridColumn="1 / 2" gridRow="1 / 2" to="/writing/neckbeard/">
       <h1>Neckbeard</h1>
       <small>
         3<sup>rd</sup> July 2017
       </small>
       <p>
-        Neckbeard. The epithet connotes a number of things about a person:
-        that they are socially inept, immature, that they have particularly
-        uncool hobbies and interests.
+        Neckbeard. The epithet connotes a number of things about a person: that
+        they are socially inept, immature, that they have particularly uncool
+        hobbies and interests.
       </p>
     </MarbleBlock>
     <ArtBlock
@@ -67,9 +63,9 @@ export default () => (
       <h2>Hunter S. Thompson, 1994</h2>
       <p>
         <span>
-          “If the right people had been in charge of Nixon's funeral, his
-          casket would have been launched into one of those open-sewage
-          canals that empty into the ocean just south of Los Angeles.”
+          “If the right people had been in charge of Nixon's funeral, his casket
+          would have been launched into one of those open-sewage canals that
+          empty into the ocean just south of Los Angeles.”
         </span>
       </p>
     </NewsBlock>
@@ -79,8 +75,8 @@ export default () => (
         28<sup>th</sup> August 2015
       </small>
       <p>
-        @fat’s tone is irreverent, self-aware, acerbic, and ironic. It’s
-        just perfect for the historian of our times.
+        @fat’s tone is irreverent, self-aware, acerbic, and ironic. It’s just
+        perfect for the historian of our times.
       </p>
     </MarbleBlock>
     <NewsBlock
@@ -157,11 +153,10 @@ export default () => (
       <h2>Cass R. Sunstein, 2007 </h2>
       <p>
         <span>
-          A key consequence of this kind of self-sorting is what we might
-          call enclave extremism. When people end up in enclaves of
-          like-minded people, they usually move toward a more extreme point
-          in the direction to which the group's members were originally
-          inclined.
+          A key consequence of this kind of self-sorting is what we might call
+          enclave extremism. When people end up in enclaves of like-minded
+          people, they usually move toward a more extreme point in the direction
+          to which the group's members were originally inclined.
         </span>
       </p>
     </NewsBlock>

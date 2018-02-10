@@ -53,12 +53,8 @@ export default ({ data }) => {
       </TopTrio>
       <HomeGrid />
       <BinaryGrid>
-        <SectionLink to="/photos">
-          All Photos
-        </SectionLink>
-        <SectionLink to="/writing">
-          All Writing
-        </SectionLink>
+        <SectionLink to="/photos">All Photos</SectionLink>
+        <SectionLink to="/writing">All Writing</SectionLink>
       </BinaryGrid>
     </Page>
   );

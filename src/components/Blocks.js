@@ -89,8 +89,7 @@ export const IntroBlock = styled.div`
   align-items: center;
   text-align: center;
   padding: 1rem;
-  background: linear-gradient(pink, pink),
-    url(${darkWaves});
+  background: linear-gradient(pink, pink), url(${darkWaves});
   background-position: center;
   background-size: cover;
   background-blend-mode: screen;
@@ -102,8 +101,7 @@ export const FadeWaveBlock = styled.div`
   align-items: flex-start;
   padding: 1rem;
   text-align: left;
-  background: linear-gradient(pink, teal),
-    url(${cracks});
+  background: linear-gradient(pink, teal), url(${cracks});
   background-size: cover;
   background-position: center;
   background-blend-mode: screen;
@@ -113,8 +111,7 @@ export const FadeWaveBlock = styled.div`
 export const MarbleBlock = Block.extend`
   display: block;
   padding: 1rem;
-  background: linear-gradient(pink, pink),
-    url(${marble});
+  background: linear-gradient(pink, pink), url(${marble});
   background-size: cover;
   background-blend-mode: screen;
   border: 0.3rem solid pink;

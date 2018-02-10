@@ -8,19 +8,19 @@ import '../reset.css';
 
 import Page from './Page';
 
-export default ({location, ...props}) => {
+export default ({ location, ...props }) => {
   return (
     <div>
-    <Helmet>
-      <link rel="shortcut icon" href={favicon} type="image/png" />
-      <link
-        href="https://fonts.googleapis.com/css?family=Inconsolata:400,700"
-        rel="stylesheet"
-      />
-    </Helmet>
-    <Page {...props} />
-    <script>
-      {`
+      <Helmet>
+        <link rel="shortcut icon" href={favicon} type="image/png" />
+        <link
+          href="https://fonts.googleapis.com/css?family=Inconsolata:400,700"
+          rel="stylesheet"
+        />
+      </Helmet>
+      <Page {...props} />
+      <script>
+        {`
       if (typeof window === 'undefined') {
         return false;
       }
@@ -35,7 +35,7 @@ export default ({location, ...props}) => {
         return caches.delete(oldCacheKey);
       });
       `}
-    </script>
-  </div>
+      </script>
+    </div>
   );
-}
+};

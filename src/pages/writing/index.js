@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 import styled from 'styled-components';
 
 import { PostGrid } from '../../components/Grids';
@@ -20,18 +20,19 @@ const SectionTitle = styled.h1`
 
 export default ({ data: { allMarkdownRemark: { edges } } }) => {
   const posts = edges
-  .filter(({node}) => node.frontmatter.type === 'writing')
-  .map(({node}) => node);
+    .filter(({ node }) => node.frontmatter.type === 'writing')
+    .map(({ node }) => node);
   return (
     <div>
       <SectionTitle>Writing</SectionTitle>
       <Grid>
-        {posts.map((post, key) =>
+        {posts.map((post, key) => (
           <MarbleBlock key={key} to={post.frontmatter.path}>
             <h1>{post.frontmatter.title}</h1>
             <small>{new Date(post.frontmatter.date).toDateString()}</small>
             <p>{post.excerpt}</p>
-          </MarbleBlock>)}
+          </MarbleBlock>
+        ))}
       </Grid>
     </div>
   );
