@@ -20,10 +20,10 @@ export class CurrentlyReading extends Component {
     readingData: false,
   };
 
-  async componentDidMount() {
-    const response = await fetch('https://api.jackreid.xyz/reading');
-    const readingData = await response.json();
-    this.setState({ readingData });
+  componentDidMount() {
+    fetch('https://api.jackreid.xyz/reading')
+    .then(response => response.json())
+    .then(readingData => this.setState({ readingData }));
   }
 
   render() {
