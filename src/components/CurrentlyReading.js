@@ -22,8 +22,8 @@ export class CurrentlyReading extends Component {
 
   componentDidMount() {
     fetch('https://api.jackreid.xyz/reading')
-    .then(response => response.json())
-    .then(readingData => this.setState({ readingData }));
+      .then(response => response.json())
+      .then(readingData => this.setState({ readingData }));
   }
 
   render() {
