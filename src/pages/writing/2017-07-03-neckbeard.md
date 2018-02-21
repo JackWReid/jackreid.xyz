@@ -16,8 +16,6 @@ In the years after his matricide, his rule fell into decline until he finally fe
 
 For many centuries the history books fall silent on the topic of those to grow beards on their necks. Then all at once in Ulysses S. Grant's Reconstruction America, the neckbeard exploded back onto the scene asa part of two very different social movements.
 
-![Horace Greeley]()
-
 Horace Greeley was born in 1811 into immediate difficulty. For the first twenty minutes of his life the newborn Greeley was unable to breathe. His contemporaries later in life sometimes blamed his eccentricities on this early setback; his biographers speculate he may have developed Asperger's syndrome as a result of oxygen deprivation.
 
 Greeley rose to prominence as editor of the New-York Tribune in the Civil War period. In an interesting sidebar, Greeley's Tribune employed one Karl Marx as its London correspondent who filed hundreds of articles about European current affairs over the next decade, with the assistance of one Friedrich Engels.
