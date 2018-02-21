@@ -8,8 +8,6 @@ type: "writing"
 
 Neckbeard. The epithet connotes a number of things about a person: that they are socially inept, immature, that they have particularly uncool hobbies and interests. In the current political context the word also suggests a right or alt-right (read: neo-fascist) leaning, too. Where did this label come from, and how did it come to represent all these things?
 
-![Emperor Nero]()
-
 The first person of any significance to don the neckbeard was Emperor Nero. Nero's legacy is as one of the most compulsive and tyrannical rulers in Ancient Rome's history. The most notorious of his exploits is the probably apocryphal story of Nero (who fancied himself a great artist) playing his harp whilst the Great Fire of Rome raged on outside the palace walls. Rumours spread that he was responsible for the fire, having conspired to make way for a palace complex he later built atop the ruins. Perhaps most relevant to his place in the neckbeard tradition is his relation with his mother, Aggripina the Younger. Aggripina was by all accounts a ruthless schemer. The accusation goes that she poisoned Nero's predecessor Claudius in order to install her son as Emperor, so that she could easily exercise her own power through him.
 
 In 59AD, after years of "ruling" under his mother's influence, Nero allegedly killed Aggripina. What are we to make of this ur-neckbeard's fate as a frustrated young man reigning from his mother's metaphorical basement? The history that Tacitus passes down to us certainly cautions us on the dangers inherent in the ascension of the brat class. It also tells us much about how a neckbearded man regards his own role in a world that frustrates him.

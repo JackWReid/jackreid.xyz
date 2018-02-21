@@ -19,23 +19,6 @@ export default ({ location, ...props }) => {
         />
       </Helmet>
       <Page {...props} />
-      <script>
-        {`
-      if (typeof window === 'undefined') {
-        return false;
-      }
-
-      caches.keys().then(cacheKeys => {
-        if (!cacheKeys.includes(oldCacheKey)) {
-          console.log('ok cache!', cacheKeys);
-          return false;
-        }
-      
-        console.log('old cache!', cacheKeys);
-        return caches.delete(oldCacheKey);
-      });
-      `}
-      </script>
     </div>
   );
 };
