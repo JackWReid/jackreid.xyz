@@ -17,13 +17,13 @@ const LilTitle = styled.h1`
 
 export class CurrentlyReading extends Component {
   state = {
-    readingData: false,
+    readingData: false
   };
 
   componentDidMount() {
     fetch('https://api.jackreid.xyz/reading')
       .then(response => response.json())
-      .then(readingData => this.setState({ readingData }));
+      .then(readingData => readingData.title && this.setState({ readingData }));
   }
 
   render() {
