@@ -25,7 +25,3 @@ ul {
   text-decoration: none;
   text-shadow: .1em .1em pink; 
 }
-
-.pink-link:hover {
-  transform: translate(.1em);
-}
