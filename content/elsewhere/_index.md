@@ -6,6 +6,6 @@ draft: false
 
 - [Twitter](https://twitter.com/jackreid)
 - [Instagram](https://instagram.com/jackwreid)
-- [LinkedIn](https://linkedin.com)
-- [Goodreads](https://goodreads.com)
-- [Letterboxd](https://letterboxd.com)
+- [LinkedIn](https://www.linkedin.com/in/jackwreid/)
+- [Goodreads](https://www.goodreads.com/user/show/54047855-jack-reid)
+- [Letterboxd](https://letterboxd.com/jackreid/)
