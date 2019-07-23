@@ -4,5 +4,37 @@ html, body {
 
 body {
   margin: 0;
+  font-family: Inconsolata, monospace, sans-serif;
   background-color: #eef6f6;
+}
+
+.site-wrapper {
+  max-width: 50rem;
+  margin: 2rem auto 0;
+  padding: 0 1rem;
+}
+
+.site-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.site-header__title {
+  margin: 0;
+  font-size: 1rem;
+}
+
+.site-header__nav {
+  display: flex;
+}
+
+.site-header__nav-list {
+  display: contents;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.site-header__nav-list li:not(:last-child) {
+  margin-right: 1rem;
 }
