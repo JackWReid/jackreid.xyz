@@ -98,6 +98,16 @@ blockquote {
   transform: translateY(-6rem);
 }
 
+.homepage-article {
+  text-align: center;
+}
+
+.homepage-article ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
 /**
  * List pages
  */
