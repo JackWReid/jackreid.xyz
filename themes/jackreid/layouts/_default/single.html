@@ -1,40 +1,37 @@
 {{ define "main" }}
-<section id="main">
-  <h1 id="title">{{ .Title }}</h1>
-  <div>
-    <article id="content">
-      {{ .Content }}
-    </article>
-  </div>
-</section>
-<aside id="meta">
-  <div>
-    <section>
-      <h4 id="date"> {{ .Date.Format "Mon Jan 2, 2006" }} </h4>
-      <h5 id="wordcount"> {{ .WordCount }} Words </h5>
-    </section>
-    {{ with .Params.topics }}
-    <ul id="topics">
-      {{ range . }}
-      <li><a href="{{ "topics" | absURL }}{{ . | urlize }}">{{ . }}</a> </li>
-      {{ end }}
-    </ul>
-    {{ end }}
-    {{ with .Params.tags }}
-    <ul id="tags">
-      {{ range . }}
-      <li> <a href="{{ "tags" | absURL }}{{ . | urlize }}">{{ . }}</a> </li>
-      {{ end }}
-    </ul>
-    {{ end }}
-  </div>
-  <div>
+<nav class="single-sequence-nav">
+  <h2 class="single-sequence-nav__title">{{ .Section }}s</h2>
+  <ul class="single-sequence-nav__list">
     {{ with .PrevInSection }}
-    <a class="previous" href="{{.Permalink}}"> {{.Title}}</a>
+    <li class="single-sequence-nav__list-item">
+      <a class="single-sequence-nav__previous" href="{{.Permalink}}"> {{.Title}}</a>
+    </li>
     {{ end }}
     {{ with .NextInSection }}
-    <a class="next" href="{{.Permalink}}"> {{.Title}}</a>
+    <li class="single-sequence-nav__list-item">
+      <a class="single-sequence-nav__next" href="{{.Permalink}}"> {{.Title}}</a>
+    </li>
     {{ end }}
-  </div>
+  </ul>
+</nav>
+<section class="single-article__main single-article__main--{{ .Section }}">
+  <time class="single-article__date">
+    <a href="{{ .Permalink }}">{{ .Date.Format "2 January 2006" }}</a>
+  </time>
+  <h2 class="single-article__title">{{ .Title }}</h2>
+  <article class="single-article__article">
+    {{ .Content }}
+  </article>
+</section>
+<aside>
+  {{ with .Params.tags }}
+  <ul class="single-tags-list">
+    {{ range . }}
+    <li class="single-tags-list__item">
+      <a href="{{ "tags" | absURL }}/{{ . | urlize }}">{{ . }}</a>
+    </li>
+    {{ end }}
+  </ul>
+  {{ end }}
 </aside>
 {{ end }}
