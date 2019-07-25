@@ -19,4 +19,7 @@
   <meta name="twitter:site" content="@jackreid" />
   <meta name="twitter:creator" content="@jackreid" />
   <meta name="twitter:image" content="{{ "/open-graph.png" | absURL }}">
+  {{ if or (eq .Section "note") (eq .Section "post") }}
+  <meta name="twitter:description" content="{{ .Content | truncate 100 }}">
+  {{ end }}
 </head>
