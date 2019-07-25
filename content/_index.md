@@ -6,6 +6,10 @@ draft: false
 
 At [BuzzFeed](/work), in London.
 
+Right now I'm reading <span id="reading-mark">uhhhhhhhh..</span>.
+
+I just watched <span id="watched-mark">uhhhhhhhh..</span>.
+
 - [Twitter](https://twitter.com/jackreid)
 - [Instagram](https://instagram.com/jackwreid)
 - [LinkedIn](https://www.linkedin.com/in/jackwreid/)
