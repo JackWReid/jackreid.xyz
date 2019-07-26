@@ -18,6 +18,9 @@ exports.handler = async (event, context) => {
   const reading = goodreadsHtml(GOODREADS_SELECTOR)[0].children[0].data;
   const watched = letterboxdHtml(LETTERBOXD_SELECTOR)[0].attribs['data-film-name'];
 
+  console.log(`READING: ${reading}`);
+  console.log(`WATCHED: ${watched}`);
+
   return {
     statusCode: 200,
     headers: {
