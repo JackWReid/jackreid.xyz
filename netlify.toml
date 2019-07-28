@@ -1,4 +1,4 @@
 [build]
   publish = "public"
-  command = "hugo"
+  command = "hugo && npm i && npm run build-functions"
   functions = "./functions-build"

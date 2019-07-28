@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "netlify-lambda build functions",
-    "lambdas": "netlify-lambda serve functions-source"
+    "build-functions": "netlify-lambda build functions",
+    "serve-functions": "netlify-lambda serve functions"
   },
   "repository": {
     "type": "git",
