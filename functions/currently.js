@@ -25,6 +25,7 @@ exports.handler = async (event, context) => {
     statusCode: 200,
     headers: {
       'Content-Type': 'application/json',
+      'Cache-Control': 'max-age=7200', // 2 hours
     },
     body: JSON.stringify({
       reading,
