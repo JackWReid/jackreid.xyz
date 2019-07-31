@@ -10,6 +10,7 @@ tags:
 I started reading _Little_ by Edward Carey without knowing what it was about. Soon it emerged that it's a fictionalisation of the life of Madame Tussaud based on her memoirs. It is typical of a revolutionary French narrative in that it involves a exploited child orphan, the beautiful disarray of Paris at the time, and finally: no shortage of chance encounters with significant historical figures that begin to stretch the reader's credulity.
 
 I haven't finished the book yet but the young orphan has already had personal interactions with:
+
 - Jean-Jaques Rousseau
 - Voltaire
 - Louis XVI
