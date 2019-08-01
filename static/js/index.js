@@ -14,7 +14,9 @@ function updateCurrently({ reading, watched }) {
   return;
 }
 
-fetch('/.netlify/functions/currently')
-  .then(response => response.json())
-  .then(updateCurrently);
+if (document.querySelector('#reading-mark')) {
+  fetch('/.netlify/functions/currently')
+    .then(response => response.json())
+    .then(updateCurrently);
+}
 

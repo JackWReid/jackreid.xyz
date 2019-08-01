@@ -1,15 +1,6 @@
-const API_URL = 'http://transportapi.com/v3/uk/train';
-const API_APP_ID = process.env['TRANSPORT_API_ID'];
-const API_APP_KEY = process.env['TRANSPORT_API_KEY'];
-
-const STATION_MAP = {
-  'Euston': 'EUS',
-  'City Thameslink': 'CTK',
-};
-
 const trainBoard = ({ station_name, station_code, departures }) => `
   <section class="train-board">
-    <h2 class="train-board">${station_name} (${station_code.toUpperCase()})</h2>
+    <h3 class="train-board">${station_name} (${station_code.toUpperCase()})</h3>
     ${departuresList(departures)}
   </section>
 `;
@@ -50,8 +41,7 @@ const attachToDOM = (html, node) => {
 
 (async () => {
   async function fetchStationData(stationCode) {
-    const url =
-      `${API_URL}/station/${stationCode}/live.json?app_id=${API_APP_ID}&app_key=${API_APP_KEY}`;
+    const url = `/.netlify/functions/trains?station=${stationCode}`;
     const data = await fetch(url).then(d => d.json());
     return data;
   }
@@ -61,13 +51,13 @@ const attachToDOM = (html, node) => {
     if (!node) {
       return;
     }
+
     const station = new URLSearchParams(document.location.search).get('station') || 'CTK';
     const data = await fetchStationData(station);
     const html = trainBoard(data);
 
     return attachToDOM(html, node);
   }
-
   main();
 })();
 

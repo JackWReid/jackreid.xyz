@@ -5,4 +5,3 @@ draft: false
 ---
 
 <p id="trains">Loading train times...</p>
-<script src="{{ "trains.js" | absURL }}"></script>
