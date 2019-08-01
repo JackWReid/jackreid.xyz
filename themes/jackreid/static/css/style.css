@@ -212,3 +212,30 @@ blockquote {
 .single-tags-list__item a:before {
   content: '#';
 }
+
+/**
+ * Trains page
+ */
+.train-board__list {
+  width: 100%;
+  border-spacing: 0;
+}
+
+.train-board__list-header th {
+  padding: .4rem;
+  text-align: left;
+  text-decoration: underline;
+}
+
+
+.train-board__list-item:nth-child(2n) {
+  background-color: white;
+}
+
+.train-board__list-item td {
+  padding: .4rem;
+}
+
+.train-board__list-item--late td:last-child {
+  background-color: coral;
+}
