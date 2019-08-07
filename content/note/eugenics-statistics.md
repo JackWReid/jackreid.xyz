@@ -1,5 +1,5 @@
 ---
-title: "Eugenics &amp; Statistics"
+title: "Eugenics & Statistics"
 date: 2019-08-05T12:23:00+01:00
 draft: false
 tags:
