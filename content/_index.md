@@ -10,8 +10,12 @@ Right now I'm reading <span id="reading-mark">uhhhhhhhh..</span>.
 
 I just watched <span id="watched-mark">uhhhhhhhh..</span>.
 
-- [Twitter](https://twitter.com/jackreid)
-- [Instagram](https://instagram.com/jackwreid)
-- [LinkedIn](https://www.linkedin.com/in/jackwreid/)
-- [Goodreads](https://www.goodreads.com/user/show/54047855-jack-reid)
-- [Letterboxd](https://letterboxd.com/jackreid/)
+<ul>
+  <li><a rel="me" href="mailto:hello@jackreid.xyz">hello@jackreid.xyz</a></li>
+  <li><a rel="me" href="https://twitter.com/jackreid">Twitter</a></li>
+  <li><a rel="me" href="https://instagram.com/jackwreid">Instagram</a></li>
+  <li><a rel="me" href="https://linkedin.com/in/jackwreid">LinkedIn</a></li>
+  <li><a rel="me" href="https://goodreads.com/user/show/54047855-jack-reid">Goodreads</a></li>
+  <li><a rel="me" href="https://letterboxd.com/jackreid">Goodreads</a></li>
+</ul>
+
