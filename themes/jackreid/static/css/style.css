@@ -108,6 +108,28 @@ blockquote {
   list-style: none;
 }
 
+.h-card {
+  display: flex;
+  padding: 1rem;
+  background-color: rgb(247, 238, 228);
+  border-radius: 5px;
+}
+
+.u-photo {
+  width: 200px;
+}
+
+.h-card__details {
+  flex: 1;
+  display: block;
+  margin-left: 1rem;
+  text-align: left;
+}
+
+.h-card__details p:first-child {
+  margin-top: 0;
+}
+
 /**
  * List pages
  */
