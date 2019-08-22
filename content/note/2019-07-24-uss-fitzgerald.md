@@ -1,5 +1,6 @@
 ---
 title: The Sinking of the USS Fitzgerald
+slug: uss-fitzgerald
 date: 2019-07-24T21:23:00+01:00
 draft: false
 tags:

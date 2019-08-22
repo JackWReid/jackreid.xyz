@@ -1,5 +1,6 @@
 ---
 title: "The Académie Française"
+slug: academie-francaise
 date: 2019-08-05T11:34:00+01:00
 draft: false
 tags:

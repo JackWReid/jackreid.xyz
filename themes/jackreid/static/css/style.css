@@ -32,6 +32,11 @@ a:focus {
   outline: 5px solid white;
 }
 
+img {
+  display: block;
+  max-width: 100%;
+}
+
 blockquote {
   margin: 0;
   padding-left: 1rem;

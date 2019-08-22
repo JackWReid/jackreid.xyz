@@ -1,5 +1,6 @@
 ---
 title: "William Carlos Williams on love and cruelty"
+slug: carlos-williams-love
 date: 2019-07-24T08:37:00+01:00
 draft: false
 tags:
