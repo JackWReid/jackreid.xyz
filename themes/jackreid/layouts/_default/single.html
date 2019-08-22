@@ -22,7 +22,7 @@
   <article class="single-article__article">
     {{ with .Resources.ByType "image" }}
       {{ range . }}
-        <img class="single-article__resource-image" src="{{ .RelPermalink }}" alt="{{ .Name }}">
+        <img class="single-article__resource-image" src="{{ .RelPermalink | absURL}}" alt="{{ .Name }}">
       {{ end }}
     {{ end }}
     {{ if .Params.instagram }}

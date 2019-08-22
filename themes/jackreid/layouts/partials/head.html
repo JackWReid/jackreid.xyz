@@ -24,8 +24,8 @@
   {{ if eq .Section "photo" }}
     {{ with index (.Resources.ByType "image") 0 }}
     {{ $image := .Fit "600x300" }}
-    <meta property="og:image" content="{{ $image.RelPermalink }}">
-    <meta name="twitter:image" content="{{ $image.RelPermalink }}">
+    <meta property="og:image" content="{{ $image.RelPermalink | absURL }}">
+    <meta name="twitter:image" content="{{ $image.RelPermalink | absURL }}">
     {{ end }}
   {{ else }}
     <meta property="og:image" content="{{ "/open-graph.png" | absURL }}">
