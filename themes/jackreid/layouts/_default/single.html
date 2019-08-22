@@ -20,6 +20,15 @@
   </time>
   <h2 class="single-article__title">{{ .Title }}</h2>
   <article class="single-article__article">
+    {{ with .Resources.ByType "image" }}
+      {{ range . }}
+        <img class="single-article__resource-image" src="{{ .RelPermalink }}" alt="{{ .Name }}">
+      {{ end }}
+    {{ end }}
+    {{ if .Params.instagram }}
+      <a href="https://instagram.com/p/{{.Params.instagram}}">Also available on Instagram</a>
+    {{ end }}
+
     {{ .Content }}
   </article>
 </section>

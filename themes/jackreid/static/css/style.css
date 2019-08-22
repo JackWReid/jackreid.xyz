@@ -163,6 +163,10 @@ blockquote {
   padding: 1rem;
 }
 
+.single-article__resource-image {
+  margin-bottom: 1rem;
+}
+
 .single-sequence-nav {
   border-top: 2px solid pink;
   border-bottom: 2px solid pink;
