@@ -11,7 +11,7 @@
       <li class="note-list__list-item">
         {{ with index (.Resources.ByType "image") 0 }}
           {{ $image := .Resize "600x" }}
-          <img src="{{ $image.RelPermalink }}" alt="{{ .Title }}">
+          <img src="{{ $image.RelPermalink | absURL }}" alt="{{ .Title }}">
         {{ end }}
         <h2 class="note-list__list-item-title">{{ .Title }}</h2>
         <a class="note-list__list-item-permalink" href="{{.Permalink}}">{{.Date.Format "2 January 2006"}}</a>
