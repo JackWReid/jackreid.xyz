@@ -17,5 +17,6 @@ I just watched <span id="watched-mark">uhhhhhhhh..</span>.
   <li><a rel="me" href="https://linkedin.com/in/jackwreid">LinkedIn</a></li>
   <li><a rel="me" href="https://goodreads.com/user/show/54047855-jack-reid">Goodreads</a></li>
   <li><a rel="me" href="https://letterboxd.com/jackreid">Letterboxd</a></li>
+  <li><a rel="me" href="https://mastodon.social/@jackreid">Mastodon</a></li>
 </ul>
 
