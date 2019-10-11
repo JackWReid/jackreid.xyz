@@ -5,9 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "netlify dev",
-    "build-functions": "netlify-lambda build functions",
-    "serve-functions": "netlify-lambda serve functions"
+    "dev": "netlify dev"
   },
   "repository": {
     "type": "git",
@@ -25,7 +23,6 @@
     "cheerio": "^1.0.0-rc.3"
   },
   "devDependencies": {
-    "netlify-cli": "^2.12.0",
-    "netlify-lambda": "^1.5.0"
+    "netlify-cli": "^2.12.0"
   }
 }
