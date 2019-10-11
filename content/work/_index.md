@@ -6,6 +6,8 @@ draft: false
 
 All of this is available on [LinkedIn](https://www.linkedin.com/in/jackwreid/) too, if that's more your thing.
 
+<img style="margin: 5rem 0 2rem;" src="./images/buzzfeed.svg" alt="BuzzFeed Logo" />
+
 ## BuzzFeed: (2017—)
 I work at BuzzFeed as a Senior Software Engineer. I've been on loads of different projects while I've been there so I'll just pick out a couple of interesting ones.
 
@@ -31,6 +33,8 @@ BuzzFeed News had long suffered from being mixed up with the less serious BuzzFe
 We build buzzfeednews.com from the ground up, but in accordance with established patterns already used by BuzzFeed Tech. We worked very closely with stakeholders in the newsroom to get a very specific set of requirements.
 
 One challenge particular to our news site is the highlighly configurable splash on the homepage. Our editors need to be able to respond to every kind of news day by configuring a very flexible hompage. So we gave them plenty of elements to play with: a breaking bar, a trending topics bar, and a splash with multiple layouts.
+
+<img style="margin: 5rem 0 2rem;" src="./images/depop.svg" alt="Depop Logo" />
 
 ## Depop: (2016—2017)
 Depop was my first "real" job in tech! They took a chance on an a young guy with no Computer Science degree, and who'd been working as a freelance web developer for a couple of years. Depop is a marketplace for selling second-hand and vintage clothes and other style items. When I arrived, it was an iOS app with just a marketing website.
