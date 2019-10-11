@@ -1,4 +1,5 @@
 function updateCurrently({ reading, watched }) {
+  console.log(reading, watched);
   const readingMark = document.querySelector('#reading-mark');
   const watchedMark = document.querySelector('#watched-mark');
   const readingLinkEl = document.createElement('a');
@@ -15,7 +16,7 @@ function updateCurrently({ reading, watched }) {
 }
 
 if (document.querySelector('#reading-mark')) {
-  fetch('/.netlify/functions/currently')
+  fetch('https://api.jackreid.xyz/currently')
     .then(response => response.json())
     .then(updateCurrently);
 }
