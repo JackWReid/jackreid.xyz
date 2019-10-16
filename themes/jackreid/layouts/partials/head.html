@@ -2,6 +2,12 @@
   <title>{{ .Title }} | {{ .Site.Title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="canonical" href="{{ .Permalink }}">
+  {{ if or (eq .Section "note") (eq .Section "post") }}
+    <meta name="description" content="{{ .Content | truncate 100 }}">
+  {{ end }}
+  {{ if .IsHome }}
+    <meta name="description" content="I'm a software engineer working at BuzzFeed in London. I also do a little bit of photography, a lot of reading, and a bit of writing.">
+  {{ end }}
   {{ if .IsHome }}
   <link href="https://fonts.googleapis.com/css?family=VT323&display=swap&text=jackreid" rel="stylesheet">
   {{ end }}
