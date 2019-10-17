@@ -79,6 +79,10 @@ blockquote {
   margin-right: 1rem;
 }
 
+.site-footer {
+  margin-top: 2rem;
+}
+
 /**
  * Homepage
  */
