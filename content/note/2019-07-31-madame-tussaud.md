@@ -4,7 +4,7 @@ slug: madame-tussaud
 date: 2019-07-31T11:32:00+01:00
 draft: false
 tags:
-  - books
+  - book
   - history
 ---
 

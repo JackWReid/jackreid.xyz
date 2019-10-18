@@ -4,7 +4,7 @@ slug: aristophanes-wasps
 date: 2019-10-01T11:23:00+01:00
 draft: false
 tags:
-  - books
+  - book
 ---
 
 I read the Penguin Classics translation of _Wasps_ by Aristophanes the other day. It's a satirical play about how an older generation of Athenians who fought in the Peloponnesian War were taken in by a pandering demagogue called Cleon. To grasp what's happening and get the jokes, you have to know a little bit about the context of Athenian politics at the time and how the jury system worked. But all of that is explained in a very quick note at the beginning of the edition.

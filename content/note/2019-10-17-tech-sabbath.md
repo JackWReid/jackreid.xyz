@@ -4,8 +4,8 @@ slug: tech-sabbath
 date: 2019-10-17T10:05:00+01:00
 draft: false
 tags:
-  - books
-  - articles
+  - book
+  - article
   - tech
 ---
 
