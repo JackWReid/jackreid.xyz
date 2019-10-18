@@ -1,5 +1,6 @@
 ---
 title: The Professor
+subtitle: A short story about an egotistical man and his wife
 date: 2018-10-27T15:03:42+01:00
 draft: false
 tags:

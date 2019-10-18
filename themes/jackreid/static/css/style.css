@@ -132,13 +132,13 @@ blockquote {
 /**
  * List pages
  */
-.list-page__list {
+.list-page__list, .post-list__list {
   margin: 2rem 0 0;
   padding: 0;
   list-style: none;
 }
 
-.list-page__list-item {
+.list-page__list-item, .post-list__list {
   margin-bottom: 3rem;
 }
 
@@ -158,13 +158,31 @@ blockquote {
 }
 
 .note-list__list-item {
-  margin-bottom: 3rem;
+  margin-bottom: 1rem;
   padding: 1rem;
   border: 2px dotted pink;
 }
 
 .note-list__list-item-title {
   margin-top: .5rem;
+}
+
+.post-list__list-item {
+  margin-bottom: 4rem;
+}
+
+.post-list__list-item-title {
+  margin: 0;
+}
+
+.post-list__list-item-subtitle {
+  margin: 0;
+}
+
+.post-list__list-item-date{
+  display: block;
+  margin-top: .5rem;
+  font-style: italic;
 }
 
 /**
