@@ -5,7 +5,6 @@ date: 2018-10-27T15:03:42+01:00
 draft: false
 tags:
   - short story
-  - creative writing
 ---
 
 The emcee stood off to the side of the stage in darkness and in a rented tux. Standing in amongst the clutter of the backstage area he swallowed a choke as he tried to clear his throat quietly. Reaching into his jacket pocket he felt the thick stack of note cards there and shut his eyes for a moment, allowing the cool calm of their presence to wash through him. He turned to his side and gestured to the drama student stooped over the lighting board. He removed the note cards from his pocket, gripped them lightly in his hand, and climbed the steps at the side of the stage as the heat and glare of the lights rose all around him.

@@ -4,7 +4,6 @@ subtitle: A short story from the perspective of a cockpit voice recorder
 date: 2018-09-04T15:03:42+01:00
 draft: false
 tags:
-  - creative writing
   - short story
 ---
 
