@@ -234,7 +234,13 @@ blockquote {
 }
 
 .single-article__title {
-  margin-top: .5rem;
+  margin: .5rem 0 0;
+}
+
+.single-article__subtitle {
+  margin-top: 0;
+  font-weight: normal;
+  font-style: italic;
 }
 
 .single-article__main--photoset img {

@@ -9,7 +9,7 @@ tags:
   - accessibility
 ---
 
-The year that accessible design clicked for me, and the year I realised how awfully we’re doing...
+![Elderly man in profile](/images/poppy.jpg)
 
 Last year, surgeons removed my grandad’s left leg below the knee. He has had the daily symptoms of diabetes for as long as I can remember. A visit to my grandparents’ house as a child meant being fascinated and unnerved in equal measure by insulin needles on the kitchen table, insulin needles piercing his belly.
 

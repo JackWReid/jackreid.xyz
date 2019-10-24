@@ -19,6 +19,7 @@
     <a href="{{ .Permalink }}">{{ .Date.Format "2 January 2006" }}</a>
   </time>
   <h2 class="single-article__title">{{ .Title }}</h2>
+  <h3 class="single-article__subtitle">{{ .Params.subtitle }}</h3>
   <article class="single-article__article">
     {{ with .Resources.ByType "image" }}
       {{ range . }}
