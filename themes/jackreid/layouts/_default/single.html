@@ -23,7 +23,7 @@
   <article class="single-article__article">
     {{ with .Resources.ByType "image" }}
       {{ range . }}
-        {{ $image := .Resize "600x" }}
+        {{ $image := .Resize "800x" }}
         <img class="single-article__resource-image" src="{{ $image.RelPermalink | absURL }}" alt="{{ .Name }}">
       {{ end }}
     {{ end }}

@@ -10,7 +10,7 @@
     {{ range .Pages }}
       <li class="note-list__list-item">
         {{ with index (.Resources.ByType "image") 0 }}
-          {{ $image := .Resize "600x" }}
+          {{ $image := .Resize "800x" }}
           <img src="{{ $image.RelPermalink | absURL }}" alt="{{ .Title }}">
         {{ end }}
         <h2 class="note-list__list-item-title">{{ .Title }}</h2>

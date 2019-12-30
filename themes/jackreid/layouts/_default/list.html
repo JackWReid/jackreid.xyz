@@ -1,8 +1,8 @@
 {{ define "main" }}
 <main>
-  <article>
+  <article class="list-page__main">
     <header>
-      <h1>{{if eq .Kind "taxonomy"}}#{{end}}{{.Title}}</h1>
+      <h1 class="u-title">{{if eq .Kind "taxonomy"}}#{{end}}{{.Title}}</h1>
     </header>
     {{.Content}}
   </article>

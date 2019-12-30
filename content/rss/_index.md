@@ -4,8 +4,6 @@ date: 2019-10-17T18:26:00+01:00
 draft: false
 ---
 
-I've got RSS feeds of most of this stuff: my notes, photos, posts. They're linked below.
-
 - [Everything](https://jackreid.xyz/index.xml)
 - [Notes](https://jackreid.xyz/note/index.xml)
 - [Posts](https://jackreid.xyz/post/index.xml)
