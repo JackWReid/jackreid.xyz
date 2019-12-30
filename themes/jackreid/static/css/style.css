@@ -33,6 +33,10 @@ a:visited {
   text-decoration: underline dashed var(--c-accent);
 }
 
+h1, h2, h3, h4, h5, h6 {
+  color: var(--c-title);
+}
+
 a:hover, a:focus {
   color: white;
   background-color: var(--c-accent);
@@ -207,33 +211,6 @@ blockquote {
  */
 .single-article__main {
   margin-top: 2rem;
-}
-
-.single-article__main h1,
-.single-article__main h2, 
-.single-article__main h3,
-.single-article__main h4,
-.single-article__main h5,
-.single-article__main h6 {
-  color: var(--c-title);
-}
-
-.list-page__main h1,
-.list-page__main h2, 
-.list-page__main h3,
-.list-page__main h4,
-.list-page__main h5,
-.list-page__main h6 {
-  color: var(--c-title);
-}
-
-.note-list__list-item h1,
-.note-list__list-item h2,
-.note-list__list-item h3,
-.note-list__list-item h4,
-.note-list__list-item h5,
-.note-list__list-item h6 {
-  color: var(--c-title);
 }
 
 .single-article__main--note {
