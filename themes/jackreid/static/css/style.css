@@ -227,6 +227,15 @@ blockquote {
   color: var(--c-title);
 }
 
+.note-list__list-item h1,
+.note-list__list-item h2,
+.note-list__list-item h3,
+.note-list__list-item h4,
+.note-list__list-item h5,
+.note-list__list-item h6 {
+  color: var(--c-title);
+}
+
 .single-article__main--note {
   border: 2px dotted var(--c-accent);
   padding: 1rem;
