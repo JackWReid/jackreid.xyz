@@ -77,6 +77,12 @@ blockquote {
   justify-content: space-between;
 }
 
+@media screen and (max-width: 40rem) {
+  .site-header {
+    display: block;
+  }
+}
+
 .site-header__title {
   margin: 0;
   font-size: 1rem;
@@ -255,6 +261,30 @@ blockquote {
   content: ' >';
 }
 
+.single-static-nav {
+  border-top: 2px solid var(--c-accent);
+  border-bottom: 2px solid var(--c-accent);
+  margin-top: 2rem;
+  padding: 1rem 0;
+}
+
+.single-static-nav__title {
+  margin: 0 0 .5rem;
+  color: var(--c-title);
+  text-transform: capitalize;
+}
+
+.single-static-nav__list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+}
+
+.single-static-nav__list-item {
+  margin-right: 1rem;
+}
+
 .single-article__title {
   margin: .5rem 0 0;
   color: var(--c-title);
@@ -308,4 +338,34 @@ blockquote {
   text-shadow: 3px 3px 0 var(--c-accent);
   text-transform: lowercase;
   transform: translateY(-12rem);
+}
+
+/**
+ * Book Table
+ */
+
+.book-table {
+  width: 100%;
+}
+
+.book-table th, td {
+  text-align: left;
+}
+
+.book-table thead {
+  color: var(--c-accent);
+  text-transform: uppercase;
+}
+
+.book-table td {
+  padding: .5rem 0;
+  vertical-align: top;
+}
+
+.book-table__date {
+  width: 6rem;
+}
+
+.book-table__title {
+  font-weight: bold;
 }

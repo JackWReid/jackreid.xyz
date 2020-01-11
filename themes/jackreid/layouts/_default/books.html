@@ -1,23 +1,19 @@
 {{ define "main" }}
+<nav class="single-static-nav">
+  <h2 class="single-static-nav__title">Books</h2>
+  <ul class="single-static-nav__list">
+    <li class="single-static-nav__list-item">
+      <a class="" href="/books/read">Read</a>
+    </li>
+    <li class="single-static-nav__list-item">
+      <a class="" href="/books/reading">Reading</a>
+    </li>
+    <li class="single-static-nav__list-item">
+      <a class="" href="/books/toread">To Read</a>
+    </li>
+  </ul>
+</nav>
 <article class="books-article">
   {{ .Content }}
-  <table>
-    <thead>
-      <tr>
-        <th>Date</th>
-        <th>Title</th>
-        <th>Author</th>
-      </tr>
-    </thead>
-    <tbody>
-    {{ range $.Site.Data.books.read }}
-    <tr>
-      <td>{{ dateFormat "2 Jan" .date_updated }}</td>
-      <td>{{ .title }}<td>
-      <td>{{ .name }}</td>
-    </tr>
-    {{ end }}
-    </tbody>
-  </table>
 </article>
 {{ end }}
