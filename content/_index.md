@@ -4,11 +4,7 @@ date: 2019-07-23T15:51:00+01:00
 draft: false
 ---
 
-At [BuzzFeed](/work), in London.
-
-Right now I'm reading <span id="reading-mark">uhhhhhhhh..</span>.
-
-I just watched <span id="watched-mark">uhhhhhhhh..</span>.
+<p>I just watched <span id="watched-mark">uhhhhhhhh..</span>.</p>
 
 <ul>
   <li><a rel="me" href="mailto:hello@jackreid.xyz">hello@jackreid.xyz</a></li>

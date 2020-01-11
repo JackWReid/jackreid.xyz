@@ -2,6 +2,9 @@
 <div class="homepage-logo"></div>
 <h1 class="homepage-title">{{ .Site.Title }}</h1>
 <article class="homepage-article">
+  {{ $reading := index .Site.Data.books.reading 0 }}
+  <p>At <a href="/work">BuzzFeed</a>, in London.</p>
+  <p>Right now I'm reading <a href="https://www.goodreads.com/user/show/54047855-jack-reid">{{ $reading.title }}</a>.</p>
 {{ .Content }}
 </article>
 {{ end }}
