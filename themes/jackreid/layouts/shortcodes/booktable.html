@@ -19,7 +19,7 @@
   <tbody>
     {{ range $data }}
     <tr>
-      <td class="book-table__date">{{ dateFormat "2 Jan" .date_updated }}</td>
+      <td class="book-table__date">{{ dateFormat "2 Jan '06" .date_updated }}</td>
       <td class="book-table__title">{{ .title }}</td>
       <td class="book-table__author">{{ .name }}</td>
     </tr>

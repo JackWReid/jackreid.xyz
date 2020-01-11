@@ -77,12 +77,6 @@ blockquote {
   justify-content: space-between;
 }
 
-@media screen and (max-width: 40rem) {
-  .site-header {
-    display: block;
-  }
-}
-
 .site-header__title {
   margin: 0;
   font-size: 1rem;
@@ -92,6 +86,22 @@ blockquote {
 .site-header__nav {
   display: flex;
 }
+
+@media screen and (max-width: 40rem) {
+  .site-header {
+    display: block;
+  }
+
+  .site-header__title {
+    text-align: center;
+    margin-bottom: .5rem;
+  }
+
+  .site-header__nav {
+    justify-content: center;
+  }
+}
+
 
 .site-header__nav-list {
   display: contents;
