@@ -2,7 +2,7 @@
 
 echo 'Starting book data update'
 rm -rv ./tmp;
-git co -f;
+git checkout -f;
 git pull origin master;
 
 # Download latest data from API
