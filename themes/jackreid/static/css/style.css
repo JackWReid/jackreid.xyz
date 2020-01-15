@@ -353,7 +353,6 @@ blockquote {
 /**
  * Book Table
  */
-
 .book-table {
   width: 100%;
 }
@@ -378,4 +377,27 @@ blockquote {
 
 .book-table__title {
   font-weight: bold;
+}
+
+/**
+ * Share Form
+ */
+#noteform input, #noteform label {
+  display: block;
+}
+
+#noteform label {
+  margin-bottom: .5rem;
+}
+
+#noteform input, #noteform textarea {
+  margin-bottom: 2rem;
+  width: 100%;
+  font-size: 1rem;
+  padding: .5rem;
+}
+
+#noteform input[type=submit] {
+  margin: 0 auto;
+  width: 10rem;
 }
