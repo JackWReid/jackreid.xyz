@@ -71,10 +71,7 @@ function onSubmit(e) {
 
   const md = `
 ---
-title: "${sanitize(vals.title)}"\n
-slug: ${vals.slug}\n
-date: ${date}\n
-tags:
+title: "${sanitize(vals.title)}"\nslug: ${vals.slug}\ndate: ${date}\ntags:
 ${vals.tags.map(t => `  - ${t}`).join('\n')}
 ---
 
@@ -112,7 +109,7 @@ function prefill() {
     bodyEl.value =
 `> ${decodeURIComponent(params.body)}
 
-— [${decodeURIComponent(params.title)}](${decodeURIComponent(params.url)})`;
+&mdash; [${decodeURIComponent(params.title)}](${decodeURIComponent(params.url)})`;
   }
 
   tagsEl.value = 'link, article';
