@@ -38,9 +38,12 @@ function publishPost (filename, md) {
       messageEl.innerText = 'Failed!';
     }
   });
+
 }
 
-function onSubmit() {
+function onSubmit(e) {
+  e.preventDefault();
+
   const vals = {
     title: titleEl.value,
     body: bodyEl.value,
@@ -93,8 +96,9 @@ function prefill() {
 
   if (params.body && params.url) {
     bodyEl.value =
-      `> ${decodeURI(params.body)}
-— [${decodeURI(params.title)}](${params.url})`;
+`> ${decodeURI(params.body)}
+
+— [${decodeURI(params.title)}](${decodeURI(params.url)})`;
   }
 
   tagsEl.value = 'link, article';
