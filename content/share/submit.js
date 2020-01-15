@@ -7,13 +7,27 @@ const tagsEl = formEl.querySelector('#tags');
 const slugEl = formEl.querySelector('#slug');
 const tokenEl = formEl.querySelector('#ghtoken');
 
+const sanitize = str => {
+    // replace endash and emdash with hyphens
+    str = str.replace(/–/g, '-')
+    str = str.replace(/—/g, '-')
+
+    // replace double quotes and apostrophes
+    str = str.replace(/"/g, "'")
+    str = str.replace(/“/g, "'")
+    str = str.replace(/”/g, "'")
+    str = str.replace(/’/g, "'")
+
+    return str.trim()
+}
+
 function publishPost (filename, md) {
   const messageEl = document.querySelector('#submitmessage');
   const url = API_FILE_TARGET + filename;
 
   const payload = {
     message: `Shared note: ${filename}`,
-    content: btoa(md),
+    content: btoa(sanitize(md)),
     committer: {
       name: 'Jack Reid',
       email: 'hello@jackreid.xyz'
@@ -57,7 +71,7 @@ function onSubmit(e) {
 
   const md = `
 ---
-title: "${vals.title}"\n
+title: "${sanitize(vals.title)}"\n
 slug: ${vals.slug}\n
 date: ${date}\n
 tags:
