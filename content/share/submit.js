@@ -96,9 +96,9 @@ function prefill() {
 
   if (params.body && params.url) {
     bodyEl.value =
-`> ${decodeURI(params.body)}
+`> ${decodeURIComponent(params.body)}
 
-— [${decodeURI(params.title)}](${decodeURI(params.url)})`;
+— [${decodeURIComponent(params.title)}](${decodeURIComponent(params.url)})`;
   }
 
   tagsEl.value = 'link, article';
