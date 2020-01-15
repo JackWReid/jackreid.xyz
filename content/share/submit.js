@@ -91,7 +91,7 @@ function prefill() {
   const params = parseQs(location.search.split('?')[1]); 
 
   if (params.title) {
-    titleEl.value = params.title;
+    titleEl.value = decodeURIComponent(params.title);
   }
 
   if (params.body && params.url) {
