@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-echo 'Starting book data update'
+echo "[$(data)] Starting book data update"
 rm -rv ./tmp;
 git checkout -f;
 git pull origin master;
@@ -15,4 +15,10 @@ curl -L https://api.jackreid.xyz/books/read -o ./tmp/read.json;
 rm -r ./data/books; mv ./tmp ./data/books;
 
 # Update git
-git add data && git commit -m 'update books' && git push origin master;
+if [ -z "$(git status --porcelain)" ]; then
+	echo "[$(date)] Changes found"
+	git diff;
+	git add data && git commit -m "[$(date)] Update books" && git push origin master;
+else
+	echo "[$(date) No changes found"
+fi
