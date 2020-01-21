@@ -19,5 +19,5 @@ if [ -z "$(git status --porcelain)" ]; then
 	echo "[$(date)] No changes found"
 else
 	echo "[$(date)] Changes found"
-	git add data && git commit -m "[$(date)] Update books" && git push origin master;
+	git add . && git commit -m "[$(date)] Update books" && git push origin master;
 fi
