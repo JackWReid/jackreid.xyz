@@ -3,8 +3,10 @@
 <h1 class="homepage-title">{{ .Site.Title }}</h1>
 <article class="homepage-article">
   {{ $reading := index .Site.Data.books.reading 0 }}
+  {{ $watched := index .Site.Data.films.watched 0 }}
   <p>At <a href="/work">BuzzFeed</a>, in London.</p>
-  <p>Right now I'm reading <a href="https://www.goodreads.com/user/show/54047855-jack-reid">{{ $reading.title }}</a>. More on reading <a href="/books/read">here</a>.</p>
+  <p>Right now I'm reading <a href="/books/reading">{{ $reading.title }}</a>. More on reading <a href="/books/read">here</a>.</p>
+  <p>I just watched <a href="/films/watched">{{ $watched.name }}</a>.</p>
 {{ .Content }}
 </article>
 {{ end }}
