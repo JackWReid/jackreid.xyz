@@ -164,6 +164,10 @@ blockquote {
   list-style: none;
 }
 
+.homepage-article h3 {
+  margin-top: 3rem;
+}
+
 /**
  * List pages
  */

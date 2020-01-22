@@ -1,9 +1,14 @@
+{{ $scratch := newScratch }}
+
 {{ $data := "nil" }}
-{{ $key := index .Params 0 }}
+
+{{ $key := .Get "key" }}
+{{ $scratch.Set "limit" (.Get "limit" | default 10000) }}
+
 {{ if eq $key "watched" }}
-  {{ $data = $.Site.Data.films.watched}}
+  {{ $data = first ($scratch.Get "limit") $.Site.Data.films.watched}}
 {{ else if eq $key "towatch" }}
-  {{ $data = $.Site.Data.films.towatch}}
+  {{ $data = first ($scratch.Get "limit") $.Site.Data.films.towatch}}
 {{ end }}
 
 <table class="book-table">
@@ -11,6 +16,7 @@
     <tr>
       <th>Date</th>
       <th>Title</th>
+      <th>Year</th>
     </tr>
   </thead>
   <tbody>
@@ -18,6 +24,7 @@
     <tr>
       <td class="book-table__date">{{ dateFormat "2 Jan '06" .date_updated }}</td>
       <td class="book-table__title">{{ .name }}</td>
+      <td class="book-table__year">{{ .year }}</td>
     </tr>
     {{ end }}
   </tbody>

@@ -8,4 +8,4 @@ layout: films
 
 ### Films I've Watched
 
-{{< filmtable watched >}}
+{{< filmtable key="watched" >}}

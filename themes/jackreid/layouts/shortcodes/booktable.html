@@ -1,11 +1,16 @@
+{{ $scratch := newScratch }}
+
 {{ $data := "nil" }}
-{{ $key := index .Params 0 }}
+
+{{ $key := .Get "key" }}
+{{ $scratch.Set "limit" (.Get "limit" | default 10000) }}
+
 {{ if eq $key "read" }}
-  {{ $data = $.Site.Data.books.read }}
+  {{ $data = first ($scratch.Get "limit") $.Site.Data.books.read }}
 {{ else if eq $key "reading" }}
-  {{ $data = $.Site.Data.books.reading }}
+  {{ $data = first ($scratch.Get "limit") $.Site.Data.books.reading }}
 {{ else if eq $key "toread" }}
-  {{ $data = $.Site.Data.books.toread }}
+  {{ $data = first ($scratch.Get "limit") $.Site.Data.books.toread }}
 {{ end }}
 
 <table class="book-table">

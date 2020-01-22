@@ -8,4 +8,4 @@ layout: films
 
 ### Films I Want To Watch
 
-{{< filmtable towatch >}}
+{{< filmtable key="towatch" >}}

@@ -8,4 +8,4 @@ layout: books
 
 ### Books I've Read
 
-{{< booktable read >}}
+{{< booktable key="read" >}}

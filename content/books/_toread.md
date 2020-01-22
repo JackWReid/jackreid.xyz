@@ -7,4 +7,4 @@ layout: books
 ---
 
 ### Books I Want To Read
-{{< booktable toread >}}
+{{< booktable key="toread" >}}
