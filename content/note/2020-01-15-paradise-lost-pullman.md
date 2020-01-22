@@ -2,8 +2,10 @@
 title: 'Exploring the World of Paradise Lost'
 slug: paradise-lost-pullman
 date: 2020-01-15T14:44:33.302Z
+link: https://publicdomainreview.org/essay/the-sound-and-the-story-exploring-the-world-of-paradise-lost#2-2
 tags:
   - link
+  - literature
   - article
 ---
 

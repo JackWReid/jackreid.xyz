@@ -3,10 +3,12 @@ title: "Tech Sabbath"
 slug: tech-sabbath
 date: 2019-10-17T10:05:00+01:00
 draft: false
+link: https://www.wired.com/story/everything-you-need-to-enjoy-one-tech-free-day-a-week/
 tags:
   - book
   - article
   - tech
+  - link
 ---
 
 [This excerpt](https://www.wired.com/story/everything-you-need-to-enjoy-one-tech-free-day-a-week/) from _24/6_ by Tiffany Shlain makes the case for setting aside a day to go tech free: ditching phones and laptops and screens for the day. It's come along just at the right time for me, as I'm generally shrinking away from tech outside of my work life more and more.

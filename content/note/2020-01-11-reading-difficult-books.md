@@ -3,6 +3,7 @@ title: 'Reading Difficult Books'
 slug: reading-difficult-books
 date: 2020-01-11T11:41:59
 draft: false
+link: https://www.bradford-delong.com/2019/12/a-note-on-reading-big-difficult-books.html
 tags:
   - web
   - link

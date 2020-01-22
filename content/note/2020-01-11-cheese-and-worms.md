@@ -3,6 +3,7 @@ title: 'Il Formaggio e i Virmi'
 slug: il-formaggio-virmi
 date: 2020-01-11T11:55:18
 draft: false
+link: https://en.m.wikipedia.org/wiki/The_Cheese_and_the_Worms
 tags:
   - book
   - link

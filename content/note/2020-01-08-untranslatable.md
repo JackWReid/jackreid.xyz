@@ -3,6 +3,7 @@ title: 'Untranslatable Words'
 slug: untranslatable-words
 date: 2020-01-08T13:16:09
 draft: false
+link: https://lithub.com/why-we-love-untranslatable-words/
 tags:
   - link
   - article
