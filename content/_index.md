@@ -11,15 +11,3 @@ At BuzzFeed, in London.
 
 ### Films I've Seen Recently
 {{< filmtable key="watched" limit="5" >}}
-
-### Elsewhere
-<ul>
-  <li><a rel="me" href="mailto:hello@jackreid.xyz">hello@jackreid.xyz</a></li>
-  <li><a rel="me" href="https://twitter.com/jackreid">Twitter</a></li>
-  <li><a rel="me" href="https://instagram.com/jackwreid">Instagram</a></li>
-  <li><a rel="me" href="https://linkedin.com/in/jackwreid">LinkedIn</a></li>
-  <li><a rel="me" href="https://goodreads.com/user/show/54047855-jack-reid">Goodreads</a></li>
-  <li><a rel="me" href="https://letterboxd.com/jackreid">Letterboxd</a></li>
-  <li><a rel="me" href="https://mastodon.social/@jackreid">Mastodon</a></li>
-</ul>
-

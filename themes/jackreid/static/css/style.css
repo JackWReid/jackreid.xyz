@@ -115,7 +115,27 @@ blockquote {
 }
 
 .site-footer {
-  margin-top: 2rem;
+  margin-top: 4rem;
+}
+
+.site-footer__nav-list {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.site-footer__nav-list li {
+  margin-left: 1rem;
+}
+
+.site-footer__nav-list li:first-child {
+  flex-grow: 1;
+  margin: 0;
+}
+
+.site-footer__nav-list li:first-child a {
+  font-weight: bold;
 }
 
 
@@ -152,10 +172,6 @@ blockquote {
   text-shadow: 3px 3px 0 var(--c-i-pale);
   text-transform: lowercase;
   transform: translateY(-6rem);
-}
-
-.homepage-article {
-  text-align: center;
 }
 
 .homepage-article ul {
@@ -404,4 +420,11 @@ blockquote {
 #noteform input[type=submit] {
   margin: 0 auto;
   width: 10rem;
+}
+
+/**
+ * Recent Links
+ */
+.recent-links {
+  text-align: left;
 }

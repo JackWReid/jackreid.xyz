@@ -1,9 +1,6 @@
-<ul>
+<ul class="recent-links">
+  <h3>Recent Links</h3>
   {{ range first 5 .Site.Taxonomies.tags.link }}
-    <li>
-      {{ .Date.Format "2 January 2006" }} 
-      <a href="{{ .Params.link }}">{{ .Title }}</a>
-    </li>
-   
+    {{- partial "note.html" . -}} 
   {{ end }}
 </ul>
