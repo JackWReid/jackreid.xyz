@@ -17,7 +17,7 @@ for dep in "${deps[@]}"; do
   installed "${dep}" || die "Missing '${dep}'"
 done
 
-echo 'Starting book and film data update'
+echo "[$(date)] Starting book and film data update"
 git checkout -f;
 git pull origin master;
 
