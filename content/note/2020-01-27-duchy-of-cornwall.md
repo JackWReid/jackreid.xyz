@@ -1,5 +1,5 @@
 ---
-title: 'Harry and Meghan's Big Funding Source Is Private. Sort of'
+title: "Harry and Meghan's Big Funding Source Is Private. Sort of"
 slug: duchy-of-cornwall
 date: 2020-01-27T09:43:35.100Z
 tags:
