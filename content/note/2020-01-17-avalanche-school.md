@@ -1,5 +1,5 @@
 ---
-title: 'What I Learned in Avalanche School - The New York Times'
+title: 'What I Learned in Avalanche School'
 slug: avalanche-school
 date: 2020-01-17T14:37:28.779Z
 link: https://www.nytimes.com/2019/12/31/magazine/avalanche-school-heidi-julavits.html
