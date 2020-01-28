@@ -11,3 +11,5 @@ At BuzzFeed, in London.
 
 ### Films I've Seen Recently
 {{< filmtable key="watched" limit="5" >}}
+
+See more about what I'm reading/watching [here](/media).
