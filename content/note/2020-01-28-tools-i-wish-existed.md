@@ -1,5 +1,5 @@
 ---
-title: 'Digital Tools I Wish Existed :: Up and to the Right - Jonathan Borichevskiy'
+title: 'Digital Tools I Wish Existed'
 slug: tools-i-wish-existed
 date: 2020-01-28T09:48:49.910Z
 tags:
