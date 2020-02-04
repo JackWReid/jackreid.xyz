@@ -1878,14 +1878,14 @@
     "date_updated": "2019-03-12T04:13:05-07:00"
   },
   {
-    "name": "Edward Gibbon",
-    "title": "The History of the Decline and Fall of the Roman Empire",
+    "name": "John Keegan",
+    "title": "The Second World War",
     "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
     "date_updated": "2019-03-12T04:12:59-07:00"
   },
   {
-    "name": "John Keegan",
-    "title": "The Second World War",
+    "name": "Edward Gibbon",
+    "title": "The History of the Decline and Fall of the Roman Empire",
     "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
     "date_updated": "2019-03-12T04:12:59-07:00"
   },
@@ -1896,15 +1896,15 @@
     "date_updated": "2019-03-12T04:12:42-07:00"
   },
   {
-    "name": "Liu Cixin",
-    "title": "The Three-Body Problem",
-    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449438821l/26166883._SX98_.jpg",
-    "date_updated": "2019-03-12T04:12:36-07:00"
-  },
-  {
     "name": "William S. Burroughs",
     "title": "Junky",
     "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1258008059l/4517763._SX98_.jpg",
+    "date_updated": "2019-03-12T04:12:36-07:00"
+  },
+  {
+    "name": "Liu Cixin",
+    "title": "The Three-Body Problem",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449438821l/26166883._SX98_.jpg",
     "date_updated": "2019-03-12T04:12:36-07:00"
   },
   {
@@ -2166,15 +2166,15 @@
     "date_updated": "2016-03-18T18:17:48-07:00"
   },
   {
-    "name": "Slavoj Žižek",
-    "title": "Enjoy Your Symptom! Jacques Lacan in Hollywood and Out",
-    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
-    "date_updated": "2016-03-18T18:14:26-07:00"
-  },
-  {
     "name": "Andrew Solomon",
     "title": "The Noonday Demon: An Anatomy of Depression",
     "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1368951347l/13934._SX98_.jpg",
+    "date_updated": "2016-03-18T18:14:26-07:00"
+  },
+  {
+    "name": "Slavoj Žižek",
+    "title": "Enjoy Your Symptom! Jacques Lacan in Hollywood and Out",
+    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
     "date_updated": "2016-03-18T18:14:26-07:00"
   }
 ]
