@@ -1,5 +1,5 @@
 ---
-title: 'Emma Willard\'s Maps of Time'
+title: Emma Willard\'s Maps of Time
 slug: willard-maps-of-time
 date: 2020-02-07T09:43:59.084Z
 tags:
