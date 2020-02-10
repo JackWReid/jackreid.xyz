@@ -1,5 +1,5 @@
 ---
-title: 'What Joe Biden Can't Bring Himself To Say'
+title: What Joe Biden Can't Bring Himself To Say
 slug: joe-biden-stutter
 date: 2020-02-10T08:55:41.615Z
 tags:
