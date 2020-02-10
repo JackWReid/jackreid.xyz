@@ -1774,5 +1774,389 @@
     "title": "Fail Fast, Fail Often: How Losing Can Help You Win",
     "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382352009l/18079531._SX98_.jpg",
     "date_updated": "2016-07-09T08:35:35-07:00"
+  },
+  {
+    "name": "Charles Montgomery",
+    "title": "Happy City: Transforming Our Lives Through Urban Design",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384736055l/13330588._SX98_.jpg",
+    "date_updated": "2016-03-24T08:39:57-07:00"
+  },
+  {
+    "name": "Steven Pinker",
+    "title": "The Language Instinct: How the Mind Creates Language",
+    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+    "date_updated": "2016-03-18T18:20:21-07:00"
+  },
+  {
+    "name": "Steven Pinker",
+    "title": "The Better Angels of Our Nature: Why Violence Has Declined",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311281857l/11107244._SX98_.jpg",
+    "date_updated": "2016-03-18T18:20:00-07:00"
+  },
+  {
+    "name": "Henrik Ibsen",
+    "title": "A Doll's House",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397502633l/283664._SX98_.jpg",
+    "date_updated": "2016-03-18T18:19:21-07:00"
+  },
+  {
+    "name": "William Shakespeare",
+    "title": "Othello",
+    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+    "date_updated": "2016-03-18T18:19:19-07:00"
+  },
+  {
+    "name": "Stefan Sagmeister",
+    "title": "Things I Have Learned In My Life So Far",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1338173847l/1842169._SX98_.jpg",
+    "date_updated": "2016-03-18T18:18:52-07:00"
+  },
+  {
+    "name": "Chris Goveia",
+    "title": "Visual Thesaurus: A Quick-Flip Brainstorming Tool for Graphic Designers",
+    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+    "date_updated": "2016-03-18T18:18:51-07:00"
+  },
+  {
+    "name": "Paul Arden",
+    "title": "It's Not How Good You Are, It's How Good You Want To Be",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441506303l/114737._SX98_.jpg",
+    "date_updated": "2016-03-18T18:18:50-07:00"
+  },
+  {
+    "name": "Alice Walker",
+    "title": "The Color Purple",
+    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+    "date_updated": "2016-03-18T18:18:39-07:00"
+  },
+  {
+    "name": "Henry James",
+    "title": "Washington Square",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421271260l/11070446._SX98_.jpg",
+    "date_updated": "2016-03-18T18:18:26-07:00"
+  },
+  {
+    "name": "James Joyce",
+    "title": "A Portrait of the Artist as a Young Man",
+    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+    "date_updated": "2016-03-18T18:18:00-07:00"
+  },
+  {
+    "name": "Kurt Vonnegut Jr.",
+    "title": "Slaughterhouse-Five",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335834458l/8704823._SX98_.jpg",
+    "date_updated": "2016-03-18T18:17:54-07:00"
+  },
+  {
+    "name": "Vincent B. Leitch",
+    "title": "The Norton Anthology of Theory and Criticism",
+    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+    "date_updated": "2016-03-18T18:17:46-07:00"
+  },
+  {
+    "name": "Roland Barthes",
+    "title": "Mythologies",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320459911l/7062955._SX98_.jpg",
+    "date_updated": "2016-03-18T18:17:43-07:00"
+  },
+  {
+    "name": "Tobias Wolff",
+    "title": "Old School",
+    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+    "date_updated": "2016-03-18T18:17:41-07:00"
+  },
+  {
+    "name": "Kate Atkinson",
+    "title": "Emotionally Weird",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388622141l/522173._SX98_.jpg",
+    "date_updated": "2016-03-18T18:17:40-07:00"
+  },
+  {
+    "name": "Vladimir Nabokov",
+    "title": "Pale Fire",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388155863l/7805._SX98_.jpg",
+    "date_updated": "2016-03-18T18:17:38-07:00"
+  },
+  {
+    "name": "Unknown",
+    "title": "Sir Gawain and the Green Knight",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311643645l/380544._SX98_.jpg",
+    "date_updated": "2016-03-18T18:17:16-07:00"
+  },
+  {
+    "name": "John Milton",
+    "title": "Paradise Lost",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463196350l/16005._SX98_.jpg",
+    "date_updated": "2016-03-18T18:16:55-07:00"
+  },
+  {
+    "name": "John Donne",
+    "title": "The Works of John Donne",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414349790l/638421._SX98_.jpg",
+    "date_updated": "2016-03-18T18:16:51-07:00"
+  },
+  {
+    "name": "Niccolò Machiavelli",
+    "title": "The Prince",
+    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+    "date_updated": "2016-03-18T18:16:43-07:00"
+  },
+  {
+    "name": "Jean-Jacques Rousseau",
+    "title": "The Social Contract",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414347364l/883743._SX98_.jpg",
+    "date_updated": "2016-03-18T18:16:42-07:00"
+  },
+  {
+    "name": "Jean-Jacques Rousseau",
+    "title": "A Discourse on Inequality",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343067124l/849579._SX98_.jpg",
+    "date_updated": "2016-03-18T18:16:40-07:00"
+  },
+  {
+    "name": "Aristotle",
+    "title": "Poetics. English",
+    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+    "date_updated": "2016-03-18T18:16:39-07:00"
+  },
+  {
+    "name": "Paul Cairney",
+    "title": "Understanding Public Policy: Theories and Issues",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1319097668l/12580997._SX98_.jpg",
+    "date_updated": "2016-03-18T18:16:34-07:00"
+  },
+  {
+    "name": "Ford Madox Ford",
+    "title": "The Good Soldier",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414347653l/6756179._SX98_.jpg",
+    "date_updated": "2016-03-18T18:16:28-07:00"
+  },
+  {
+    "name": "Joseph Conrad",
+    "title": "The Secret Agent: A Simple Tale",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414350320l/1181755._SX98_.jpg",
+    "date_updated": "2016-03-18T18:16:26-07:00"
+  },
+  {
+    "name": "Virginia Woolf",
+    "title": "To the Lighthouse",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1574452995l/863774._SX98_.jpg",
+    "date_updated": "2016-03-18T18:16:14-07:00"
+  },
+  {
+    "name": "Helen Williams",
+    "title": "T. S. Eliot: The Waste Land",
+    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+    "date_updated": "2016-03-18T18:16:12-07:00"
+  },
+  {
+    "name": "Calvin C. Jillson",
+    "title": "American Government: Political Development and Institutional Change",
+    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+    "date_updated": "2016-03-18T18:16:08-07:00"
+  },
+  {
+    "name": "D.H. Lawrence",
+    "title": "Lady Chatterley's Lover",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411129180l/19043672._SX98_.jpg",
+    "date_updated": "2016-03-18T18:16:01-07:00"
+  },
+  {
+    "name": "Robert A. Dahl",
+    "title": "How Democratic Is the American Constitution?",
+    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+    "date_updated": "2016-03-18T18:15:57-07:00"
+  },
+  {
+    "name": "William Faulkner",
+    "title": "As I Lay Dying",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1510584396l/617373._SX98_.jpg",
+    "date_updated": "2016-03-18T18:15:47-07:00"
+  },
+  {
+    "name": "John Dryzek",
+    "title": "Theories of the Democratic State",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316551498l/6571884._SX98_.jpg",
+    "date_updated": "2016-03-18T18:15:33-07:00"
+  },
+  {
+    "name": "Reza Aslan",
+    "title": "No God But God: The Origins, Evolution and Future of Islam",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1469995087l/12574484._SX98_.jpg",
+    "date_updated": "2016-03-18T18:15:29-07:00"
+  },
+  {
+    "name": "Dave Eggers",
+    "title": "A Heartbreaking Work of Staggering Genius",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327714834l/4953._SX98_.jpg",
+    "date_updated": "2016-03-18T18:15:25-07:00"
+  },
+  {
+    "name": "Marilynne Robinson",
+    "title": "Gilead",
+    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+    "date_updated": "2016-03-18T18:15:22-07:00"
+  },
+  {
+    "name": "Colum McCann",
+    "title": "Let The Great World Spin",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352236742l/7647116._SX98_.jpg",
+    "date_updated": "2016-03-18T18:15:17-07:00"
+  },
+  {
+    "name": "Don DeLillo",
+    "title": "Falling Man",
+    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+    "date_updated": "2016-03-18T18:15:15-07:00"
+  },
+  {
+    "name": "Louise Erdrich",
+    "title": "The Last Report on the Miracles at Little No Horse",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355127660l/63837._SX98_.jpg",
+    "date_updated": "2016-03-18T18:15:07-07:00"
+  },
+  {
+    "name": "Philip Roth",
+    "title": "The Plot Against America",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355967154l/97352._SX98_.jpg",
+    "date_updated": "2016-03-18T18:15:05-07:00"
+  },
+  {
+    "name": "Joyce Carol Oates",
+    "title": "Black Girl / White Girl",
+    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+    "date_updated": "2016-03-18T18:15:04-07:00"
+  },
+  {
+    "name": "Jesmyn Ward",
+    "title": "Salvage the Bones",
+    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+    "date_updated": "2016-03-18T18:14:58-07:00"
+  },
+  {
+    "name": "George R.R. Martin",
+    "title": "The World of Ice and Fire: The Untold History of Westeros and the Game of Thrones",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1437172285l/22740195._SX98_.jpg",
+    "date_updated": "2016-03-18T18:14:49-07:00"
+  },
+  {
+    "name": "Thomas Piketty",
+    "title": "Capital in the Twenty-First Century",
+    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+    "date_updated": "2016-03-18T18:14:41-07:00"
+  },
+  {
+    "name": "Andy Weir",
+    "title": "The Martian",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449942676l/24737104._SX98_.jpg",
+    "date_updated": "2016-03-18T18:14:16-07:00"
+  },
+  {
+    "name": "Alice Sebold",
+    "title": "The Lovely Bones",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457810586l/12232938._SX98_.jpg",
+    "date_updated": "2016-03-18T18:12:59-07:00"
+  },
+  {
+    "name": "David Mazzucchelli",
+    "title": "Asterios Polyp",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327877671l/4070095._SX98_.jpg",
+    "date_updated": "2016-03-18T18:12:35-07:00"
+  },
+  {
+    "name": "Craig Thompson",
+    "title": "Habibi",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327899014l/10138607._SX98_.jpg",
+    "date_updated": "2016-03-18T18:12:29-07:00"
+  },
+  {
+    "name": "Marjane Satrapi",
+    "title": "Persepolis, Volume 1",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375777630l/9522._SX98_.jpg",
+    "date_updated": "2016-03-18T18:12:13-07:00"
+  },
+  {
+    "name": "Alan Moore",
+    "title": "V for Vendetta",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343668985l/5805._SX98_.jpg",
+    "date_updated": "2016-03-18T18:12:09-07:00"
+  },
+  {
+    "name": "Alan Moore",
+    "title": "Watchmen",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442239711l/472331._SX98_.jpg",
+    "date_updated": "2016-03-18T18:12:08-07:00"
+  },
+  {
+    "name": "Plato",
+    "title": "Apology",
+    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+    "date_updated": "2016-03-18T18:11:56-07:00"
+  },
+  {
+    "name": "John Locke",
+    "title": "Second Treatise of Government",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405624453l/448836._SX98_.jpg",
+    "date_updated": "2016-03-18T18:11:48-07:00"
+  },
+  {
+    "name": "Albert Camus",
+    "title": "The Stranger",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349927872l/49552._SX98_.jpg",
+    "date_updated": "2016-03-18T18:11:25-07:00"
+  },
+  {
+    "name": "Erich Maria Remarque",
+    "title": "All Quiet on the Western Front",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441227765l/355697._SY160_.jpg",
+    "date_updated": "2016-03-18T18:10:21-07:00"
+  },
+  {
+    "name": "J.K. Rowling",
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474154022l/3._SX98_.jpg",
+    "date_updated": "2016-03-18T18:10:14-07:00"
+  },
+  {
+    "name": "J.D. Salinger",
+    "title": "The Catcher in the Rye",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398034300l/5107._SX98_.jpg",
+    "date_updated": "2016-03-18T18:10:07-07:00"
+  },
+  {
+    "name": "George Orwell",
+    "title": "1984",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348990566l/5470._SX98_.jpg",
+    "date_updated": "2016-03-18T18:09:51-07:00"
+  },
+  {
+    "name": "Suzanne Collins",
+    "title": "The Hunger Games",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447303603l/2767052._SX98_.jpg",
+    "date_updated": "2016-03-18T18:09:48-07:00"
+  },
+  {
+    "name": "Harper Lee",
+    "title": "To Kill a Mockingbird",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553383690l/2657._SX98_.jpg",
+    "date_updated": "2016-03-18T18:09:46-07:00"
+  },
+  {
+    "name": "F. Scott Fitzgerald",
+    "title": "The Great Gatsby",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490528560l/4671._SX98_.jpg",
+    "date_updated": "2016-03-18T18:09:43-07:00"
+  },
+  {
+    "name": "Banksy",
+    "title": "Wall and Piece",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327904853l/114683._SX98_.jpg",
+    "date_updated": "2016-03-18T18:06:01-07:00"
+  },
+  {
+    "name": "John Berger",
+    "title": "Ways of Seeing",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464018308l/2784._SY160_.jpg",
+    "date_updated": "2016-03-18T18:05:48-07:00"
   }
 ]
