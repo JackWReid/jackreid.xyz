@@ -1,5 +1,11 @@
 [
   {
+    "name": "Edward J. Watts",
+    "title": "Mortal Republic: How Rome Fell into Tyranny",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521129036l/39088591._SX98_.jpg",
+    "date_updated": "2020-02-10T02:46:22-08:00"
+  },
+  {
     "name": "G.H. Hardy",
     "title": "A Mathematician's Apology",
     "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
@@ -1878,14 +1884,14 @@
     "date_updated": "2019-03-12T04:13:05-07:00"
   },
   {
-    "name": "John Keegan",
-    "title": "The Second World War",
+    "name": "Edward Gibbon",
+    "title": "The History of the Decline and Fall of the Roman Empire",
     "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
     "date_updated": "2019-03-12T04:12:59-07:00"
   },
   {
-    "name": "Edward Gibbon",
-    "title": "The History of the Decline and Fall of the Roman Empire",
+    "name": "John Keegan",
+    "title": "The Second World War",
     "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
     "date_updated": "2019-03-12T04:12:59-07:00"
   },
@@ -1896,15 +1902,15 @@
     "date_updated": "2019-03-12T04:12:42-07:00"
   },
   {
-    "name": "Liu Cixin",
-    "title": "The Three-Body Problem",
-    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449438821l/26166883._SX98_.jpg",
-    "date_updated": "2019-03-12T04:12:36-07:00"
-  },
-  {
     "name": "William S. Burroughs",
     "title": "Junky",
     "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1258008059l/4517763._SX98_.jpg",
+    "date_updated": "2019-03-12T04:12:36-07:00"
+  },
+  {
+    "name": "Liu Cixin",
+    "title": "The Three-Body Problem",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449438821l/26166883._SX98_.jpg",
     "date_updated": "2019-03-12T04:12:36-07:00"
   },
   {
