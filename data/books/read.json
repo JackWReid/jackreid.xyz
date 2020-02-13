@@ -486,9 +486,9 @@
     "date_updated": "2019-03-13T09:47:20-07:00"
   },
   {
-    "name": "Jake Knapp",
-    "title": "Sprint: A Radically New Way to Test Ideas, Solve Problems and Answer Your Most Pressing Questions",
-    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+    "name": "Laurent Binet",
+    "title": "HHhH",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356447176l/17118721._SX98_.jpg",
     "date_updated": "2019-03-13T09:47:19-07:00"
   },
   {
@@ -498,21 +498,21 @@
     "date_updated": "2019-03-13T09:47:19-07:00"
   },
   {
+    "name": "Jake Knapp",
+    "title": "Sprint: A Radically New Way to Test Ideas, Solve Problems and Answer Your Most Pressing Questions",
+    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+    "date_updated": "2019-03-13T09:47:19-07:00"
+  },
+  {
     "name": "Margaret Atwood",
     "title": "The Heart Goes Last",
     "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
     "date_updated": "2019-03-13T09:47:19-07:00"
   },
   {
-    "name": "Laurent Binet",
-    "title": "HHhH",
-    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356447176l/17118721._SX98_.jpg",
-    "date_updated": "2019-03-13T09:47:19-07:00"
-  },
-  {
-    "name": "Taschen",
-    "title": "Schiele",
-    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543515705l/26786806._SX98_.jpg",
+    "name": "Saul Leiter",
+    "title": "Saul Leiter",
+    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
     "date_updated": "2019-03-13T09:47:18-07:00"
   },
   {
@@ -522,20 +522,20 @@
     "date_updated": "2019-03-13T09:47:18-07:00"
   },
   {
+    "name": "Taschen",
+    "title": "Schiele",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543515705l/26786806._SX98_.jpg",
+    "date_updated": "2019-03-13T09:47:18-07:00"
+  },
+  {
     "name": "Tim Marshall",
     "title": "Prisoners of Geography",
     "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470652232l/28657942._SX98_.jpg",
     "date_updated": "2019-03-13T09:47:18-07:00"
   },
   {
-    "name": "Saul Leiter",
-    "title": "Saul Leiter",
-    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
-    "date_updated": "2019-03-13T09:47:18-07:00"
-  },
-  {
-    "name": "Bernd Growe",
-    "title": "Degas",
+    "name": "Aeschylus",
+    "title": "The Libation Bearers",
     "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
     "date_updated": "2019-03-13T09:47:17-07:00"
   },
@@ -546,28 +546,16 @@
     "date_updated": "2019-03-13T09:47:17-07:00"
   },
   {
-    "name": "Aeschylus",
-    "title": "The Libation Bearers",
-    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
-    "date_updated": "2019-03-13T09:47:17-07:00"
-  },
-  {
     "name": "Ingo F. Walther",
     "title": "Van Gogh: The Complete Paintings",
     "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348541391l/15808164._SX98_.jpg",
     "date_updated": "2019-03-13T09:47:17-07:00"
   },
   {
-    "name": "Ian McEwan",
-    "title": "Enduring Love",
-    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1313656531l/6870._SX98_.jpg",
-    "date_updated": "2019-03-13T09:47:16-07:00"
-  },
-  {
-    "name": "Donna Tartt",
-    "title": "The Secret History",
-    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451554846l/29044._SX98_.jpg",
-    "date_updated": "2019-03-13T09:47:16-07:00"
+    "name": "Bernd Growe",
+    "title": "Degas",
+    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+    "date_updated": "2019-03-13T09:47:17-07:00"
   },
   {
     "name": "William Shakespeare",
@@ -576,9 +564,21 @@
     "date_updated": "2019-03-13T09:47:16-07:00"
   },
   {
+    "name": "Ian McEwan",
+    "title": "Enduring Love",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1313656531l/6870._SX98_.jpg",
+    "date_updated": "2019-03-13T09:47:16-07:00"
+  },
+  {
     "name": "Sally Rooney",
     "title": "Conversations with Friends",
     "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500031338l/32187419._SX98_.jpg",
+    "date_updated": "2019-03-13T09:47:16-07:00"
+  },
+  {
+    "name": "Donna Tartt",
+    "title": "The Secret History",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451554846l/29044._SX98_.jpg",
     "date_updated": "2019-03-13T09:47:16-07:00"
   },
   {
