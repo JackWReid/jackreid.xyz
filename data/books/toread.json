@@ -1,5 +1,11 @@
 [
   {
+    "title": "Nox",
+    "author": "Anne Carson",
+    "image": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+    "date_updated": "2020-02-21T02:21:52-08:00"
+  },
+  {
     "title": "How Women Rise: Break the 12 Habits Holding You Back from Your Next Raise, Promotion, or Job",
     "author": "Sally Helgesen",
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509743383l/36204301._SX98_.jpg",
@@ -1878,14 +1884,14 @@
     "date_updated": "2019-03-12T04:13:05-07:00"
   },
   {
-    "title": "The Second World War",
-    "author": "John Keegan",
+    "title": "The History of the Decline and Fall of the Roman Empire",
+    "author": "Edward Gibbon",
     "image": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
     "date_updated": "2019-03-12T04:12:59-07:00"
   },
   {
-    "title": "The History of the Decline and Fall of the Roman Empire",
-    "author": "Edward Gibbon",
+    "title": "The Second World War",
+    "author": "John Keegan",
     "image": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
     "date_updated": "2019-03-12T04:12:59-07:00"
   },
@@ -1896,15 +1902,15 @@
     "date_updated": "2019-03-12T04:12:42-07:00"
   },
   {
-    "title": "The Three-Body Problem",
-    "author": "Liu Cixin",
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449438821l/26166883._SX98_.jpg",
-    "date_updated": "2019-03-12T04:12:36-07:00"
-  },
-  {
     "title": "Junky",
     "author": "William S. Burroughs",
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1258008059l/4517763._SX98_.jpg",
+    "date_updated": "2019-03-12T04:12:36-07:00"
+  },
+  {
+    "title": "The Three-Body Problem",
+    "author": "Liu Cixin",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449438821l/26166883._SX98_.jpg",
     "date_updated": "2019-03-12T04:12:36-07:00"
   },
   {
