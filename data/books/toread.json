@@ -1,5 +1,11 @@
 [
   {
+    "title": "Destiny of the Republic: A Tale of Madness, Medicine and the Murder of a President",
+    "author": "Candice Millard",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327883084l/10335318._SX98_.jpg",
+    "date_updated": "2020-02-24T01:02:44-08:00"
+  },
+  {
     "title": "Nox",
     "author": "Anne Carson",
     "image": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
@@ -1902,15 +1908,15 @@
     "date_updated": "2019-03-12T04:12:42-07:00"
   },
   {
-    "title": "Junky",
-    "author": "William S. Burroughs",
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1258008059l/4517763._SX98_.jpg",
-    "date_updated": "2019-03-12T04:12:36-07:00"
-  },
-  {
     "title": "The Three-Body Problem",
     "author": "Liu Cixin",
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449438821l/26166883._SX98_.jpg",
+    "date_updated": "2019-03-12T04:12:36-07:00"
+  },
+  {
+    "title": "Junky",
+    "author": "William S. Burroughs",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1258008059l/4517763._SX98_.jpg",
     "date_updated": "2019-03-12T04:12:36-07:00"
   },
   {
@@ -2172,15 +2178,15 @@
     "date_updated": "2016-03-18T18:17:48-07:00"
   },
   {
-    "title": "The Noonday Demon: An Anatomy of Depression",
-    "author": "Andrew Solomon",
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1368951347l/13934._SX98_.jpg",
-    "date_updated": "2016-03-18T18:14:26-07:00"
-  },
-  {
     "title": "Enjoy Your Symptom! Jacques Lacan in Hollywood and Out",
     "author": "Slavoj Žižek",
     "image": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+    "date_updated": "2016-03-18T18:14:26-07:00"
+  },
+  {
+    "title": "The Noonday Demon: An Anatomy of Depression",
+    "author": "Andrew Solomon",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1368951347l/13934._SX98_.jpg",
     "date_updated": "2016-03-18T18:14:26-07:00"
   }
 ]
