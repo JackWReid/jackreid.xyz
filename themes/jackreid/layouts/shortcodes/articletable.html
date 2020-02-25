@@ -8,7 +8,6 @@
     <tr>
       <th>Date</th>
       <th>Title</th>
-      <th>Source</th>
     </tr>
   </thead>
   <tbody>
@@ -16,7 +15,6 @@
     <tr>
       <td class="book-table__date">{{ dateFormat "2 Jan '06" .date_updated }}</td>
       <td class="book-table__title"><a href="{{ .link }}">{{ .title }}</a></td>
-      <td class="book-table__author">{{ .author }}</td>
     </tr>
     {{ end }}
   </tbody>
