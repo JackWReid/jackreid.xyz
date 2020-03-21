@@ -1,7 +1,7 @@
 {{ $scratch := newScratch }}
 {{ $data := "nil" }}
 {{ $scratch.Set "limit" (.Get "limit" | default 10000) }}
-{{ $data = first ($scratch.Get "limit") $.Site.Data.likes }}
+{{ $data = first ($scratch.Get "limit") $.Site.Data.articles }}
 
 <table class="book-table">
   <thead>

@@ -29,7 +29,7 @@ curl -L https://api.jackreid.xyz/books/read | jq . > ./data/books/read.json;
 curl -L https://api.jackreid.xyz/films/watched | jq . > ./data/films/watched.json;
 curl -L https://api.jackreid.xyz/films/towatch | jq . > ./data/films/towatch.json;
 
-curl -L https://api.jackreid.xyz/likes | jq . > ./data/likes.json;
+curl -L https://api.jackreid.xyz/articles | jq . > ./data/articles.json;
 
 # Update git
 echo "[$(date)] Committing updated media data files"
