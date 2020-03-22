@@ -22,14 +22,14 @@ git checkout -f;
 git pull origin master;
 
 # Download latest data from API
-curl -L https://api.jackreid.xyz/books/reading | jq . > ./data/books/reading.json;
-curl -L https://api.jackreid.xyz/books/toread | jq . > ./data/books/toread.json;
-curl -L https://api.jackreid.xyz/books/read | jq . > ./data/books/read.json;
+curl -L https://api.jackreid.xyz/books/reading | jq . > $PWD/data/books/reading.json;
+curl -L https://api.jackreid.xyz/books/toread | jq . > $PWD/data/books/toread.json;
+curl -L https://api.jackreid.xyz/books/read | jq . > $PWD/data/books/read.json;
 
-curl -L https://api.jackreid.xyz/films/watched | jq . > ./data/films/watched.json;
-curl -L https://api.jackreid.xyz/films/towatch | jq . > ./data/films/towatch.json;
+curl -L https://api.jackreid.xyz/films/watched | jq . > $PWD/data/films/watched.json;
+curl -L https://api.jackreid.xyz/films/towatch | jq . > $PWD/data/films/towatch.json;
 
-curl -L https://api.jackreid.xyz/articles | jq . > ./data/articles.json;
+curl -L https://api.jackreid.xyz/articles | jq . > $PWD/data/articles.json;
 
 # Update git
 echo "[$(date)] Committing updated media data files"
