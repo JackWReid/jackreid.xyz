@@ -1,5 +1,11 @@
 [
   {
+    "title": "How to Cook a Wolf",
+    "author": "M.F.K. Fisher",
+    "image": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+    "date_updated": "2020-03-23T08:02:10.000Z"
+  },
+  {
     "title": "Like",
     "author": "Ali Smith",
     "image": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
@@ -1908,15 +1914,15 @@
     "date_updated": "2019-03-12T04:12:42.000Z"
   },
   {
-    "title": "The Three-Body Problem",
-    "author": "Liu Cixin",
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449438821l/26166883._SX98_.jpg",
-    "date_updated": "2019-03-12T04:12:36.000Z"
-  },
-  {
     "title": "Junky",
     "author": "William S. Burroughs",
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1258008059l/4517763._SX98_.jpg",
+    "date_updated": "2019-03-12T04:12:36.000Z"
+  },
+  {
+    "title": "The Three-Body Problem",
+    "author": "Liu Cixin",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449438821l/26166883._SX98_.jpg",
     "date_updated": "2019-03-12T04:12:36.000Z"
   },
   {
