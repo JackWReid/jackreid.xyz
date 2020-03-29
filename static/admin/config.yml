@@ -13,11 +13,11 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}T{{hour}}-{{minute}}-{{second}}"
     fields:
-      - { label: "Title", name:"title", widget: "string" }
-      - { label:"Slug", name:"slug", widget: "string" }
-      - { label:"Date", name:"date", widget: "datetime" }
-      - { label:"Draft", name:"draft", widget: "boolean" }
-      - { label:"Tags", name:"tags", widget: "list" }
+      - { label: 'Title', name: "title", widget: "string" }
+      - { label: "Slug", name: "slug", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Draft", name: "draft", widget: "boolean" }
+      - { label: "Tags", name: "tags", widget: "list" }
       - { label: "Body", name: "body", widget: "markdown" }
       - name: post
         label: Post
@@ -25,10 +25,10 @@ collections:
         create: true
         slug: "{{year}}-{{month}}-{{day}}T{{hour}}-{{minute}}-{{second}}"
         fields:
-          - { label:"Title", name:"title", widget: "string" }
-          - { label:"Subtitle", name:"subtitle", widget: "string" }
-          - { label:"Slug", name:"slug", widget: "string" }
-          - { label:"Date", name:"date", widget: "datetime" }
-          - { label:"Draft", name:"draft", widget: "boolean" }
-          - { label:"Tags", name:"tags", widget: "list" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Subtitle", name: "subtitle", widget: "string" }
+          - { label: "Slug", name: "slug", widget: "string" }
+          - { label: "Date", name: "date", widget: "datetime" }
+          - { label: "Draft", name: "draft", widget: "boolean" }
+          - { label: "Tags", name: "tags", widget: "list" }
           - { label: "Body", name: "body", widget: "markdown" }
