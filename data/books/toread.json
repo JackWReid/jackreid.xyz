@@ -1,5 +1,17 @@
 [
   {
+    "title": "Illuminations: Essays and Reflections",
+    "author": "Walter Benjamin",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1363201757l/2725._SX98_.jpg",
+    "date_updated": "2020-03-30T08:34:08.000Z"
+  },
+  {
+    "title": "Letters",
+    "author": "Kurt Vonnegut Jr.",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340324956l/13531846._SX98_.jpg",
+    "date_updated": "2020-03-30T01:50:41.000Z"
+  },
+  {
     "title": "The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change",
     "author": "Camille Fournier",
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484107737l/33369254._SX98_.jpg",
@@ -172,12 +184,6 @@
     "author": "Robert Macfarlane",
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559696256l/46148791._SX98_.jpg",
     "date_updated": "2020-01-24T08:31:52.000Z"
-  },
-  {
-    "title": "The Lonely City: Adventures in the Art of Being Alone",
-    "author": "Olivia Laing",
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450039964l/25667449._SX98_.jpg",
-    "date_updated": "2020-01-22T06:19:28.000Z"
   },
   {
     "title": "What Is the Grass: Walt Whitman in My Life",
@@ -1920,14 +1926,14 @@
     "date_updated": "2019-03-12T04:13:05.000Z"
   },
   {
-    "title": "The History of the Decline and Fall of the Roman Empire",
-    "author": "Edward Gibbon",
+    "title": "The Second World War",
+    "author": "John Keegan",
     "image": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
     "date_updated": "2019-03-12T04:12:59.000Z"
   },
   {
-    "title": "The Second World War",
-    "author": "John Keegan",
+    "title": "The History of the Decline and Fall of the Roman Empire",
+    "author": "Edward Gibbon",
     "image": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
     "date_updated": "2019-03-12T04:12:59.000Z"
   },
@@ -1938,15 +1944,15 @@
     "date_updated": "2019-03-12T04:12:42.000Z"
   },
   {
-    "title": "Junky",
-    "author": "William S. Burroughs",
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1258008059l/4517763._SX98_.jpg",
-    "date_updated": "2019-03-12T04:12:36.000Z"
-  },
-  {
     "title": "The Three-Body Problem",
     "author": "Liu Cixin",
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449438821l/26166883._SX98_.jpg",
+    "date_updated": "2019-03-12T04:12:36.000Z"
+  },
+  {
+    "title": "Junky",
+    "author": "William S. Burroughs",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1258008059l/4517763._SX98_.jpg",
     "date_updated": "2019-03-12T04:12:36.000Z"
   },
   {
@@ -2208,15 +2214,15 @@
     "date_updated": "2016-03-18T18:17:48.000Z"
   },
   {
-    "title": "Enjoy Your Symptom! Jacques Lacan in Hollywood and Out",
-    "author": "Slavoj Žižek",
-    "image": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
-    "date_updated": "2016-03-18T18:14:26.000Z"
-  },
-  {
     "title": "The Noonday Demon: An Anatomy of Depression",
     "author": "Andrew Solomon",
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1368951347l/13934._SX98_.jpg",
+    "date_updated": "2016-03-18T18:14:26.000Z"
+  },
+  {
+    "title": "Enjoy Your Symptom! Jacques Lacan in Hollywood and Out",
+    "author": "Slavoj Žižek",
+    "image": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
     "date_updated": "2016-03-18T18:14:26.000Z"
   }
 ]
