@@ -6,8 +6,7 @@
     </header>
     {{.Content}}
   </article>
-  {{ template "_internal/pagination.html" . }}
-  {{ $paginator := .Paginate (where .Pages "Type" "posts") }}
+  {{ $paginator := .Paginate (where .Pages "Type" "photo") }}
   <ul class="note-list__list">
     {{ range $paginator.Pages }}
       <li class="note-list__list-item">
@@ -20,5 +19,6 @@
       </li>
     {{ end }}
   </ul>
+  {{ partial "pagination.html" . }}
 </main>
 {{ end }}
