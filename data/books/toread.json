@@ -1,9 +1,27 @@
 [
   {
+    "title": "Death in Her Hands",
+    "author": "Ottessa Moshfegh",
+    "image": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+    "date_updated": "2020-04-01T18:01:57.000Z"
+  },
+  {
+    "title": "UNIX and Linux System Administration Handbook",
+    "author": "Evi Nemeth",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415581344l/8772005._SX98_.jpg",
+    "date_updated": "2020-04-01T05:25:46.000Z"
+  },
+  {
     "title": "Illuminations: Essays and Reflections",
     "author": "Walter Benjamin",
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1363201757l/2725._SX98_.jpg",
     "date_updated": "2020-03-30T08:34:08.000Z"
+  },
+  {
+    "title": "The Lonely City: Adventures in the Art of Being Alone",
+    "author": "Olivia Laing",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450039964l/25667449._SX98_.jpg",
+    "date_updated": "2020-03-30T01:50:56.000Z"
   },
   {
     "title": "Letters",
@@ -190,12 +208,6 @@
     "author": "Mark Doty",
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560999106l/45893942._SX98_.jpg",
     "date_updated": "2020-01-22T06:18:43.000Z"
-  },
-  {
-    "title": "Death in Her Hands",
-    "author": "Ottessa Moshfegh",
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567702645l/46354240._SX98_.jpg",
-    "date_updated": "2020-01-22T06:16:36.000Z"
   },
   {
     "title": "Cleanness",
@@ -1944,15 +1956,15 @@
     "date_updated": "2019-03-12T04:12:42.000Z"
   },
   {
-    "title": "The Three-Body Problem",
-    "author": "Liu Cixin",
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449438821l/26166883._SX98_.jpg",
-    "date_updated": "2019-03-12T04:12:36.000Z"
-  },
-  {
     "title": "Junky",
     "author": "William S. Burroughs",
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1258008059l/4517763._SX98_.jpg",
+    "date_updated": "2019-03-12T04:12:36.000Z"
+  },
+  {
+    "title": "The Three-Body Problem",
+    "author": "Liu Cixin",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449438821l/26166883._SX98_.jpg",
     "date_updated": "2019-03-12T04:12:36.000Z"
   },
   {
