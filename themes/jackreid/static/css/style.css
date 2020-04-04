@@ -351,6 +351,16 @@ blockquote {
   display: flex;
 }
 
+@media screen and (max-width: 600px) {
+  .single-static-nav__list {
+    display: block;
+  }
+
+  .single-static-nav__list-item {
+    margin: .5rem 0 0;
+  }
+}
+
 .single-static-nav__list-item {
   margin-right: 1rem;
 }

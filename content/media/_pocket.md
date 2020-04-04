@@ -8,4 +8,4 @@ layout: media
 
 ### Articles I've Saved
 
-{{< articletable >}}
+{{< pockettable >}}

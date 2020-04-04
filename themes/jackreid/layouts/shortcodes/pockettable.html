@@ -1,6 +1,6 @@
 {{ $scratch := newScratch }}
 {{ $data := "nil" }}
-{{ $scratch.Set "limit" (.Get "limit" | default 10000) }}
+{{ $scratch.Set "limit" (.Get "limit" | default 100000) }}
 {{ $data = first ($scratch.Get "limit") $.Site.Data.pocket }}
 
 <table class="book-table">
