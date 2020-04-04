@@ -30,6 +30,7 @@ curl -L https://api.jackreid.xyz/films/watched | jq . > $PWD/data/films/watched.
 curl -L https://api.jackreid.xyz/films/towatch | jq . > $PWD/data/films/towatch.json;
 
 curl -L https://api.jackreid.xyz/articles | jq . > $PWD/data/articles.json;
+curl -L https://api.jackreid.xyz/pocket | jq . > $PWD/data/pocket.json;
 
 # Update git
 echo "[$(date)] Committing updated media data files"
