@@ -29,12 +29,8 @@ curl -L https://api.jackreid.xyz/books/read?limit=5000 | jq . > $PWD/data/books/
 curl -L https://api.jackreid.xyz/films/watched?limit=5000 | jq . > $PWD/data/films/watched.json;
 curl -L https://api.jackreid.xyz/films/towatch?limit=5000 | jq . > $PWD/data/films/towatch.json;
 
-<<<<<<< HEAD
-curl -L https://api.jackreid.xyz/articles | jq . > $PWD/data/articles.json;
-curl -L https://api.jackreid.xyz/pocket | jq . > $PWD/data/pocket.json;
-=======
+curl -L https://api.jackreid.xyz/pocket?limit=5000 | jq . > $PWD/data/pocket.json;
 curl -L https://api.jackreid.xyz/articles?limit=5000 | jq . > $PWD/data/articles.json;
->>>>>>> f575bd4c9d41f6bc755c0ffd2f0edfd8a42600a8
 
 # Update git
 echo "[$(date)] Committing updated media data files"
