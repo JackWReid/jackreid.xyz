@@ -1,6 +1,6 @@
 {{ define "main" }}
 <div class="homepage-logo"></div>
-<h1 class="homepage-title">{{ .Site.Title }}</h1>
+<p aria-hidden="true" class="homepage-title">{{ .Site.Title }}</p>
 <article class="homepage-article">
 {{ .Content }}
 {{- partial "recent_links.html" . -}}

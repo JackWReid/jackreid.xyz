@@ -20,4 +20,4 @@ A common reading is that your male characters are fighting their battles unconsc
 > 
 > HM: She takes you by the hand and leads you off somewhere.
 
-- [A Feminist Critique of Murakami Novels, With Murakami Himself](https://lithub.com/a-feminist-critique-of-murakami-novels-with-murakami-himself/), Mieko Kawakami in _LitHub_
+&mdash; [A Feminist Critique of Murakami Novels, With Murakami Himself](https://lithub.com/a-feminist-critique-of-murakami-novels-with-murakami-himself/), Mieko Kawakami in _LitHub_

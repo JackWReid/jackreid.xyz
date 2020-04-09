@@ -29,7 +29,9 @@ body {
 
 body {
   margin: 0;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+  line-height: 1.5;
   background-color: var(--c-bg);
   color: var(--c-body);
 }
@@ -90,7 +92,8 @@ blockquote {
   margin: 0 1rem;
 }
 
-.prev-wrapper p, .next-wrapper p {
+.prev-wrapper p,
+.next-wrapper p {
   margin: 0;
 }
 
@@ -205,6 +208,7 @@ blockquote {
   margin: 0;
   font-family: 'VT323', 'Source Sans Pro', monospace, sans-serif;
   font-size: 4rem;
+  font-weight: bold;
   color: var(--c-accent);
   text-align: center;
   text-shadow: 3px 3px 0 var(--c-i-two);
@@ -216,10 +220,6 @@ blockquote {
   margin: 0;
   padding: 0;
   list-style: none;
-}
-
-.homepage-article h3 {
-  margin-top: 3rem;
 }
 
 /**
@@ -357,7 +357,7 @@ blockquote {
   }
 
   .single-static-nav__list-item {
-    margin: .5rem 0 0;
+    margin: 0.5rem 0 0;
   }
 }
 
