@@ -1,5 +1,17 @@
 [
   {
+    "title": "The Fifth Season",
+    "author": "N.K. Jemisin",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386803701l/19161852._SX98_.jpg",
+    "date_updated": "2020-04-09T02:20:20.000Z"
+  },
+  {
+    "title": "Underworld",
+    "author": "Don DeLillo",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1334304280l/11761._SX98_.jpg",
+    "date_updated": "2020-04-09T02:19:28.000Z"
+  },
+  {
     "title": "Death in Her Hands",
     "author": "Ottessa Moshfegh",
     "image": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
@@ -454,12 +466,6 @@
     "author": "Carlo Ginzburg",
     "image": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
     "date_updated": "2020-01-11T03:56:03.000Z"
-  },
-  {
-    "title": "Henry and June: From \"A Journal of Love\": The Unexpurgated Diary of Anaïs Nin, 1931-1932",
-    "author": "Anaïs Nin",
-    "image": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
-    "date_updated": "2019-09-03T06:30:36.000Z"
   },
   {
     "title": "The Diary of Anaïs Nin, Vol. 1: 1931-1934",
@@ -1926,14 +1932,14 @@
     "date_updated": "2019-03-12T04:13:05.000Z"
   },
   {
-    "title": "The Second World War",
-    "author": "John Keegan",
+    "title": "The History of the Decline and Fall of the Roman Empire",
+    "author": "Edward Gibbon",
     "image": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
     "date_updated": "2019-03-12T04:12:59.000Z"
   },
   {
-    "title": "The History of the Decline and Fall of the Roman Empire",
-    "author": "Edward Gibbon",
+    "title": "The Second World War",
+    "author": "John Keegan",
     "image": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
     "date_updated": "2019-03-12T04:12:59.000Z"
   },

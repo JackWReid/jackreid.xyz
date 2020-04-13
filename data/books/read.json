@@ -1,5 +1,23 @@
 [
   {
+    "title": "Strange Hotel",
+    "author": "Eimear McBride",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1581049449l/45893518._SX98_.jpg",
+    "date_updated": "2020-04-12T09:16:58.000Z"
+  },
+  {
+    "title": "Sleep",
+    "author": "Haruki Murakami",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436622208l/6501635._SX98_.jpg",
+    "date_updated": "2020-04-12T07:48:00.000Z"
+  },
+  {
+    "title": "Eichmann in Jerusalem: A Report on the Banality of Evil",
+    "author": "Hannah Arendt",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404513286l/52090._SX98_.jpg",
+    "date_updated": "2020-04-11T23:06:08.000Z"
+  },
+  {
     "title": "The Lonely City: Adventures in the Art of Being Alone",
     "author": "Olivia Laing",
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450039964l/25667449._SX98_.jpg",
@@ -522,21 +540,9 @@
     "date_updated": "2019-03-13T09:47:20.000Z"
   },
   {
-    "title": "Grief Is the Thing with Feathers",
-    "author": "Max Porter",
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473000973l/29376835._SX98_.jpg",
-    "date_updated": "2019-03-13T09:47:19.000Z"
-  },
-  {
     "title": "Sprint: A Radically New Way to Test Ideas, Solve Problems and Answer Your Most Pressing Questions",
     "author": "Jake Knapp",
     "image": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
-    "date_updated": "2019-03-13T09:47:19.000Z"
-  },
-  {
-    "title": "HHhH",
-    "author": "Laurent Binet",
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356447176l/17118721._SX98_.jpg",
     "date_updated": "2019-03-13T09:47:19.000Z"
   },
   {
@@ -546,10 +552,16 @@
     "date_updated": "2019-03-13T09:47:19.000Z"
   },
   {
-    "title": "Sister Outsider: Essays and Speeches",
-    "author": "Audre Lorde",
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320399808l/730745._SX98_.jpg",
-    "date_updated": "2019-03-13T09:47:18.000Z"
+    "title": "Grief Is the Thing with Feathers",
+    "author": "Max Porter",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473000973l/29376835._SX98_.jpg",
+    "date_updated": "2019-03-13T09:47:19.000Z"
+  },
+  {
+    "title": "HHhH",
+    "author": "Laurent Binet",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356447176l/17118721._SX98_.jpg",
+    "date_updated": "2019-03-13T09:47:19.000Z"
   },
   {
     "title": "Saul Leiter",
@@ -564,10 +576,28 @@
     "date_updated": "2019-03-13T09:47:18.000Z"
   },
   {
+    "title": "Sister Outsider: Essays and Speeches",
+    "author": "Audre Lorde",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320399808l/730745._SX98_.jpg",
+    "date_updated": "2019-03-13T09:47:18.000Z"
+  },
+  {
     "title": "Schiele",
     "author": "Taschen",
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543515705l/26786806._SX98_.jpg",
     "date_updated": "2019-03-13T09:47:18.000Z"
+  },
+  {
+    "title": "Agamemnon",
+    "author": "Aeschylus",
+    "image": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+    "date_updated": "2019-03-13T09:47:17.000Z"
+  },
+  {
+    "title": "Van Gogh: The Complete Paintings",
+    "author": "Ingo F. Walther",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348541391l/15808164._SX98_.jpg",
+    "date_updated": "2019-03-13T09:47:17.000Z"
   },
   {
     "title": "Degas",
@@ -582,27 +612,15 @@
     "date_updated": "2019-03-13T09:47:17.000Z"
   },
   {
-    "title": "Van Gogh: The Complete Paintings",
-    "author": "Ingo F. Walther",
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348541391l/15808164._SX98_.jpg",
-    "date_updated": "2019-03-13T09:47:17.000Z"
-  },
-  {
-    "title": "Agamemnon",
-    "author": "Aeschylus",
-    "image": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
-    "date_updated": "2019-03-13T09:47:17.000Z"
+    "title": "The Secret History",
+    "author": "Donna Tartt",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451554846l/29044._SX98_.jpg",
+    "date_updated": "2019-03-13T09:47:16.000Z"
   },
   {
     "title": "Henry V",
     "author": "William Shakespeare",
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331563646l/37526._SY160_.jpg",
-    "date_updated": "2019-03-13T09:47:16.000Z"
-  },
-  {
-    "title": "The Secret History",
-    "author": "Donna Tartt",
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451554846l/29044._SX98_.jpg",
     "date_updated": "2019-03-13T09:47:16.000Z"
   },
   {
@@ -2180,7 +2198,7 @@
   {
     "title": "The Hunger Games",
     "author": "Suzanne Collins",
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447303603l/2767052._SX98_.jpg",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586722975l/2767052._SX98_.jpg",
     "date_updated": "2016-03-18T18:09:48.000Z"
   },
   {
