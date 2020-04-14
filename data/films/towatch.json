@@ -144,12 +144,6 @@
     "date_updated": "2019-07-26T00:00:00.000Z"
   },
   {
-    "name": "Lawrence of Arabia",
-    "year": 1962,
-    "link": "https://letterboxd.com/film/lawrence-of-arabia/",
-    "date_updated": "2019-07-23T00:00:00.000Z"
-  },
-  {
     "name": "On the Waterfront",
     "year": 1954,
     "link": "https://letterboxd.com/film/on-the-waterfront/",
@@ -306,12 +300,6 @@
     "date_updated": "2019-07-23T00:00:00.000Z"
   },
   {
-    "name": "High Life",
-    "year": 2018,
-    "link": "https://letterboxd.com/film/high-life-2018/",
-    "date_updated": "2019-07-23T00:00:00.000Z"
-  },
-  {
     "name": "Cold War",
     "year": 2018,
     "link": "https://letterboxd.com/film/cold-war-2018/",
@@ -369,6 +357,12 @@
     "name": "Rashomon",
     "year": 1950,
     "link": "https://letterboxd.com/film/rashomon/",
+    "date_updated": "2019-07-23T00:00:00.000Z"
+  },
+  {
+    "name": "Lawrence of Arabia",
+    "year": 1962,
+    "link": "https://letterboxd.com/film/lawrence-of-arabia/",
     "date_updated": "2019-07-23T00:00:00.000Z"
   },
   {
