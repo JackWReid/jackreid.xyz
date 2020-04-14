@@ -1,5 +1,19 @@
 [
   {
+    "title": "Consequences of the Black Death",
+    "link": "https://en.wikipedia.org/wiki/Consequences_of_the_Black_Death",
+    "content": "The consequences of the Black Death are short and long-term effects of the Black Death on human populations across the world.",
+    "word_count": 4638,
+    "date_updated": "2020-04-14T11:07:10.000Z"
+  },
+  {
+    "title": "Black Death",
+    "link": "https://en.wikipedia.org/wiki/Black_Death",
+    "content": "Jump to navigation Jump to search For other uses, see Black Death (disambiguation).",
+    "word_count": 9789,
+    "date_updated": "2020-04-14T11:07:02.000Z"
+  },
+  {
     "title": "The Pillow Book (film)",
     "link": "http://en.m.wikipedia.org/wiki/The_Pillow_Book_(film)",
     "content": "The Pillow Book is a 1996 film by British director Peter Greenaway, which stars Vivian Wu as Nagiko, a Japanese model in search of pleasure and new cultural experience from various lovers.",
@@ -7288,7 +7302,7 @@
   },
   {
     "title": "Security Checklist",
-    "link": "http://securitycheckli.st/",
+    "link": "https://securitycheckli.st/",
     "content": "Copyright whenever. This isopen source.",
     "word_count": 24,
     "date_updated": "2019-01-15T08:46:57.000Z"
@@ -34984,19 +34998,5 @@
     "content": "In this post, we will take a look at architecting a Node.js app that will act as a REST API server for all of our clients. We will be implementing a Token Based Authentication to authenticate and authorize the client to access the application data.",
     "word_count": 2671,
     "date_updated": "2016-09-24T13:32:30.000Z"
-  },
-  {
-    "title": "RESTful API User Authentication with Node.js and AngularJS – Part 1/2: Server",
-    "link": "https://devdactic.com/restful-api-user-authentication-1/",
-    "content": "My all time most viewed article is How To Handle User Authentication With AngularJS Inside Your Ionic App, and it’s also the one with the most questions. User authentication is one of the features almost every app(web and mobile) needs today.",
-    "word_count": 1288,
-    "date_updated": "2016-09-24T13:32:23.000Z"
-  },
-  {
-    "title": "The Problem with API Authentication in Express",
-    "link": "https://stormpath.com/blog/the-problem-with-api-authentication-in-express",
-    "content": "Express has become a popular tool for building REST APIs, which rarely need features that most web frameworks ship with: session and cookie support, templating, etc.",
-    "word_count": 2466,
-    "date_updated": "2016-09-24T13:29:24.000Z"
   }
 ]
