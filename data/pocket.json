@@ -49,13 +49,6 @@
     "date_updated": "2020-04-13T20:29:18.000Z"
   },
   {
-    "title": "Cryptic on Twitter",
-    "link": "https://twitter.com/CrypticNoOne/status/1249341456940240898",
-    "content": "Happy Easter",
-    "word_count": 2,
-    "date_updated": "2020-04-13T20:29:18.000Z"
-  },
-  {
     "title": "Everywhere School",
     "link": "https://everywhereschool.live/",
     "content": "By Mr. Jon & Friends on Facebook By Mr. Jon & Friends on Facebook",
@@ -34998,5 +34991,12 @@
     "content": "",
     "word_count": 0,
     "date_updated": "2016-09-24T15:26:55.000Z"
+  },
+  {
+    "title": "Architecting a Secure RESTful Node.js app",
+    "link": "http://thejackalofjavascript.com/architecting-a-restful-node-js-app/",
+    "content": "In this post, we will take a look at architecting a Node.js app that will act as a REST API server for all of our clients. We will be implementing a Token Based Authentication to authenticate and authorize the client to access the application data.",
+    "word_count": 2671,
+    "date_updated": "2016-09-24T13:32:30.000Z"
   }
 ]
