@@ -1,5 +1,5 @@
-<li class="note-list__list-item">
+<li class="h-entry note-list__list-item">
   <a class="note-list__list-item-permalink" href="{{.Permalink}}">{{.Date.Format "2 January 2006"}}</a>
-  <h3 class="note-list__list-item-title">{{ .Title }}</h3>
-  {{ .Content }}
+  <h3 class="p-title note-list__list-item-title">{{ .Title }}</h3>
+  <div class="p-summary">{{ .Content }}</div>
 </li>

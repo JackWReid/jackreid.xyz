@@ -14,11 +14,11 @@
     {{ end }}
   </ul>
 </nav>
-<section class="single-article__main single-article__main--{{ .Section }}">
+<section class="h-entry single-article__main single-article__main--{{ .Section }}">
   <time class="single-article__date">
     <a href="{{ .Permalink }}">{{ .Date.Format "2 January 2006" }}</a>
   </time>
-  <h2 class="single-article__title">{{ .Title }}</h2>
+  <h2 class="p-name single-article__title">{{ .Title }}</h2>
   <h3 class="single-article__subtitle">{{ .Params.subtitle }}</h3>
   <article class="single-article__article">
     {{ with .Resources.ByType "image" }}
@@ -31,7 +31,9 @@
       <a href="https://instagram.com/p/{{.Params.instagram}}">Also available on Instagram</a>
     {{ end }}
 
-    {{ .Content }}
+    <div class="e-content">
+      {{ .Content }}
+    </div>
   </article>
 </section>
 <aside>
