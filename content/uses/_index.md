@@ -21,4 +21,4 @@ I used to use Bash to keep things simple but since MacOS started defaulting to *
 I carry a tattered old canvas rucksack with my personal notebook (a hardback, dotted **Moleskine**), a **Uni-ball Eye Micro**, **Bose QC35** headphones, and whatever I’m reading at the time. I’ve got an **iPhone XR** in black, a leather card slip, and a fairly svelte set of keys on a keyring in my pockets. I almost never carry cash.
 
 ### Personal Tech
-I’m going to write more about this soon, but in short I have this personal website built with Hugo, running on Netlify. I have some scrapers running that export what I’m reading and watching from other services so I can display it here.
+I’m going to write more about this soon, but in short I have this personal website built with Hugo, running on Netlify. I have some scrapers running that export what I’m reading and watching from other services so I can display it [here](/media).

@@ -77,6 +77,10 @@ blockquote {
   border-left: 5px solid var(--c-accent);
 }
 
+ul {
+  margin: 0;
+}
+
 .u-title {
   color: var(--c-title);
 }
@@ -427,33 +431,51 @@ blockquote {
 }
 
 /**
- * Book Table
+ * Media Table
  */
-.book-table {
+.media-table {
+  margin-top: 2rem;
   width: 100%;
+  border-collapse: collapse;
 }
 
-.book-table th,
+.media-table th,
 td {
   text-align: left;
 }
 
-.book-table thead {
+.media-table thead {
   color: var(--c-accent);
   text-transform: uppercase;
 }
 
-.book-table td {
-  padding: 0.5rem 0;
+.media-table--book th:last-child {
+  text-align: right;
+}
+
+.media-table td {
+  padding: .5rem 0;
   vertical-align: top;
 }
 
-.book-table__date {
-  width: 6rem;
+.media-table td:not(:last-child) {
+  padding-right: 1.5rem;
 }
 
-.book-table__title {
+.media-table__date {
+  width: 6rem;
+  white-space: nowrap;
+}
+
+.media-table__title {
+  width: 100%;
   font-weight: bold;
+}
+
+.media-table__author,
+.media-table__year {
+  text-align: right;
+  white-space: nowrap;
 }
 
 /**

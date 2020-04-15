@@ -8,4 +8,10 @@ layout: media
 
 ### Films I've Watched
 
+#### Recent Favourites
+- Portrait of a Girl on Fire (2019)
+- The Street (2019)
+- Watchmen (TV) (2018)
+- Uncut Gems (2019)
+
 {{< filmtable key="watched" >}}
