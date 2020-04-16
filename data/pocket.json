@@ -1,5 +1,12 @@
 [
   {
+    "title": "The Devastating Decline of a Brilliant Young Coder",
+    "link": "https://www.wired.com/story/lee-holloway-devastating-decline-brilliant-young-coder/",
+    "content": "On Friday, September 13, 2019, Matthew Prince and Michelle Zatlyn, cofounders of the San Francisco internet security firm Cloudflare, stood on a slim marble balcony overlooking the floor of the New York Stock Exchange.",
+    "word_count": 7185,
+    "date_updated": "2020-04-16T08:29:38.000Z"
+  },
+  {
     "title": "Roar (film)",
     "link": "https://en.wikipedia.org/wiki/Roar_(film)",
     "content": "Roar is a 1981 American adventure comedy film[3][4] written and directed by Noel Marshall, produced by (and starring) Marshall and his wife Tippi Hedren, and co-starring Hedren's daughter Melanie Griffith and Marshall's sons John and Jerry.",
@@ -34991,12 +34998,5 @@
     "content": "",
     "word_count": 0,
     "date_updated": "2016-09-25T13:46:32.000Z"
-  },
-  {
-    "title": "Quick-starts",
-    "link": "http://mongodb.github.io/node-mongodb-native/2.2/quick-start",
-    "content": "",
-    "word_count": 0,
-    "date_updated": "2016-09-24T15:26:55.000Z"
   }
 ]
