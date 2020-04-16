@@ -1,5 +1,12 @@
 [
   {
+    "title": "Dodging Covid: A Coronavirus Diary That Begins in January",
+    "link": "https://lithub.com/dodging-covid-a-coronavirus-diary-that-begins-in-january/",
+    "content": "As New York City struggles under COVID-19, a novelist and United Nations advisor shares his diary on the ties that bind during a fragmented international response to the pandemic.",
+    "word_count": 3419,
+    "date_updated": "2020-04-16T12:56:12.000Z"
+  },
+  {
     "title": "WHO Sets 6 Conditions For Ending A Coronavirus Lockdown",
     "link": "https://www.npr.org/sections/goatsandsoda/2020/04/15/834021103/who-sets-6-conditions-for-ending-a-coronavirus-lockdown",
     "content": "For the billions of people now living under some form of stay-at-home or lockdown orders, experts from the World Health Organization have new guidance: We should be ready to \"change our behaviors for the foreseeable future,\" they say, as the agency updates its advice on when to lift COVID-19 lockdow",
@@ -34991,12 +34998,5 @@
     "content": "This article was peer reviewed by Ryan Chenkie. Thanks to all of SitePoint’s peer reviewers for making SitePoint content the best it can be!  Requesting data from the server on the client side is not a new concept. It allows an application to load data without having to refresh the page.",
     "word_count": 2583,
     "date_updated": "2016-09-25T18:22:07.000Z"
-  },
-  {
-    "title": "Your First GraphQL Server",
-    "link": "https://medium.com/the-graphqlhub/your-first-graphql-server-3c766ab4f0a2",
-    "content": "So, today we’re going to write a small GraphQL server. I’m not going to try to persuade you to drop everything and adopt GraphQL — but if you’re curious about what this stuff looks like today and how it works, read on. We need a server to receive our GraphQL queries.",
-    "word_count": 1375,
-    "date_updated": "2016-09-25T18:17:32.000Z"
   }
 ]
