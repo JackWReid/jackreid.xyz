@@ -1206,8 +1206,8 @@
   {
     "title": "Working with strings in Rust",
     "link": "https://fasterthanli.me/blog/2020/working-with-strings-in-rust/",
-    "content": "There's a question that always comes up when people pick up the Rust programming language: why are there two string types? Why is there String, and &str?",
-    "word_count": 10208,
+    "content": "There’s a question that always comes up when people pick up the Rust programming language: why are there two string types? Why is there String, and &str?",
+    "word_count": 10207,
     "date_updated": "2020-02-20T18:28:25.000Z"
   },
   {
