@@ -1,5 +1,19 @@
 [
   {
+    "title": "Waffle Houses Mean Way More Than Waffles in Disasters",
+    "link": "https://daily.jstor.org/waffle-houses-mean-way-more-than-waffles-in-disasters/",
+    "content": "In the aftermath of disasters, we turn to governments and public institutions to mobilize forces, organize relief efforts, and provide care and disaster management. However, in many communities, especially in capitalist economies, the private sector commands considerable resources.",
+    "word_count": 492,
+    "date_updated": "2020-04-17T06:49:17.000Z"
+  },
+  {
+    "title": "Who Were the Ladies of Llangollen?",
+    "link": "https://daily.jstor.org/who-were-the-ladies-of-llangollen/",
+    "content": "Princesses, dukes, and lords ventured to the picturesque village of Llangollen, Wales, to fête two pink-cheeked women in top hats. Possibly more interesting “commoners,” like Erasmus Darwin and his grandson Charles, also called on them.",
+    "word_count": 527,
+    "date_updated": "2020-04-17T06:49:06.000Z"
+  },
+  {
     "title": "Dodging Covid: A Coronavirus Diary That Begins in January",
     "link": "https://lithub.com/dodging-covid-a-coronavirus-diary-that-begins-in-january/",
     "content": "As New York City struggles under COVID-19, a novelist and United Nations advisor shares his diary on the ties that bind during a fragmented international response to the pandemic.",
@@ -34984,19 +34998,5 @@
     "content": "Recently, ppk claimed the web is going too fast in the wrong direction, and asked for a year's moratorium on web features. I was so angry I ran straight to a dictionary to find out what \"moratorium\" meant. Turns out it means \"suspension\".  Is it? Let's look at the modern web's \"hello world\":",
     "word_count": 1615,
     "date_updated": "2016-09-25T18:51:55.000Z"
-  },
-  {
-    "title": "Space in Design Systems",
-    "link": "https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62",
-    "content": "I’ve long referred to Color, Type and Icons as the “Big 3” of a system’s visual language. All UI components — from Buttons on up — are built with them. But I left something out. Space, our final frontier. Space is everywhere.",
-    "word_count": 1710,
-    "date_updated": "2016-09-25T18:31:02.000Z"
-  },
-  {
-    "title": "Creating a GraphQL Server with Node.js and MongoDB",
-    "link": "https://www.sitepoint.com/creating-graphql-server-nodejs-mongodb/",
-    "content": "This article was peer reviewed by Ryan Chenkie. Thanks to all of SitePoint’s peer reviewers for making SitePoint content the best it can be!  Requesting data from the server on the client side is not a new concept. It allows an application to load data without having to refresh the page.",
-    "word_count": 2583,
-    "date_updated": "2016-09-25T18:22:07.000Z"
   }
 ]
