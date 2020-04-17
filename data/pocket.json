@@ -1,5 +1,12 @@
 [
   {
+    "title": "The View from the Front Lines of NYC’s Public Hospitals",
+    "link": "https://kottke.org/20/04/the-view-from-the-front-lines-of-nycs-public-hospitals",
+    "content": "Clad in full PPE, photographer Philip Montgomery visited seven different NYC public hospitals over the course of a week for the NY Times Magazine, documenting the hospital workers’ fight against Covid-19, supply shortages, and intense working conditions.",
+    "word_count": 389,
+    "date_updated": "2020-04-17T15:51:08.000Z"
+  },
+  {
     "title": "Cauliflower bulgur pilaf with tahini sauce",
     "link": "https://cookveggielicious.com/cauliflower-bulgur-pilaf-with-tahini-sauce",
     "content": "This delicious cauliflower bulgur pilaf is a brilliant vegan meal. It’s also great as part of a mezze spread and goes perfectly with so many delicious dishes. Drizzle over tahini sauce for bulgur pilaf perfection. Roasting cauliflower really is the best way to prepare it.",
@@ -6422,7 +6429,7 @@
     "title": "Progressive React",
     "link": "https://houssein.me/progressive-react",
     "content": "tl.",
-    "word_count": 4232,
+    "word_count": 4115,
     "date_updated": "2019-02-24T11:56:59.000Z"
   },
   {
@@ -34991,12 +34998,5 @@
     "content": "I don’t envy Lester Holt. No matter what he does in the first presidential debate, he’ll be denounced. But this certainty should be liberating. If you know the brickbats will come one way or the other, you might as well do the right thing.",
     "word_count": 767,
     "date_updated": "2016-09-26T10:34:28.000Z"
-  },
-  {
-    "title": "President Trump’s First Term",
-    "link": "https://www.newyorker.com/magazine/2016/09/26/president-trumps-first-term",
-    "content": "On the morning of January 20, 2017, the President-elect is to visit Barack Obama at the White House for coffee, before they share a limousine—Obama seated on the right, his successor on the left—for the ride to the Capitol, where the Inauguration will take place, on the west front terrace, at no",
-    "word_count": 8009,
-    "date_updated": "2016-09-26T10:32:38.000Z"
   }
 ]
