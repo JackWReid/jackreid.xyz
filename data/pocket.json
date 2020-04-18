@@ -1,5 +1,12 @@
 [
   {
+    "title": "Better Form Inputs for Better Mobile User Experiences",
+    "link": "https://css-tricks.com/better-form-inputs-for-better-mobile-user-experiences/",
+    "content": "I’d like to mention one final element that allows you to create your own custom autocomplete functionality: datalist.",
+    "word_count": 267,
+    "date_updated": "2020-04-18T07:11:35.000Z"
+  },
+  {
     "title": "The View from the Front Lines of NYC’s Public Hospitals",
     "link": "https://kottke.org/20/04/the-view-from-the-front-lines-of-nycs-public-hospitals",
     "content": "Clad in full PPE, photographer Philip Montgomery visited seven different NYC public hospitals over the course of a week for the NY Times Magazine, documenting the hospital workers’ fight against Covid-19, supply shortages, and intense working conditions.",
@@ -13681,7 +13688,7 @@
     "title": "Cloud Design Patterns",
     "link": "https://docs.microsoft.com/en-us/azure/architecture/patterns/",
     "content": "These design patterns are useful for building reliable, scalable, secure applications in the cloud. Each pattern describes the problem that the pattern addresses, considerations for applying the pattern, and an example based on Microsoft Azure.",
-    "word_count": 1348,
+    "word_count": 1242,
     "date_updated": "2018-04-02T16:32:43.000Z"
   },
   {
@@ -34991,12 +34998,5 @@
     "content": "When I graduated from college, I slipped into what I will, in my artistic elderhood, when I am sprawled on a pile of cushions and age-worn bestsellers, being fanned by my robot grandchildren, while my adoring editors drop grapes into my mouth, refer to as my “blue period.",
     "word_count": 1234,
     "date_updated": "2016-09-26T14:31:13.000Z"
-  },
-  {
-    "title": "Debate moderators shouldn’t duck",
-    "link": "https://www.washingtonpost.com/opinions/debate-moderators-shouldnt-duck/2016/09/25/22fedf32-81c7-11e6-8327-f141a7beb626_story.html",
-    "content": "I don’t envy Lester Holt. No matter what he does in the first presidential debate, he’ll be denounced. But this certainty should be liberating. If you know the brickbats will come one way or the other, you might as well do the right thing.",
-    "word_count": 767,
-    "date_updated": "2016-09-26T10:34:28.000Z"
   }
 ]
