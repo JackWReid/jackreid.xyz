@@ -2,6 +2,7 @@
 title: Emma Willard's Maps of Time
 slug: willard-maps-of-time
 date: 2020-02-07T09:43:59.084Z
+link: https://publicdomainreview.org/essay/emma-willard-maps-of-time
 tags:
   - link
   - article

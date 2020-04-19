@@ -2,6 +2,7 @@
 title: 'How to Make Writing a Lot Easier'
 slug: make-writing-easier
 date: 2020-01-28T10:44:36.595Z
+link: https://forge.medium.com/how-to-write-10-000-words-a-week-a7c63d97ea79
 tags:
   - link
   - article

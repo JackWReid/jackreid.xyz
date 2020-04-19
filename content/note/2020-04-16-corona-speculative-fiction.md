@@ -2,6 +2,7 @@
 title: Didn't I Write This Story Already?
 slug: corona-speculative-fiction
 date: 2020-04-16T08:48:20.172Z
+link: http://clarkesworldmagazine.com/kritzer_11_15/
 tags:
   - link
   - article

@@ -2,6 +2,7 @@
 title: 'The Only Safe Election Is a Low-Tech Election'
 slug: low-tech-election-iowa
 date: 2020-02-04T15:49:12.209Z
+link: https://www.nytimes.com/2020/02/04/technology/election-tech.html
 tags:
   - link
   - article

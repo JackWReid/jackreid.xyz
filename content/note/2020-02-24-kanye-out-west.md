@@ -2,6 +2,7 @@
 title: Kanye, Out West
 slug: kanye-out-west
 date: 2020-02-24T15:17:17.342Z
+link: https://www.nytimes.com/2020/02/23/style/kanye-west-cody-wyoming.html?searchResultPosition=1
 tags:
   - link
   - article

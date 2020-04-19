@@ -2,6 +2,7 @@
 title: 'Stuck in Central China on Coronavirus Lockdown'
 slug: coronavirus-central-lockdown
 date: 2020-02-04T14:00:08.141Z
+link: https://www.nybooks.com/daily/2020/02/04/stuck-in-central-china-on-coronavirus-lockdown/
 tags:
   - link
   - article

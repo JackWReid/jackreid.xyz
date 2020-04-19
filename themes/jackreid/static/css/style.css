@@ -81,10 +81,6 @@ ul {
   margin: 0;
 }
 
-.u-title {
-  color: var(--c-title);
-}
-
 .pagination {
   margin-top: 2rem;
   display: flex;
@@ -229,6 +225,11 @@ ul {
 /**
  * List pages
  */
+
+.list-page__title {
+  text-transform: capitalize;
+}
+
 .list-page__list,
 .post-list__list {
   margin: 2rem 0 0;

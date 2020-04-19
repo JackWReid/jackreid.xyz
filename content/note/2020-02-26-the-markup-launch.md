@@ -2,6 +2,7 @@
 title: The Markup Launches
 slug: the-markup-launch
 date: 2020-02-26T09:09:03.356Z
+link: https://themarkup.org/2020/02/25/president-letter-nabiha-syed
 tags:
   - link
   - article

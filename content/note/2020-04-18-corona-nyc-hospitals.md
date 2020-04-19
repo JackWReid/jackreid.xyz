@@ -2,6 +2,7 @@
 title: Inside the Public Hospitals Trying to Save New York - The New York Times
 slug: corona-nyc-hospitals
 date: 2020-04-18T19:21:00.816Z
+link: https://www.nytimes.com/interactive/2020/04/15/magazine/new-york-hospitals.html
 tags:
   - link
   - article

@@ -2,6 +2,7 @@
 title: James Joyce’s grandson and the death of the stubborn literary executor
 slug: james-joyce-estate
 date: 2020-02-10T09:01:53
+link: https://theoutline.com/post/8603/stephen-joyce-james-joyce-literary-estate
 tags:
   - link
   - article

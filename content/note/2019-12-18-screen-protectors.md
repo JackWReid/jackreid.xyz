@@ -3,6 +3,7 @@ title: "Screen Protectors"
 slug: screen-protectors
 date: 2019-12-18T10:05:00
 draft: false
+link: https://www.theverge.com/2019/12/16/21021005/google-youtube-moderators-ptsd-accenture-violent-disturbing-content-interviews-video
 tags:
   - web
   - article

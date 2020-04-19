@@ -2,6 +2,7 @@
 title: Haruki Murakami Challenged On Women
 slug: murakami-women-interview
 date: 2020-04-07T12:26:52.646Z
+link: https://lithub.com/a-feminist-critique-of-murakami-novels-with-murakami-himself/
 tags:
   - link
   - article

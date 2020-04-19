@@ -2,6 +2,7 @@
 title: What Joe Biden Can't Bring Himself To Say
 slug: joe-biden-stutter
 date: 2020-02-10T08:55:41.615Z
+link: https://www.theatlantic.com/magazine/archive/2020/01/joe-biden-stutter-profile/602401/
 tags:
   - link
   - article

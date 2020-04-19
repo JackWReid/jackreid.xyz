@@ -2,6 +2,7 @@
 title: 'Dawn or Dusk?'
 slug: dawn-or-dusk-painting
 date: 2020-02-10T09:04:15.509Z
+link: https://eclecticlight.co/2020/02/01/dawn-or-dusk-how-can-you-tell-when-it-was-painted/
 tags:
   - link
   - article

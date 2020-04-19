@@ -2,6 +2,7 @@
 title: 'Google Maps Hacks'
 slug: google-maps-hacks
 date: 2020-02-03T10:01:42.464Z
+link: http://www.simonweckert.com/googlemapshacks.html
 tags:
   - link
   - article

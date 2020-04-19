@@ -2,6 +2,7 @@
 title: 'Rise of the Blur'
 slug: rise-of-the-blur
 date: 2020-01-27T09:23:05.591Z
+link: https://nplusonemag.com/online-only/online-only/rise-of-the-blur/
 tags:
   - link
   - article

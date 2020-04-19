@@ -2,6 +2,7 @@
 title: Greta Gerwig and the Politics of Women's Genres
 slug: little-women-gerwig-crit
 date: 2020-02-10T11:46:01.601Z
+link: https://lareviewofbooks.org/article/ambidextrous-authorship-greta-gerwig-and-the-politics-of-womens-genres/
 tags:
   - link
   - article

@@ -2,7 +2,7 @@
 <main>
   <article class="list-page__main">
     <header>
-      <h1 class="u-title">{{if eq .Kind "taxonomy"}}#{{end}}{{.Title}}</h1>
+      <h1 class="list-page__title">{{if eq .Kind "taxonomy"}}{{end}}{{.Title}}</h1>
     </header>
     {{.Content}}
   </article>
@@ -13,6 +13,7 @@
       <h2 class="list-page__list-item-title">
         <a href="{{.Permalink}}">{{ .Title }}</a>
       </h2>
+      <p class="list-page__list-item-summary">{{.Summary}}</p>
     </li>
     {{ end }}
   </ul>

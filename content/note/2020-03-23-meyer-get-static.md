@@ -2,6 +2,7 @@
 title: Get Static
 slug: meyer-get-static
 date: 2020-03-23T11:14:19.723Z
+link: https://meyerweb.com/eric/thoughts/2020/03/22/get-static/
 tags:
   - link
   - article

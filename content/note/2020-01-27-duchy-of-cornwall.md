@@ -2,6 +2,7 @@
 title: "Harry and Meghan's Big Funding Source Is Private. Sort of"
 slug: duchy-of-cornwall
 date: 2020-01-27T09:43:35.100Z
+link: https://www.nytimes.com/2020/01/26/world/europe/harry-meghan-charles-duchy-of-cornwall.html
 tags:
   - link
   - article
