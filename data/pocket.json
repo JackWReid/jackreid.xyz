@@ -1,5 +1,12 @@
 [
   {
+    "title": "Hyperlinks, hyperlinks, hyperlinks",
+    "link": "https://jborichevskiy.com/posts/patch-notes-v2/#cryptocurrency",
+    "content": "These are my weekly Patch Notes – a log of the mental model updates I’m making and a braindump of things I’m leaning, building, or thinking about. Subscribe on Substack here.",
+    "word_count": 1820,
+    "date_updated": "2020-04-19T06:36:54.000Z"
+  },
+  {
     "title": "Writing Python inside your Rust code — Part 1",
     "link": "https://blog.m-ou.se/writing-python-inside-rust-1/",
     "content": "About a year ago, I published a Rust crate called inline-python, which allows you to easily mix some Python into your Rust code using a python!{ .. } macro. In this series, I’ll go through the process of developing this crate from scratch.",
@@ -34991,12 +34998,5 @@
     "content": "I thought she was beautiful, although I never understood why she plucked her eyebrows off and penciled them on every morning an inch higher. She had been captain of her high school basketball team in Japan, and she ran circles around us kids on a dirt court in our small town in Upstate New York.",
     "word_count": 4552,
     "date_updated": "2016-09-26T18:10:12.000Z"
-  },
-  {
-    "title": "Ruby vs Python, the Definitive FAQ",
-    "link": "https://hackernoon.com/ruby-vs-python-the-definitive-faq-5cb0046292be?source=email-6f43efaaa5c7-1474732122406-digest.reader------0-3&gi=d5c0ff99d090",
-    "content": "“Python or Ruby” is the one of the most hotly debated topics in the programming world, ranking just behind “emacs or vim” and “pro-skub or anti-skub” in importance and complexity.",
-    "word_count": 468,
-    "date_updated": "2016-09-26T18:09:24.000Z"
   }
 ]
