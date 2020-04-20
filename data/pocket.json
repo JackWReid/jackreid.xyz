@@ -1,5 +1,26 @@
 [
   {
+    "title": "Why I Don’t Use A Static Site Generator",
+    "link": "https://kevq.uk/why-i-dont-use-a-static-site-generator/",
+    "content": "I often receive inquisitive looks when I tell people I’m running WordPress on my website. Especially when I’m talking to other people in the InfoSec community where getting responses like, “WordPress, really? Why not a static site generator like Hugo?” is par for the course.",
+    "word_count": 456,
+    "date_updated": "2020-04-20T07:17:50.000Z"
+  },
+  {
+    "title": "A Static Future",
+    "link": "https://www.joshwcomeau.com/gatsby/a-static-future/",
+    "content": "As static sites enjoy an incredible resurgence in popularity, I've seen a lot of misconceptions around exactly what tools like Gatsby are capable of. Specifically, I've heard from some friends that liked the idea of using Gatsby, but worried that their project was \"too dynamic\".",
+    "word_count": 2000,
+    "date_updated": "2020-04-20T07:17:40.000Z"
+  },
+  {
+    "title": "Receive and Reply to SMS and MMS Messages in Node.js",
+    "link": "https://www.twilio.com/docs/sms/tutorials/how-to-receive-and-reply-node-js?utm_source=docs&utm_medium=social&utm_campaign=guides_tags",
+    "content": "In this guide, we'll show you how to use Programmable SMS to respond to incoming SMS messages in your Node.js web application. When someone sends a text message to your Twilio number, Twillio can call a webhook you create in Node.js from which you can send a reply back using TwiML.",
+    "word_count": 2145,
+    "date_updated": "2020-04-20T07:08:49.000Z"
+  },
+  {
     "title": "The Coronavirus in America: The Year Ahead",
     "link": "https://www.nytimes.com/2020/04/18/health/coronavirus-america-future.html",
     "content": "The coronavirus is spreading from America’s biggest cities to its suburbs, and has begun encroaching on the nation’s rural regions. The virus is believed to have infected millions of citizens and has killed more than 34,000.",
@@ -34977,26 +34998,5 @@
     "content": "To mark the 400th anniversary of Shakespeare’s death, we asked leading actors to perform key speeches from his plays. Subscribe to Guardian Culture ► http://bit.ly/subgdncultureHere, Damian Lewis performs Antony’s lines from Act III, Scene 2 of Julius Caesar. Antony has been granted permission",
     "word_count": 0,
     "date_updated": "2016-09-26T19:14:43.000Z"
-  },
-  {
-    "title": "",
-    "link": "https://medium.com/@kentcdodds/why-users-care-about-how-you-write-code-2c7870858df",
-    "content": "",
-    "word_count": 0,
-    "date_updated": "2016-09-26T19:14:36.000Z"
-  },
-  {
-    "title": "THE NETWORK",
-    "link": "http://other-people.network/#/channels/333?_k=zn9crg",
-    "content": "Loading...",
-    "word_count": 1,
-    "date_updated": "2016-09-26T18:14:17.000Z"
-  },
-  {
-    "title": "Largest DDoS attack ever delivered by botnet of hijacked IoT devices",
-    "link": "http://www.networkworld.com/article/3123672/security/largest-ddos-attack-ever-delivered-by-botnet-of-hijacked-iot-devices.html",
-    "content": "Securing the internet of things should become a major priority now that an army of compromised devices – perhaps 1 million strong - has swamped one of the industry’s top distributed denial-of-service protection services.",
-    "word_count": 635,
-    "date_updated": "2016-09-26T18:14:03.000Z"
   }
 ]
