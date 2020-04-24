@@ -52,7 +52,7 @@
     "title": "Things I Wished More Developers Knew About Databases",
     "link": "https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78",
     "content": "A large majority of computer systems have some state and are likely to depend on a storage system. My knowledge on databases accumulated over time, but along the way our design mistakes caused data loss and outages.",
-    "word_count": 4466,
+    "word_count": 4489,
     "date_updated": "2020-04-22T10:04:07.000Z"
   },
   {
