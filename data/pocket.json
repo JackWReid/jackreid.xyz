@@ -1,5 +1,12 @@
 [
   {
+    "title": "So you want to make it on the fediverse?",
+    "link": "https://yarmo.eu/blog/make-it-on-fediverse",
+    "content": "That's the plan, right? A whole new world awaits you on the fediverse, and you are going to make it there! There's something you should know. Whenever I talk to people in my surroundings about the fediverse and try to convince them to use it, I have a go-to story that I tell.",
+    "word_count": 689,
+    "date_updated": "2020-04-24T14:34:14.000Z"
+  },
+  {
     "title": "My Restaurant Was My Life for 20 Years. Does the World Need It Anymore?",
     "link": "https://www.nytimes.com/2020/04/23/magazine/closing-prune-restaurant-covid.html",
     "content": "On the night before I laid off all 30 of my employees, I dreamed that my two children had perished, buried alive in dirt, while I dug in the wrong place, just five feet away from where they were actually smothered.",
@@ -34991,12 +34998,5 @@
     "content": "Many people are currently assessing React Native as a platform to develop their next mobile app on. This is no trivial matter. Switching your software development platform involves a high setup cost and will profoundly impact your daily programming workflow.",
     "word_count": 6926,
     "date_updated": "2016-09-27T21:53:15.000Z"
-  },
-  {
-    "title": "Rich Trouton on iCloud Desktop and Documents in MacOS Sierra",
-    "link": "http://daringfireball.net/linked/2016/09/27/trouton-icloud-desktop",
-    "content": "Great piece by Rich Trouton exploring the details of how iCloud Desktop and Document syncing works. He makes a good point here:  Currently, Apple provides 5 GB of storage space for free for iCloud users.",
-    "word_count": 180,
-    "date_updated": "2016-09-27T17:55:32.000Z"
   }
 ]
