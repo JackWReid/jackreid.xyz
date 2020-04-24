@@ -1,5 +1,61 @@
 [
   {
+    "title": "The Quiet Revolution of Animal Crossing",
+    "link": "https://www.theatlantic.com/family/archive/2020/04/animal-crossing-isnt-escapist-its-political/610012/",
+    "content": "Updated at 10:30 a.m. ET on April 15, 2020. Many years ago, when my son was 5, he got upside down on a long-term loan in Animal Crossing, Nintendo’s 2002 video game about running away from home to lead a prosaic life in an adorable animal village.",
+    "word_count": 2528,
+    "date_updated": "2020-04-24T08:00:20.000Z"
+  },
+  {
+    "title": "These British Pub Owners Say They Won’t Survive The Lockdown If Landlords Continue To Demand Rent",
+    "link": "https://www.buzzfeed.com/adeonibada/coronavirus-lockdown-british-pubs",
+    "content": "One owner of a pub in Walton-on-Thames told BuzzFeed News that his rent had been paid quarterly to the Wellington Pub Company, the largest no-tie (meaning pub owners have control over the drinks and products they sell) pub estate in the UK, owned by one Britain’s wealthiest families, the Reuben Br",
+    "word_count": 422,
+    "date_updated": "2020-04-23T17:22:02.000Z"
+  },
+  {
+    "title": "Raab is tried and found wanting by a masterful Starmer",
+    "link": "https://www.theguardian.com/politics/2020/apr/22/raab-is-tried-and-found-wanting-by-a-masterful-starmer#Echobox=1587623626",
+    "content": "Finally. Finally we have a fully functioning opposition: one united behind a leader in whom they – almost – all believe. Keir Starmer might not have imagined a near-empty and silent chamber for his first outing at prime minister’s questions, but in a way it played to his strengths.",
+    "word_count": 963,
+    "date_updated": "2020-04-23T17:11:32.000Z"
+  },
+  {
+    "title": "Ella Fitzgerald Masterfully Butchers “Mack the Knife”",
+    "link": "https://kottke.org/20/04/ella-fitzgerald-masterfully-butchers-mack-the-knife",
+    "content": "If you listen to more than 20 seconds of any song by Ella Fitzgerald, you can instinctively tell how amazing a singer she was. But taking a closer look reveals just how special she was.",
+    "word_count": 221,
+    "date_updated": "2020-04-22T18:52:12.000Z"
+  },
+  {
+    "title": "Facing the Jackpot with William Gibson",
+    "link": "http://blog.pshares.org/index.php/facing-the-jackpot-with-william-gibson/",
+    "content": "After the 2016 presidential election, I had the uncanny feeling that we had veered into a different, darker timeline and were hurtling away from the future I had expected.",
+    "word_count": 2025,
+    "date_updated": "2020-04-22T14:26:05.000Z"
+  },
+  {
+    "title": "Things I Wished More Developers Knew About Databases",
+    "link": "https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78",
+    "content": "A large majority of computer systems have some state and are likely to depend on a storage system. My knowledge on databases accumulated over time, but along the way our design mistakes caused data loss and outages.",
+    "word_count": 4466,
+    "date_updated": "2020-04-22T10:04:07.000Z"
+  },
+  {
+    "title": "Changing a file's “Date Created” and “Last Modified” attributes to another file's",
+    "link": "https://unix.stackexchange.com/questions/118577/changing-a-files-date-created-and-last-modified-attributes-to-another-file",
+    "content": "You can use the touch command along with the -r switch to apply another file's attributes to a file.  NOTE: There is no such thing as creation date in Unix, there are only access, modify, and change. See this U&L Q&A titled: get age of given file for further details.",
+    "word_count": 198,
+    "date_updated": "2020-04-22T08:53:03.000Z"
+  },
+  {
+    "title": "How Russia Learned to Start Worrying",
+    "link": "https://nplusonemag.com/online-only/online-only/how-russia-learned-to-start-worrying/",
+    "content": "It got crazy during the commercial break. That’s when the most interesting debates always happen anyway, but January 27 was more interesting than most. The scandal of the day on Russia’s daytime talk shows was the “toxicity” of Ukraine in American politics.",
+    "word_count": 4069,
+    "date_updated": "2020-04-22T06:57:29.000Z"
+  },
+  {
     "title": "That Time I Tried to Buy an Actual Barrel of Crude Oil",
     "link": "https://www.bloomberg.com/news/articles/2015-11-03/that-time-i-tried-to-buy-some-crude-oil",
     "content": "A fortuitous meeting between a gas trader and his broker at a bar in downtown New York was not going the way I had hoped. After revealing a long-held plan to try to buy a barrel of crude, I was now receiving a disappointingly stern lecture on the dangers of hydrogen sulfides.",
@@ -157,7 +213,7 @@
     "title": "Our Pandemic Summer",
     "link": "https://www.theatlantic.com/health/archive/2020/04/pandemic-summer-coronavirus-reopening-back-normal/609940/",
     "content": "The fight against the coronavirus won’t be over when the U.S. reopens. Here’s how the nation must prepare itself. Updated at 11:50 a.m. ET on April 15, 2020.",
-    "word_count": 5268,
+    "word_count": 5278,
     "date_updated": "2020-04-15T08:12:07.000Z"
   },
   {
@@ -535,7 +591,7 @@
     "title": "Creamy Homemade Yogurt",
     "link": "https://cooking.nytimes.com/recipes/1017991-creamy-homemade-yogurt",
     "content": "Preparation Rub an ice cube over the inside bottom of a heavy pot to prevent scorching (or rinse the inside of the pot with cold water). Add milk and cream, if using, and bring to a bare simmer, until bubbles form around the edges, 180 to 200 degrees. Stir the milk occasionally as it heats.",
-    "word_count": 286,
+    "word_count": 282,
     "date_updated": "2020-03-30T17:45:48.000Z"
   },
   {
@@ -807,7 +863,7 @@
   {
     "title": "Coronavirus tracked: the latest figures as the pandemic spreads | Free to read",
     "link": "https://www.ft.com/content/a26fbf7e-48f8-11ea-aeb3-955839e06441",
-    "content": "The human cost of the coronavirus outbreak has continued to mount, with more than 2.34m cases confirmed globally and more than 152,500 people known to have died from the disease.",
+    "content": "The human cost of the coronavirus outbreak has continued to mount, with more than 2.49m cases confirmed globally and more than 163,500 people known to have died from the disease.",
     "word_count": 817,
     "date_updated": "2020-03-21T23:53:17.000Z"
   },
@@ -1058,7 +1114,7 @@
   },
   {
     "title": "Radiooooo",
-    "link": "http://radiooooo.com/#",
+    "link": "https://radiooooo.com/",
     "content": "Radiooooo - The Musical Time Machine",
     "word_count": 0,
     "date_updated": "2020-03-11T03:55:41.000Z"
@@ -5509,10 +5565,10 @@
     "date_updated": "2019-04-17T08:22:28.000Z"
   },
   {
-    "title": "GAYLETTER",
+    "title": "FRANK OCEAN",
     "link": "http://gayletter.com/frank-ocean/",
-    "content": "FRANK OCEAN A conversation with our latest cover star on the queer influences that shaped him, the joy of rock climbing, and what he wished he'd done when he met the president (not this one, the last one). Intuition is a big word for Frank Ocean.",
-    "word_count": 4265,
+    "content": "A conversation with our latest cover star on the queer influences that shaped him, the joy of rock climbing, and what he wished he'd done when he met the president (not this one, the last one). Intuition is a big word for Frank Ocean. It’s been a guiding star in his uncharted course to success.",
+    "word_count": 4263,
     "date_updated": "2019-04-16T17:35:04.000Z"
   },
   {
@@ -6807,7 +6863,7 @@
     "title": "Pasta With Brown Butter and Parmesan",
     "link": "https://cooking.nytimes.com/recipes/1019980-pasta-with-brown-butter-and-parmesan",
     "content": "Preparation Bring a large pot of heavily salted water (2 heaping tablespoons kosher salt to about 7 quarts water) to a boil. Add pasta to boiling water and cook according to package directions until al dente.",
-    "word_count": 178,
+    "word_count": 174,
     "date_updated": "2019-02-09T14:57:04.000Z"
   },
   {
@@ -7115,7 +7171,7 @@
     "title": "The Six Forms of Media Bias",
     "link": "https://www.nytimes.com/2019/01/31/opinion/media-bias-howard-schultz.html",
     "content": "This article is part of David Leonhardt’s newsletter. You can sign up here to receive it each weekday. Her column is a cri de coeur against the media’s bias toward centrism. Too often, journalists confuse centrism with fairness, objectivity or common-sense truth. But centrism is none of those.",
-    "word_count": 847,
+    "word_count": 811,
     "date_updated": "2019-01-31T22:18:47.000Z"
   },
   {
@@ -9593,7 +9649,7 @@
     "title": "Stratechery by Ben Thompson",
     "link": "https://stratechery.com/",
     "content": "On the business, strategy, and impact of technology. It was, at first glance, hard to understand how anyone could be upset at the idea that It’s Time to Build.",
-    "word_count": 16511,
+    "word_count": 16536,
     "date_updated": "2018-09-26T11:13:25.000Z"
   },
   {
@@ -19398,7 +19454,7 @@
   },
   {
     "title": "",
-    "link": "https://www.nytimes.com",
+    "link": "https://www.nytimes.com/",
     "content": "",
     "word_count": 0,
     "date_updated": "2017-11-16T13:43:35.000Z"
@@ -24699,7 +24755,7 @@
     "title": "Monica Lewinsky",
     "link": "https://www.nytimes.com/2017/05/22/opinion/monica-lewinsky-roger-ailess-dream-was-my-nightmare.html",
     "content": "This is not another obituary for Roger Ailes, who died last week 10 months after being ousted at Fox News. It is, I hope, instead an obituary for the culture he purveyed — a culture that affected me profoundly and personally. Just two years after Rupert Murdoch appointed Mr.",
-    "word_count": 821,
+    "word_count": 814,
     "date_updated": "2017-05-22T22:36:58.000Z"
   },
   {
@@ -25076,8 +25132,8 @@
   {
     "title": "You're not going to believe what I'm about to tell you",
     "link": "https://theoatmeal.com/comics/believe",
-    "content": "This comic was inspired by this three-part series on the backfire effect from the You Are Not So Smart Podcast. I would also like to thank my wonderful girlfriend Theresea for calling my attention to the backfire effect in the first place.",
-    "word_count": 318,
+    "content": "This is a comic about the backfire effect.",
+    "word_count": 0,
     "date_updated": "2017-05-08T16:21:40.000Z"
   },
   {
@@ -26131,8 +26187,8 @@
     "date_updated": "2017-04-14T16:10:06.000Z"
   },
   {
-    "title": "The Most Important Page on Your Portfolio",
-    "link": "https://www.vanschneider.com/the-most-important-page-on-your-portfolio",
+    "title": "The most important page on your portfolio",
+    "link": "https://vanschneider.com/the-most-important-page-on-your-portfolio",
     "content": "In recent years I've reviewed hundreds if not thousands of portfolios. This was while working at a range of agencies and especially after I founded Semplice (a portfolio tool for designers). I've seen so many portfolios that I've started to notice some patterns.",
     "word_count": 1110,
     "date_updated": "2017-04-14T15:53:29.000Z"
@@ -29541,7 +29597,7 @@
   },
   {
     "title": "1973 | Meet Donald Trump",
-    "link": "http://www.nytimes.com/times-insider/2015/07/30/1973-meet-donald-trump/",
+    "link": "https://www.nytimes.com/times-insider/2015/07/30/1973-meet-donald-trump/",
     "content": "David W. Dunlap is a Metro reporter, and writes the Building Blocks column. He has worked at The Times for 40 years. Some Americans are just getting to know Donald Trump. Readers of The Times have known him for 42 years.",
     "word_count": 827,
     "date_updated": "2017-01-15T09:57:29.000Z"
@@ -32168,7 +32224,7 @@
     "title": "Bernie Sanders",
     "link": "https://www.nytimes.com/2016/11/12/opinion/bernie-sanders-where-the-democrats-go-from-here.html",
     "content": "Millions of Americans registered a protest vote on Tuesday, expressing their fierce opposition to an economic and political system that puts wealthy and corporate interests over their own.",
-    "word_count": 848,
+    "word_count": 841,
     "date_updated": "2016-11-13T11:06:14.000Z"
   },
   {
@@ -32377,8 +32433,8 @@
   {
     "title": "Forget “Why?”, it’s time to get to work.",
     "link": "https://medium.com/@anildash/forget-why-its-time-to-get-to-work-c49ac5f0da20",
-    "content": "There are concrete steps we can take immediately, which can set up habits that we can sustain for the years of struggle to come.",
-    "word_count": 965,
+    "content": "Don’t waste a single moment listening to the hand-wringing of the pundit class about Why This Happened, or people on TV talking about What This Means. The most important thing is that we focus on the work that needs to be done now.",
+    "word_count": 1169,
     "date_updated": "2016-11-09T16:48:29.000Z"
   },
   {
@@ -34036,8 +34092,8 @@
   {
     "title": "Microservices",
     "link": "https://martinfowler.com/articles/microservices.html",
-    "content": "When talking about components we run into the difficult definition of what makes a component. Our definition is that a component is a unit of software that is independently replaceable and upgradeable.",
-    "word_count": 4291,
+    "content": "a definition of this new architectural term The term \"Microservice Architecture\" has sprung up over the last few years to describe a particular way of designing software applications as suites of independently deployable services.",
+    "word_count": 5902,
     "date_updated": "2016-10-12T11:55:31.000Z"
   },
   {
@@ -34942,61 +34998,5 @@
     "content": "In the Comedy Central series Drunk History, a drunk comedian — gently guided by series co-creator and drinking buddy Derek Waters — tells a historical story, which in turn gets acted out with characters lip-syncing every one of the narrator’s sloshed words.",
     "word_count": 1739,
     "date_updated": "2016-09-27T17:32:33.000Z"
-  },
-  {
-    "title": "I have been terrified of an active shooter situation since I was 11 years old.",
-    "link": "https://medium.com/@mshannabrooks/i-have-been-terrified-of-an-active-shooter-situation-since-i-was-11-years-old-35842d06d359",
-    "content": "Spring has always been my dad’s favorite season; he says it’s because everything is green and new and fresh. In the Willamette Valley, that’s especially true.  On May 21, 1998, I was two days shy of my 11th birthday.",
-    "word_count": 1364,
-    "date_updated": "2016-09-27T17:21:25.000Z"
-  },
-  {
-    "title": "The Age of the Instagram Eyebrow",
-    "link": "https://howwegettonext.com/the-age-of-the-instagram-eyebrow-73f97cafab98?source=email-6f43efaaa5c7-1474991139080-digest.reader------1-3&gi=43377b3689a7",
-    "content": "You can probably tell a woman’s generation by the thickness of her eyebrows. I was a teen in the 90s, when a uniformly tweezed, slender arch was the norm—and when you pluck that much you just aren’t going to get it back. Now my natural brow’s not thick enough to be on trend.",
-    "word_count": 1582,
-    "date_updated": "2016-09-27T17:21:13.000Z"
-  },
-  {
-    "title": "10 Awesome Places to Find Background Music for Video",
-    "link": "https://medium.com/@larrykim/10-awesome-places-to-find-background-music-for-video-73b6870227c1",
-    "content": "Consumers find video engaging, compelling and convincing — so much so that they’re anywhere from 64% to 85% more likely to buy after watching a product video.  In fact, video on a landing page can boost conversions by an astonishing 80%.",
-    "word_count": 828,
-    "date_updated": "2016-09-27T17:21:03.000Z"
-  },
-  {
-    "title": "XYZ Affair",
-    "link": "http://en.m.wikipedia.org/wiki/XYZ_Affair",
-    "content": "XYZ Affair   This article is about a diplomatic episode. For the Brooklyn, New York, band, see The XYZ Affair. The XYZ Affair was a 1798 diplomatic episode during the administration of John Adams that Americans interpreted as an insult from France.",
-    "word_count": 941,
-    "date_updated": "2016-09-27T12:21:45.000Z"
-  },
-  {
-    "title": "People & Events",
-    "link": "http://www.pbs.org/wgbh/amex/adams/peopleevents/p_callender.html",
-    "content": "With the aid of his clandestine patron Thomas Jefferson, Scottish \"scandalmonger\" James Callender launched a print campaign against President John Adams that would make the election of 1800 one of the nastiest in history.",
-    "word_count": 691,
-    "date_updated": "2016-09-27T08:23:00.000Z"
-  },
-  {
-    "title": "Quasi-War",
-    "link": "https://en.m.wikipedia.org/wiki/Quasi-War",
-    "content": "American:Before U.S. military involvement:  After U.S. military involvement:",
-    "word_count": 1741,
-    "date_updated": "2016-09-27T08:21:52.000Z"
-  },
-  {
-    "title": "SVG has more potential",
-    "link": "https://madebymike.com.au//writing/svg-has-more-potential/",
-    "content": "I think many of us are not using SVG to its full potential. I often see SVG used as an alternative image format or as a simple solution for icons, and whilst it's great for these things, it's also a lot more than that. SVG can solve problems that HTML and CSS alone can't.",
-    "word_count": 1763,
-    "date_updated": "2016-09-27T08:21:51.000Z"
-  },
-  {
-    "title": "National Rail Enquiries - Official source for UK train times and timetables",
-    "link": "http://m.nationalrail.co.uk/pj/disruption/details/9A55B323EB734383AFD6513A84B8646D",
-    "content": "See live departures & arrivals for your favourite stations here Create an account or sign in. The generous support of people like you has enabled us to help thousands of street children around the world. Donate today",
-    "word_count": 99,
-    "date_updated": "2016-09-27T07:22:37.000Z"
   }
 ]
