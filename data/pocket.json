@@ -25075,7 +25075,7 @@
   },
   {
     "title": "Get started",
-    "link": "https://learningmusic.ableton.com",
+    "link": "https://learningmusic.ableton.com/",
     "content": "In these lessons, you'll learn the basics of music making. No prior experience or equipment is required; you'll do everything right here in your browser. To get started, check out the boxes below. Each one contains a small piece of music. Click a box to turn it on or off.",
     "word_count": 107,
     "date_updated": "2017-05-09T15:44:32.000Z"
@@ -30117,7 +30117,7 @@
     "title": "Functional-Light JavaScript",
     "link": "https://github.com/getify/Functional-Light-JS",
     "content": "This book is a balanced, pragmatic look at FP in JavaScript. The first edition is now complete. Read here online for free, or: \"Functional-Light JavaScript\" explores the core principles of functional programming (FP) as they are applied to JavaScript.",
-    "word_count": 593,
+    "word_count": 539,
     "date_updated": "2016-12-28T08:57:09.000Z"
   },
   {
