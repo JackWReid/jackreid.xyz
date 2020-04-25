@@ -13694,8 +13694,8 @@
   {
     "title": "OpenVPN",
     "link": "https://nordvpn.com/tutorials/linux/openvpn/",
-    "content": "1. Open terminal (keyboard shortcut: Ctrl + Alt + T).  2. Install OpenVPN client by entering:  command and it will print full configuration file list.  9. Choose a server which you would like to connect to.  10. Start OpenVPN with a chosen configuration by entering:",
-    "word_count": 324,
+    "content": "Don’t want to manage the VPN setup manually? Download the NordVPN app for Linux, where all you need to do is install the app, log in, and pick the server you want. 1. Open Terminal (keyboard shortcut: Ctrl + Alt + T). 2. Install the OpenVPN client by entering:",
+    "word_count": 450,
     "date_updated": "2018-04-05T21:19:54.000Z"
   },
   {
