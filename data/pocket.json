@@ -1,5 +1,12 @@
 [
   {
+    "title": "Library JSON - A Proposal for a Decentralized Goodreads",
+    "link": "https://tomcritchlow.com/2020/04/15/library-json/",
+    "content": "There’s been a lot of discussion around a “better” GoodReads and at some point almost every side-project-slinger has tried their hand at building a “books website”. Myself included. There is a large graveyard of these books sites.",
+    "word_count": 1024,
+    "date_updated": "2020-04-25T18:05:39.000Z"
+  },
+  {
     "title": "So you want to make it on the fediverse?",
     "link": "https://yarmo.eu/blog/make-it-on-fediverse",
     "content": "That's the plan, right? A whole new world awaits you on the fediverse, and you are going to make it there! There's something you should know. Whenever I talk to people in my surroundings about the fediverse and try to convince them to use it, I have a go-to story that I tell.",
@@ -34991,12 +34998,5 @@
     "content": "React is one of Facebook's first open source projects that is both under very active development and is also being used to ship code to everybody on facebook.com.",
     "word_count": 1521,
     "date_updated": "2016-09-27T22:58:43.000Z"
-  },
-  {
-    "title": "Why I'm not a React Native Developer",
-    "link": "https://arielelkin.github.io/articles/why-im-not-a-react-native-developer",
-    "content": "Many people are currently assessing React Native as a platform to develop their next mobile app on. This is no trivial matter. Switching your software development platform involves a high setup cost and will profoundly impact your daily programming workflow.",
-    "word_count": 6926,
-    "date_updated": "2016-09-27T21:53:15.000Z"
   }
 ]
