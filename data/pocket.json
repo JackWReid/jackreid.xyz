@@ -1,5 +1,19 @@
 [
   {
+    "title": "The Dangerous History of Immunoprivilege",
+    "link": "https://www.nytimes.com/2020/04/12/opinion/coronavirus-immunity-passports.html",
+    "content": "We’ve seen what happens when people with immunity to a deadly disease are given special treatment. It isn’t pretty. Ms. Olivarius is an assistant professor of history at Stanford University.",
+    "word_count": 1135,
+    "date_updated": "2020-04-26T10:40:43.000Z"
+  },
+  {
+    "title": "The curious etiquette of jogging in Paris",
+    "link": "https://www.economist.com/europe/2020/04/23/the-curious-etiquette-of-jogging-in-paris",
+    "content": "Editor’s note: The Economist is making some of its most important coverage of the covid-19 pandemic freely available to readers of The Economist Today, our daily newsletter. To receive it, register here. For our coronavirus tracker and more coverage, see our hub",
+    "word_count": 429,
+    "date_updated": "2020-04-26T10:40:23.000Z"
+  },
+  {
     "title": "Library JSON - A Proposal for a Decentralized Goodreads",
     "link": "https://tomcritchlow.com/2020/04/15/library-json/",
     "content": "There’s been a lot of discussion around a “better” GoodReads and at some point almost every side-project-slinger has tried their hand at building a “books website”. Myself included. There is a large graveyard of these books sites.",
@@ -34984,19 +34998,5 @@
     "content": "",
     "word_count": 0,
     "date_updated": "2016-09-28T11:29:26.000Z"
-  },
-  {
-    "title": "London's Mayor Photobombed Our Brexit Interview for Some Bromance",
-    "link": "https://www.globalcitizen.org/en/content/sadiq-khan-owen-jones-labour-party-conference/",
-    "content": "Despite the decisive tone of the slogan \"Brexit means Brexit,\" Britain is facing a period of serious national uncertainty. With a new government and a newly re-elected opposition leader, the country must wrestle with the divisions brought to the surface by the EU referendum campaign. ",
-    "word_count": 182,
-    "date_updated": "2016-09-28T10:40:32.000Z"
-  },
-  {
-    "title": "How to Contribute",
-    "link": "https://facebook.github.io/react/contributing/how-to-contribute.html",
-    "content": "React is one of Facebook's first open source projects that is both under very active development and is also being used to ship code to everybody on facebook.com.",
-    "word_count": 1521,
-    "date_updated": "2016-09-27T22:58:43.000Z"
   }
 ]
