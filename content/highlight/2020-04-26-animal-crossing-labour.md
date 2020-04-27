@@ -2,9 +2,8 @@
 title: Animal Crossing Isn't Escapist; It's Political
 slug: animal-crossing-labour
 date: 2020-04-26T12:19:46.024Z
+url: /note/2020-04-26-animal-crossing-labour
 tags:
-  - link
-  - article
   - games
 ---
 
