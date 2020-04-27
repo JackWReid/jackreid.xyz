@@ -108,10 +108,13 @@ ul {
 }
 
 .site-header {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
 }
 
 .site-header__title {
-  margin: 0 0 .2rem;
+  margin: 0 1rem 0 0;
   font-size: 1rem;
   text-transform: lowercase;
 }
@@ -120,8 +123,16 @@ ul {
   text-decoration: none;
 }
 
-.site-header__nav {
+.site-header__nav-list {
   display: flex;
+  justify-content: flex-end;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.site-header__nav-list li:not(:last-child) {
+  margin-right: 1rem;
 }
 
 @media screen and (max-width: 40rem) {
@@ -134,20 +145,9 @@ ul {
     margin-bottom: 0.5rem;
   }
 
-  .site-header__nav {
+  .site-header__nav-list {
     justify-content: center;
   }
-}
-
-.site-header__nav-list {
-  display: contents;
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
-
-.site-header__nav-list li:not(:last-child) {
-  margin-right: 1rem;
 }
 
 .site-footer {
@@ -160,6 +160,12 @@ ul {
   padding: 0;
   font-size: 0.8rem;
   list-style: none;
+}
+
+@media screen and (max-width: 40rem) {
+  .site-footer__nav-list {
+    display: block;
+  }
 }
 
 .site-footer__nav-list li {
@@ -232,7 +238,7 @@ ul {
 }
 
 .tag-list-title__label {
-  color: var(--c-accent); 
+  color: var(--c-accent);
 }
 
 .tag-list-title__value {
@@ -260,13 +266,13 @@ ul {
 }
 
 .tag-list-section {
-  font-size: .8rem;
+  font-size: 0.8rem;
   margin: 0;
 }
 
 .tag-list-section span {
   padding: 0 1rem;
-  color: var(--c-bg); 
+  color: var(--c-bg);
   background: var(--c-accent);
 }
 
@@ -318,7 +324,6 @@ ul {
   margin-bottom: 1rem;
 }
 
-
 /**
  * Highlight Card
  */
@@ -333,7 +338,6 @@ ul {
   color: var(--c-title);
 }
 
-
 /**
  * Note Card
  */
@@ -345,9 +349,8 @@ ul {
 }
 
 .note-card__content p {
-  margin: .5rem 0;
+  margin: 0.5rem 0;
 }
-
 
 /**
  * Single pages
@@ -413,7 +416,7 @@ ul {
   display: flex;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 40rem) {
   .single-static-nav__list {
     display: block;
   }
@@ -512,7 +515,7 @@ td {
 }
 
 .media-table td {
-  padding: .5rem 0;
+  padding: 0.5rem 0;
   vertical-align: top;
 }
 
