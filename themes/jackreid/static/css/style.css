@@ -255,11 +255,6 @@ ul {
   list-style: none;
 }
 
-.list-page__list-item,
-.post-list__list {
-  margin-bottom: 3rem;
-}
-
 .list-page__list-item-title {
   margin: 0.5rem 0 0;
   font-weight: bold;
@@ -287,6 +282,10 @@ ul {
   margin-bottom: 4rem;
 }
 
+.post-list__list li {
+  margin-bottom: 4rem;
+}
+
 .post-list__list-item-title {
   margin: 0;
 }
@@ -308,11 +307,11 @@ ul {
 }
 
 .highlight-list__list > li {
-  margin-bottom: 4rem;
+  margin-bottom: 2rem;
 }
 
 .photo-list__list-item {
-  margin-bottom: 4rem;
+  margin-bottom: 2rem;
 }
 
 .photo-list__list-item-title {
@@ -328,7 +327,6 @@ ul {
  * Highlight Card
  */
 .highlight-card {
-  margin-bottom: 1rem;
   padding: 1rem;
   border: 2px dotted var(--c-accent);
 }

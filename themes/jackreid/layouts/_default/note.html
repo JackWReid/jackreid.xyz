@@ -6,7 +6,7 @@
     </header>
     {{.Content}}
   </article>
-  {{ $paginator := .Paginate (where .Pages "Type" "note") }}
+  {{ $paginator := .Paginate .Pages }}
   <ul class="note-list__list">
     {{ range $paginator.Pages }}
     <li>

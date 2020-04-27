@@ -6,6 +6,7 @@
     </header>
     {{.Content}}
   </article>
+  {{ $paginator := .Paginate .Pages }}
   <ul class="post-list__list">
     {{ range .Pages }}
     <li class="post-list__list-item h-entry">
@@ -20,5 +21,6 @@
     </li>
     {{ end }}
   </ul>
+  {{ partial "pagination.html" . }}
 </main>
 {{ end }}

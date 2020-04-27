@@ -6,7 +6,7 @@
     </header>
     {{.Content}}
   </article>
-  {{ $paginator := .Paginate (where .Site.Pages "Type" "highlight") }}
+  {{ $paginator := .Paginate .Pages }}
   <ul class="highlight-list__list">
     {{ range  $paginator.Pages }}
     <li>
