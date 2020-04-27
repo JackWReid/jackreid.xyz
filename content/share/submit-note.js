@@ -63,10 +63,9 @@ function onSubmit(e) {
 
   const md = `
 ---
+title: ${vals.body}
 date: ${date}
 ---
-
-${vals.body}
   `;
 
   publishPost(filename, md);
