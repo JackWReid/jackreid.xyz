@@ -2,4 +2,4 @@ baseURL = "https://jackreid.xyz"
 languageCode = "en-gb"
 title = "Jack Reid"
 theme = "jackreid"
-paginate = 5
+paginate = 10

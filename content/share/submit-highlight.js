@@ -1,5 +1,5 @@
 const API_FILE_TARGET =
-  'https://api.github.com/repos/JackWReid/jackreid.xyz/contents/content/note/';
+  'https://api.github.com/repos/JackWReid/jackreid.xyz/contents/content/highlight/';
 
 const formEl = document.querySelector('form');
 const titleEl = formEl.querySelector('#title');
@@ -46,7 +46,7 @@ function publishPost(filename, md) {
   const url = API_FILE_TARGET + filename;
 
   const payload = {
-    message: `Shared note: ${filename}`,
+    message: `Shared highlight: ${filename}`,
     content: btoa(sanitize(md)),
     committer: {
       name: 'Jack Reid',
@@ -111,8 +111,6 @@ function prefill() {
       params.url,
     )})`;
   }
-
-  tagsEl.value = 'link, article';
 }
 
 prefill();

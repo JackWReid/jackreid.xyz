@@ -3,6 +3,7 @@ title: 'How Iran Covered Up the Downing of an Airliner'
 slug: iranian-shootdown-coverup
 date: 2020-01-27T11:10:12.046Z
 link: https://www.nytimes.com/2020/01/26/world/middleeast/iran-plane-crash-coverup.html
+url: /note/2020-01-27iranian-shootdown-coverup
 tags:
   - news
   - politics

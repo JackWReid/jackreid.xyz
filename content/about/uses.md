@@ -1,6 +1,7 @@
 ---
 title: Uses
 date: 2020-01-28T14:13:58
+url: /uses
 draft: false
 ---
 

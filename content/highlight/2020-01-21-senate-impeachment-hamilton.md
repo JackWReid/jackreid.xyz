@@ -3,6 +3,7 @@ title: 'This Is Not the Senate the Framers Imagined'
 slug: senate-impeachment-hamilton
 date: 2020-01-21T12:02:55.885Z
 link: https://www.theatlantic.com/ideas/archive/2020/01/not-senate-framers-imagined/605017/
+url: /note/2020-01-21-senate-impeachment-hamilton
 tags:
   - history
   - politics

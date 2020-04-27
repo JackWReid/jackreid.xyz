@@ -4,6 +4,7 @@ slug: il-formaggio-virmi
 date: 2020-01-11T11:55:18
 draft: false
 link: https://en.m.wikipedia.org/wiki/The_Cheese_and_the_Worms
+url: /note/2020-01-011-il-formaggio-virmi
 ---
 
 > The Cheese and the Worms (Italian: Il formaggio e i vermi) is a scholarly work by the Italian historian Carlo Ginzburg. The book is a notable example of cultural history, the history of mentalities and microhistory. It is "probably the most popular and widely read work of microhistory".

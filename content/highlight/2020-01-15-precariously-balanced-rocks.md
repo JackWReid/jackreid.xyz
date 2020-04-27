@@ -3,6 +3,7 @@ title: 'Why Scientists Fall for Precariously Balanced Rocks'
 slug: precariously-balanced-rocks
 date: 2020-01-15T14:35:27.653Z
 link: https://www.atlasobscura.com/articles/precariously-balanced-rocks
+url: /note/2020-01-15-precariously-balanced-rocks
 tags:
   - science
 ---

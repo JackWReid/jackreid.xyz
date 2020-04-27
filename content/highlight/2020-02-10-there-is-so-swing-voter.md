@@ -3,6 +3,7 @@ title: There Is No Swing Voter
 slug: there-is-so-swing-voter
 date: 2020-02-10T09:34:34.533Z
 link: https://www.politico.com/news/magazine/2020/02/06/rachel-bitecofer-profile-election-forecasting-new-theory-108944
+url: /note/2020-02-10-there-is-no-swing-voter
 tags:
   - politics
 ---

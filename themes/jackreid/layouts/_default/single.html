@@ -1,24 +1,19 @@
 {{ define "main" }}
-<nav class="single-sequence-nav">
-  <h2 class="single-sequence-nav__title">{{ .Section }}s</h2>
-  <ul class="single-sequence-nav__list">
-    {{ with .PrevInSection }}
-    <li class="single-sequence-nav__list-item">
-      <a class="single-sequence-nav__previous" href="{{.Permalink}}"> {{.Title}}</a>
-    </li>
-    {{ end }}
-    {{ with .NextInSection }}
-    <li class="single-sequence-nav__list-item">
-      <a class="single-sequence-nav__next" href="{{.Permalink}}"> {{.Title}}</a>
-    </li>
-    {{ end }}
-  </ul>
-</nav>
+{{ if or (eq .Section "highlight") (eq .Section "post") }}
+{{- partial "section_nav.html" .}}
+{{ end }}
 <section class="h-entry single-article__main single-article__main--{{ .Section }}">
+  {{ if ne .Kind "page" }}
   <time class="single-article__date">
     <a href="{{ .Permalink }}">{{ .Date.Format "2 January 2006" }}</a>
   </time>
+  {{ end }}
+
+  {{ if eq .Section "about" }}
+  <h2 class="page-title">{{ .Title }}</h2>
+  {{ else }}
   <h2 class="p-name single-article__title">{{ .Title }}</h2>
+  {{ end }}
   <h3 class="single-article__subtitle">{{ .Params.subtitle }}</h3>
   <article class="single-article__article">
     {{ with .Resources.ByType "image" }}

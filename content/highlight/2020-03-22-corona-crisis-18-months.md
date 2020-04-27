@@ -3,6 +3,7 @@ title: The Crisis Could Last 18 Months. Be Prepared
 slug: corona-crisis-18-months
 date: 2020-03-22T10:29:29.079Z
 link: https://www.theatlantic.com/ideas/archive/2020/03/there-isnt-going-be-all-clear-signal/608512/
+url: /note/2020-03-22-corona-crisis-18-months
 tags:
   - covid-19
 ---

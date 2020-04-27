@@ -222,14 +222,24 @@ ul {
   list-style: none;
 }
 
+.page-title {
+  border-top: 2px solid var(--c-accent);
+  border-bottom: 2px solid var(--c-accent);
+  margin-top: 2rem;
+  padding: 1rem 0;
+}
+
+.tag-list-title__label {
+  color: var(--c-accent); 
+}
+
+.tag-list-title__value {
+  text-transform: uppercase;
+}
+
 /**
  * List pages
  */
-
-.list-page__title {
-  text-transform: capitalize;
-}
-
 .list-page__list,
 .post-list__list {
   margin: 2rem 0 0;
@@ -247,30 +257,21 @@ ul {
   font-weight: bold;
 }
 
-.note-list__title {
-  margin-top: 2rem;
-  color: var(--c-title);
+.tag-list-section {
+  font-size: .8rem;
+  margin: 0;
+}
+
+.tag-list-section span {
+  padding: 0 1rem;
+  color: var(--c-bg); 
+  background: var(--c-accent);
 }
 
 .note-list__list {
   margin: 2rem 0 0;
   padding: 0;
   list-style: none;
-}
-
-.note-list__list-item {
-  margin-bottom: 1rem;
-  padding: 1rem;
-  border: 2px dotted var(--c-accent);
-}
-
-.note-list__list-item-title {
-  margin-top: 0.5rem;
-  color: var(--c-title);
-}
-
-.post-list__list-item {
-  margin-bottom: 4rem;
 }
 
 .post-list__list-item-title {
@@ -287,16 +288,48 @@ ul {
   font-style: italic;
 }
 
+.highlight-list__list {
+  margin: 2rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.highlight-list__list > li {
+  margin-bottom: 4rem;
+}
+
+/**
+ * Highlight Card
+ */
+.highlight-card {
+  margin-bottom: 1rem;
+  padding: 1rem;
+  border: 2px dotted var(--c-accent);
+}
+
+.highlight-card__title {
+  margin-top: 0.5rem;
+  color: var(--c-title);
+}
+
+
+/**
+ * Note Card
+ */
+.note-card__content {
+  font-size: 1.5rem;
+}
+
+.note-card__content p {
+  margin: .5rem 0;
+}
+
+
 /**
  * Single pages
  */
 .single-article__main {
   margin-top: 2rem;
-}
-
-.single-article__main--note {
-  border: 2px dotted var(--c-accent);
-  padding: 1rem;
 }
 
 .single-article__resource-image {
@@ -482,24 +515,29 @@ td {
 /**
  * Share Form
  */
-#noteform input,
-#noteform label {
+.share-form input,
+.share-form label {
   display: block;
 }
 
-#noteform label {
+.share-form label {
   margin-bottom: 0.5rem;
 }
 
-#noteform input,
-#noteform textarea {
+.share-form input,
+.share-form textarea {
   margin-bottom: 2rem;
   width: 100%;
   font-size: 1rem;
   padding: 0.5rem;
 }
 
-#noteform input[type='submit'] {
+.share-form textarea {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+}
+
+.share-form input[type='submit'] {
   margin: 0 auto;
   width: 10rem;
 }

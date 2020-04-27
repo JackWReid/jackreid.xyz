@@ -3,6 +3,7 @@ title: How a French Midwife Solved a Public Health Crisis
 slug: du-coudray-book
 date: 2020-04-02T08:19:13.418Z
 link: https://daily.jstor.org/how-a-french-midwife-solved-a-public-health-crisis
+url: /note/2020-04-02-du-coudray-book
 tags:
   - literature
   - history

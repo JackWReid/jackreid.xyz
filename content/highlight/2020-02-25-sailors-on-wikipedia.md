@@ -3,6 +3,7 @@ title: Sailors On Wikipedia
 slug: sailors-on-wikipedia
 date: 2020-02-25T15:28:33.864Z
 link: https://swiso.org/list/going-offline/
+url: /note/2020-02-25-sailors-on-wikipedia
 ---
 
 > For example, some sailors download the whole of Wikipedia for Kiwix while at port so they can browse it while at sea.

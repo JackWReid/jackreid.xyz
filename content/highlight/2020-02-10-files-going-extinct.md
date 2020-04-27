@@ -3,6 +3,7 @@ title: 'Computer Files Are Going Extinct'
 slug: files-going-extinct
 date: 2020-02-10T08:48:52.360Z
 link: https://onezero.medium.com/the-death-of-the-computer-file-doc-43cb028c0506
+url: /note/2020-02-10-files-going-extinct
 tags:
   - tech
 ---

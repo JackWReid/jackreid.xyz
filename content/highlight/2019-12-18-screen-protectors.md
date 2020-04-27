@@ -4,9 +4,7 @@ slug: screen-protectors
 date: 2019-12-18T10:05:00
 draft: false
 link: https://www.theverge.com/2019/12/16/21021005/google-youtube-moderators-ptsd-accenture-violent-disturbing-content-interviews-video
-tags:
-  - web
-  - article
+url: /note/2019-12-18-screen-protectors
 ---
 
 There were a couple of articles this week about people behind screens undertaking pain-staking work to protect vulnerable children.

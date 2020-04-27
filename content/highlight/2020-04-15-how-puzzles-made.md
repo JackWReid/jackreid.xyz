@@ -3,6 +3,7 @@ title: Here's How Those Hot Jigsaw Puzzles Are Made
 slug: how-puzzles-made
 date: 2020-04-15T10:44:13.216Z
 link: https://www.nytimes.com/2020/04/08/business/coronavirus-jigsaw-puzzles.html
+url: /note/2020-04-15-how-puzzles-made
 tags:
   - magazine
 ---

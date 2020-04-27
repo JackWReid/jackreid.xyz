@@ -2,18 +2,30 @@
 <main>
   <article class="list-page__main">
     <header>
-      <h1 class="list-page__title">{{if eq .Kind "taxonomy"}}{{end}}{{.Title}}</h1>
+      {{ if eq .Kind "taxonomy" }}
+      <h1 class="page-title">
+        <span class="tag-list-title__label">#</span>
+        <span class="tag-list-title__value">{{ .Title }}</span>
+      </h1>
+      {{ else }}
+      <h1 class="page-title">{{ .Title }}</h1>
+      {{ end }}
     </header>
     {{.Content}}
   </article>
   <ul class="list-page__list">
     {{ range .Pages }}
-    <li class="list-page__list-item">
-      <time class="list-page__list-item-date">{{ .Date.Format "2 January 2006" }}</time>
+    <li>
+      {{ if eq .Section "link" }}
+        {{- partial "card/link.html" .}}
+      {{ else }}
       <h2 class="list-page__list-item-title">
         <a href="{{.Permalink}}">{{ .Title }}</a>
       </h2>
+      <h3 class="tag-list-section"><span>{{ .Section }}</span></h3>
+      <time class="list-page__list-item-date">{{ .Date.Format "2 January 2006" }}</time>
       <p class="list-page__list-item-summary">{{.Summary}}</p>
+      {{ end }}
     </li>
     {{ end }}
   </ul>

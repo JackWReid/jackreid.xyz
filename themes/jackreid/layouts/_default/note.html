@@ -2,14 +2,16 @@
 <main>
   <article>
     <header>
-      <h1 class="note-list__title">{{.Title}}</h1>
+      <h1 class="page-title">{{.Title}}</h1>
     </header>
     {{.Content}}
   </article>
   {{ $paginator := .Paginate (where .Pages "Type" "note") }}
   <ul class="note-list__list">
     {{ range $paginator.Pages }}
-      {{- partial "note.html" . -}}
+    <li>
+      {{- partial "card/note.html" .}}
+    </li>
     {{ end }}
   </ul>
   {{ partial "pagination.html" . }}

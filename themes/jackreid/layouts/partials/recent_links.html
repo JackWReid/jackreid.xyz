@@ -1,10 +1,10 @@
 <ul class="recent-links">
   <h3>Recent Links</h3>
   <ul>
-  {{ range where .Pages "Section" "link" }}
+  {{ range where .Site.Pages "Section" "link" }}
     <li>
       <time>{{.Date.Format "2 Jan '06"}}</time>
-      <a href="{{.Params.link}}">{{ .Title }}</a>
+      <a href="{{ .Params.link }}">{{ .Title }}</a>
     </li>
   {{ end }}
   </ul>

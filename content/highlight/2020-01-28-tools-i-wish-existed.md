@@ -3,6 +3,7 @@ title: 'Digital Tools I Wish Existed'
 slug: tools-i-wish-existed
 date: 2020-01-28T09:48:49.910Z
 link: https://jborichevskiy.com/posts/digital-tools/
+url: /note/2020-01-28-tools-i-wish-existed
 tags:
   - tech
   - web

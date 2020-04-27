@@ -3,6 +3,7 @@ title: 'The mystery of the lost Roman herb'
 slug: roman-silphium
 date: 2020-02-04T14:28:29.886Z
 link: https://www.bbc.com/future/article/20170907-the-mystery-of-the-lost-roman-herb
+url: /note/2020-02-02-roman-silphium
 tags:
   - history
   - food

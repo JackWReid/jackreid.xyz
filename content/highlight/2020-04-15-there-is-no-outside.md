@@ -3,6 +3,7 @@ title: There Is No Outside
 slug: there-is-no-outside
 date: 2020-04-15T10:47:38.337Z
 link: https://nplusonemag.com/online-only/online-only/there-is-no-outside/
+url: /note/2020-04-15-there-is-no-outside
 tags:
   - covid-19
 ---
