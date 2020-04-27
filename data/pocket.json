@@ -1,5 +1,159 @@
 [
   {
+    "title": "This Is What Happens When You Interview RuPaul And He Throws Some Serious Shade",
+    "link": "https://www.buzzfeednews.com/article/patrickstrudwick/this-is-what-happens-when-you-interview-rupaul-and-he-throws",
+    "content": "When RuPaul's Drag Race launched in Britain, BuzzFeed News went to meet him. Sh*t got real. A drag queen in a blonde wig, heels, and a see-through leotard is dancing wildly on a podium in front of several hundred journalists, bloggers, and fellow queens.",
+    "word_count": 2780,
+    "date_updated": "2020-04-26T19:55:00.000Z"
+  },
+  {
+    "title": "The Dangerous History of Immunoprivilege",
+    "link": "https://www.nytimes.com/2020/04/12/opinion/coronavirus-immunity-passports.html",
+    "content": "We’ve seen what happens when people with immunity to a deadly disease are given special treatment. It isn’t pretty. Ms. Olivarius is an assistant professor of history at Stanford University.",
+    "word_count": 1135,
+    "date_updated": "2020-04-26T10:40:43.000Z"
+  },
+  {
+    "title": "The curious etiquette of jogging in Paris",
+    "link": "https://www.economist.com/europe/2020/04/23/the-curious-etiquette-of-jogging-in-paris",
+    "content": "Editor’s note: The Economist is making some of its most important coverage of the covid-19 pandemic freely available to readers of The Economist Today, our daily newsletter. To receive it, register here. For our coronavirus tracker and more coverage, see our hub",
+    "word_count": 429,
+    "date_updated": "2020-04-26T10:40:23.000Z"
+  },
+  {
+    "title": "Library JSON - A Proposal for a Decentralized Goodreads",
+    "link": "https://tomcritchlow.com/2020/04/15/library-json/",
+    "content": "There’s been a lot of discussion around a “better” GoodReads and at some point almost every side-project-slinger has tried their hand at building a “books website”. Myself included. There is a large graveyard of these books sites.",
+    "word_count": 1024,
+    "date_updated": "2020-04-25T18:05:39.000Z"
+  },
+  {
+    "title": "So you want to make it on the fediverse?",
+    "link": "https://yarmo.eu/blog/make-it-on-fediverse",
+    "content": "That's the plan, right? A whole new world awaits you on the fediverse, and you are going to make it there! There's something you should know. Whenever I talk to people in my surroundings about the fediverse and try to convince them to use it, I have a go-to story that I tell.",
+    "word_count": 689,
+    "date_updated": "2020-04-24T14:34:14.000Z"
+  },
+  {
+    "title": "My Restaurant Was My Life for 20 Years. Does the World Need It Anymore?",
+    "link": "https://www.nytimes.com/2020/04/23/magazine/closing-prune-restaurant-covid.html",
+    "content": "To hear more audio stories from publishers, like The New York Times, download Audm for iPhone or Android.",
+    "word_count": 5802,
+    "date_updated": "2020-04-24T13:50:39.000Z"
+  },
+  {
+    "title": "The Quiet Revolution of Animal Crossing",
+    "link": "https://www.theatlantic.com/family/archive/2020/04/animal-crossing-isnt-escapist-its-political/610012/",
+    "content": "Updated at 10:30 a.m. ET on April 15, 2020. Many years ago, when my son was 5, he got upside down on a long-term loan in Animal Crossing, Nintendo’s 2002 video game about running away from home to lead a prosaic life in an adorable animal village.",
+    "word_count": 2528,
+    "date_updated": "2020-04-24T08:00:20.000Z"
+  },
+  {
+    "title": "These British Pub Owners Say They Won’t Survive The Lockdown If Landlords Continue To Demand Rent",
+    "link": "https://www.buzzfeed.com/adeonibada/coronavirus-lockdown-british-pubs",
+    "content": "One owner of a pub in Walton-on-Thames told BuzzFeed News that his rent had been paid quarterly to the Wellington Pub Company, the largest no-tie (meaning pub owners have control over the drinks and products they sell) pub estate in the UK, owned by one Britain’s wealthiest families, the Reuben Br",
+    "word_count": 422,
+    "date_updated": "2020-04-23T17:22:02.000Z"
+  },
+  {
+    "title": "Raab is tried and found wanting by a masterful Starmer",
+    "link": "https://www.theguardian.com/politics/2020/apr/22/raab-is-tried-and-found-wanting-by-a-masterful-starmer",
+    "content": "Finally. Finally we have a fully functioning opposition: one united behind a leader in whom they – almost – all believe. Keir Starmer might not have imagined a near-empty and silent chamber for his first outing at prime minister’s questions, but in a way it played to his strengths.",
+    "word_count": 963,
+    "date_updated": "2020-04-23T17:11:32.000Z"
+  },
+  {
+    "title": "Ella Fitzgerald Masterfully Butchers “Mack the Knife”",
+    "link": "https://kottke.org/20/04/ella-fitzgerald-masterfully-butchers-mack-the-knife",
+    "content": "If you listen to more than 20 seconds of any song by Ella Fitzgerald, you can instinctively tell how amazing a singer she was. But taking a closer look reveals just how special she was.",
+    "word_count": 221,
+    "date_updated": "2020-04-22T18:52:12.000Z"
+  },
+  {
+    "title": "Facing the Jackpot with William Gibson",
+    "link": "http://blog.pshares.org/index.php/facing-the-jackpot-with-william-gibson/",
+    "content": "After the 2016 presidential election, I had the uncanny feeling that we had veered into a different, darker timeline and were hurtling away from the future I had expected.",
+    "word_count": 2025,
+    "date_updated": "2020-04-22T14:26:05.000Z"
+  },
+  {
+    "title": "Things I Wished More Developers Knew About Databases",
+    "link": "https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78",
+    "content": "A large majority of computer systems have some state and are likely to depend on a storage system. My knowledge on databases accumulated over time, but along the way our design mistakes caused data loss and outages.",
+    "word_count": 4489,
+    "date_updated": "2020-04-22T10:04:07.000Z"
+  },
+  {
+    "title": "Changing a file's “Date Created” and “Last Modified” attributes to another file's",
+    "link": "https://unix.stackexchange.com/questions/118577/changing-a-files-date-created-and-last-modified-attributes-to-another-file",
+    "content": "You can use the touch command along with the -r switch to apply another file's attributes to a file.  NOTE: There is no such thing as creation date in Unix, there are only access, modify, and change. See this U&L Q&A titled: get age of given file for further details.",
+    "word_count": 198,
+    "date_updated": "2020-04-22T08:53:03.000Z"
+  },
+  {
+    "title": "How Russia Learned to Start Worrying",
+    "link": "https://nplusonemag.com/online-only/online-only/how-russia-learned-to-start-worrying/",
+    "content": "It got crazy during the commercial break. That’s when the most interesting debates always happen anyway, but January 27 was more interesting than most. The scandal of the day on Russia’s daytime talk shows was the “toxicity” of Ukraine in American politics.",
+    "word_count": 4069,
+    "date_updated": "2020-04-22T06:57:29.000Z"
+  },
+  {
+    "title": "That Time I Tried to Buy an Actual Barrel of Crude Oil",
+    "link": "https://www.bloomberg.com/news/articles/2015-11-03/that-time-i-tried-to-buy-some-crude-oil",
+    "content": "A fortuitous meeting between a gas trader and his broker at a bar in downtown New York was not going the way I had hoped. After revealing a long-held plan to try to buy a barrel of crude, I was now receiving a disappointingly stern lecture on the dangers of hydrogen sulfides.",
+    "word_count": 1766,
+    "date_updated": "2020-04-21T09:36:00.000Z"
+  },
+  {
+    "title": "Clare Bucknell · You can’t prove I meant X · LRB 4 April 2020",
+    "link": "https://www.lrb.co.uk/the-paper/v42/n08/clare-bucknell/you-can-t-prove-i-meant-x",
+    "content": "William Godwin’s​ attack on aristocratic oppression in the Enquiry concerning Political Justice didn’t pull its punches.",
+    "word_count": 4298,
+    "date_updated": "2020-04-20T15:01:23.000Z"
+  },
+  {
+    "title": "Why I Don’t Use A Static Site Generator",
+    "link": "https://kevq.uk/why-i-dont-use-a-static-site-generator/",
+    "content": "I often receive inquisitive looks when I tell people I’m running WordPress on my website. Especially when I’m talking to other people in the InfoSec community where getting responses like, “WordPress, really? Why not a static site generator like Hugo?” is par for the course.",
+    "word_count": 456,
+    "date_updated": "2020-04-20T07:17:50.000Z"
+  },
+  {
+    "title": "A Static Future",
+    "link": "https://www.joshwcomeau.com/gatsby/a-static-future/",
+    "content": "As static sites enjoy an incredible resurgence in popularity, I've seen a lot of misconceptions around exactly what tools like Gatsby are capable of. Specifically, I've heard from some friends that liked the idea of using Gatsby, but worried that their project was \"too dynamic\".",
+    "word_count": 2000,
+    "date_updated": "2020-04-20T07:17:40.000Z"
+  },
+  {
+    "title": "Receive and Reply to SMS and MMS Messages in Node.js",
+    "link": "https://www.twilio.com/docs/sms/tutorials/how-to-receive-and-reply-node-js?utm_source=docs&utm_medium=social&utm_campaign=guides_tags",
+    "content": "In this guide, we'll show you how to use Programmable SMS to respond to incoming SMS messages in your Node.js web application. When someone sends a text message to your Twilio number, Twillio can call a webhook you create in Node.js from which you can send a reply back using TwiML.",
+    "word_count": 2145,
+    "date_updated": "2020-04-20T07:08:49.000Z"
+  },
+  {
+    "title": "",
+    "link": "https://www.nytimes.com/2020/04/18/health/coronavirus-america-future.html",
+    "content": "",
+    "word_count": 0,
+    "date_updated": "2020-04-19T14:07:05.000Z"
+  },
+  {
+    "title": "IT’S TIME TO BUILD",
+    "link": "https://a16z.com/2020/04/18/its-time-to-build/",
+    "content": "Every Western institution was unprepared for the coronavirus pandemic, despite many prior warnings. This monumental failure of institutional effectiveness will reverberate for the rest of the decade, but it’s not too early to ask why, and what we need to do about it.",
+    "word_count": 1822,
+    "date_updated": "2020-04-19T09:26:04.000Z"
+  },
+  {
+    "title": "Hyperlinks, hyperlinks, hyperlinks",
+    "link": "https://jborichevskiy.com/posts/patch-notes-v2/#cryptocurrency",
+    "content": "These are my weekly Patch Notes – a log of the mental model updates I’m making and a braindump of things I’m leaning, building, or thinking about. Subscribe on Substack here.",
+    "word_count": 1820,
+    "date_updated": "2020-04-19T06:36:54.000Z"
+  },
+  {
     "title": "Writing Python inside your Rust code — Part 1",
     "link": "https://blog.m-ou.se/writing-python-inside-rust-1/",
     "content": "About a year ago, I published a Rust crate called inline-python, which allows you to easily mix some Python into your Rust code using a python!{ .. } macro. In this series, I’ll go through the process of developing this crate from scratch.",
@@ -10,7 +164,7 @@
     "title": "Distill: Why do we need Flask, Celery, and Redis? (with McDonalds in Between)",
     "link": "https://ljvmiranda921.github.io/notebook/2019/11/08/flask-redis-celery-mcdo/",
     "content": "Good question, And below is a longer version of my quick explanation back then. There’s a wealth of resources and tutorials out there, but they mostly suffer from the curse of knowledge. This time, let’s step back and do an ELI51 on how these technologies relate to one another.",
-    "word_count": 1786,
+    "word_count": 1808,
     "date_updated": "2020-04-18T13:48:18.000Z"
   },
   {
@@ -101,7 +255,7 @@
     "title": "Our Pandemic Summer",
     "link": "https://www.theatlantic.com/health/archive/2020/04/pandemic-summer-coronavirus-reopening-back-normal/609940/",
     "content": "The fight against the coronavirus won’t be over when the U.S. reopens. Here’s how the nation must prepare itself. Updated at 11:50 a.m. ET on April 15, 2020.",
-    "word_count": 5268,
+    "word_count": 5278,
     "date_updated": "2020-04-15T08:12:07.000Z"
   },
   {
@@ -409,7 +563,7 @@
     "title": "An Annotated Docker Config for Frontend Web Development",
     "link": "https://nystudio107.com/blog/an-annotated-docker-config-for-frontend-web-development",
     "content": "For more tools, technologies, and techniques, check out the devMode.fm podcast! Dock­er is a tool for con­tainer­iz­ing your appli­ca­tions, which means that your appli­ca­tion is shrink-wrapped with the envi­ron­ment that it needs to run.",
-    "word_count": 5432,
+    "word_count": 5434,
     "date_updated": "2020-04-02T06:00:02.000Z"
   },
   {
@@ -479,7 +633,7 @@
     "title": "Creamy Homemade Yogurt",
     "link": "https://cooking.nytimes.com/recipes/1017991-creamy-homemade-yogurt",
     "content": "Preparation Rub an ice cube over the inside bottom of a heavy pot to prevent scorching (or rinse the inside of the pot with cold water). Add milk and cream, if using, and bring to a bare simmer, until bubbles form around the edges, 180 to 200 degrees. Stir the milk occasionally as it heats.",
-    "word_count": 286,
+    "word_count": 282,
     "date_updated": "2020-03-30T17:45:48.000Z"
   },
   {
@@ -751,8 +905,8 @@
   {
     "title": "Coronavirus tracked: the latest figures as the pandemic spreads | Free to read",
     "link": "https://www.ft.com/content/a26fbf7e-48f8-11ea-aeb3-955839e06441",
-    "content": "The human cost of the coronavirus outbreak has continued to mount, with more than 2.2m cases confirmed globally and more than 141,900 people known to have died from the disease.",
-    "word_count": 820,
+    "content": "The human cost of the coronavirus outbreak has continued to mount, with more than 2.66m cases confirmed globally and more than 176,400 people known to have died from the disease.",
+    "word_count": 817,
     "date_updated": "2020-03-21T23:53:17.000Z"
   },
   {
@@ -1002,7 +1156,7 @@
   },
   {
     "title": "Radiooooo",
-    "link": "http://radiooooo.com/#",
+    "link": "https://radiooooo.com/",
     "content": "Radiooooo - The Musical Time Machine",
     "word_count": 0,
     "date_updated": "2020-03-11T03:55:41.000Z"
@@ -5358,7 +5512,7 @@
     "title": "Based on a *True* True Story? — Information is Beautiful",
     "link": "https://informationisbeautiful.net/visualizations/based-on-a-true-true-story/",
     "content": "Explore your favourite “based on a true story” films scene-by-scene, beat-by-beat and test their veracity on a data level. Here’s how the truth levels break down.",
-    "word_count": 127,
+    "word_count": 131,
     "date_updated": "2019-04-23T08:39:54.000Z"
   },
   {
@@ -5453,10 +5607,10 @@
     "date_updated": "2019-04-17T08:22:28.000Z"
   },
   {
-    "title": "GAYLETTER",
+    "title": "FRANK OCEAN",
     "link": "http://gayletter.com/frank-ocean/",
-    "content": "FRANK OCEAN A conversation with our latest cover star on the queer influences that shaped him, the joy of rock climbing, and what he wished he'd done when he met the president (not this one, the last one). Intuition is a big word for Frank Ocean.",
-    "word_count": 4265,
+    "content": "A conversation with our latest cover star on the queer influences that shaped him, the joy of rock climbing, and what he wished he'd done when he met the president (not this one, the last one). Intuition is a big word for Frank Ocean. It’s been a guiding star in his uncharted course to success.",
+    "word_count": 4263,
     "date_updated": "2019-04-16T17:35:04.000Z"
   },
   {
@@ -6751,7 +6905,7 @@
     "title": "Pasta With Brown Butter and Parmesan",
     "link": "https://cooking.nytimes.com/recipes/1019980-pasta-with-brown-butter-and-parmesan",
     "content": "Preparation Bring a large pot of heavily salted water (2 heaping tablespoons kosher salt to about 7 quarts water) to a boil. Add pasta to boiling water and cook according to package directions until al dente.",
-    "word_count": 178,
+    "word_count": 174,
     "date_updated": "2019-02-09T14:57:04.000Z"
   },
   {
@@ -7059,7 +7213,7 @@
     "title": "The Six Forms of Media Bias",
     "link": "https://www.nytimes.com/2019/01/31/opinion/media-bias-howard-schultz.html",
     "content": "This article is part of David Leonhardt’s newsletter. You can sign up here to receive it each weekday. Her column is a cri de coeur against the media’s bias toward centrism. Too often, journalists confuse centrism with fairness, objectivity or common-sense truth. But centrism is none of those.",
-    "word_count": 847,
+    "word_count": 811,
     "date_updated": "2019-01-31T22:18:47.000Z"
   },
   {
@@ -7801,7 +7955,7 @@
     "title": "Unknown years of Jesus",
     "link": "https://en.wikipedia.org/wiki/Unknown_years_of_Jesus",
     "content": "Aside from secular employment some attempts have been made to reconstruct the theological and rabbinical circumstances of the \"unknown years\", e.g.",
-    "word_count": 4999,
+    "word_count": 5732,
     "date_updated": "2018-12-21T15:34:16.000Z"
   },
   {
@@ -9536,8 +9690,8 @@
   {
     "title": "Stratechery by Ben Thompson",
     "link": "https://stratechery.com/",
-    "content": "On the business, strategy, and impact of technology. The National Basketball Association (NBA) and Microsoft today announced a new multi-year collaboration, which will transform the way in which fans experience the NBA.",
-    "word_count": 17047,
+    "content": "On the business, strategy, and impact of technology. It was, at first glance, hard to understand how anyone could be upset at the idea that It’s Time to Build.",
+    "word_count": 16536,
     "date_updated": "2018-09-26T11:13:25.000Z"
   },
   {
@@ -11287,7 +11441,7 @@
     "title": "Ur-Fascism",
     "link": "https://www.nybooks.com/articles/1995/06/22/ur-fascism/",
     "content": "In 1942, at the age of ten, I received the First Provincial Award of Ludi Juveniles (a voluntary, compulsory competition for young Italian Fascists—that is, for every young Italian).",
-    "word_count": 567,
+    "word_count": 570,
     "date_updated": "2018-06-16T20:39:33.000Z"
   },
   {
@@ -11763,7 +11917,7 @@
     "title": "Why Rich Kids Are So Good at the Marshmallow Test",
     "link": "https://www.theatlantic.com/family/archive/2018/06/marshmallow-test/561779/",
     "content": "The marshmallow test is one of the most famous pieces of social-science research: Put a marshmallow in front of a child, tell her that she can have a second one if she can go 15 minutes without eating the first one, and then leave the room.",
-    "word_count": 983,
+    "word_count": 984,
     "date_updated": "2018-06-04T11:42:17.000Z"
   },
   {
@@ -12693,8 +12847,8 @@
   {
     "title": "Slaver! Invader! The tour guide who tells the ugly truth about museum portraits",
     "link": "https://www.theguardian.com/artanddesign/2018/apr/24/slaver-invader-tour-guide-ugly-truth-empire-uncomfortable-art-tours-alice-procter",
-    "content": "Was Lord Nelson a white supremacist? Was Queen Victoria a thief? Alice Procter take us on one of her Uncomfortable Art Tours, which aim to show how the empire still exerts a grip on British galleries  Last June, Alice Procter started running free gallery tours.",
-    "word_count": 895,
+    "content": "Last June, Alice Procter started running free gallery tours. She had answered a call-out from Antiuniversity, a project that helps organise radical educational events, and wanted to try out an idea.",
+    "word_count": 859,
     "date_updated": "2018-04-24T11:38:51.000Z"
   },
   {
@@ -13538,10 +13692,10 @@
     "date_updated": "2018-04-06T15:40:00.000Z"
   },
   {
-    "title": "Progressive Web Apps on iOS are here ?",
+    "title": "Progressive Web Apps on iOS are here 🚀",
     "link": "https://medium.com/@firt/progressive-web-apps-on-ios-are-here-d00430dee3a7",
     "content": "With iOS 11.3, Apple has silently added support for the basic set of new technologies behind the idea of “Progressive Web Apps” (PWAs). It’s time to see how they work, what are their abilities and challenges, and what do you need to know if you already have a published PWA.",
-    "word_count": 2014,
+    "word_count": 2021,
     "date_updated": "2018-04-06T14:34:22.000Z"
   },
   {
@@ -13561,8 +13715,8 @@
   {
     "title": "OpenVPN",
     "link": "https://nordvpn.com/tutorials/linux/openvpn/",
-    "content": "1. Open terminal (keyboard shortcut: Ctrl + Alt + T).  2. Install OpenVPN client by entering:  command and it will print full configuration file list.  9. Choose a server which you would like to connect to.  10. Start OpenVPN with a chosen configuration by entering:",
-    "word_count": 324,
+    "content": "Don’t want to manage the VPN setup manually? Download the NordVPN app for Linux, where all you need to do is install the app, log in, and pick the server you want. 1. Open Terminal (keyboard shortcut: Ctrl + Alt + T). 2. Install the OpenVPN client by entering:",
+    "word_count": 450,
     "date_updated": "2018-04-05T21:19:54.000Z"
   },
   {
@@ -13646,7 +13800,7 @@
     "title": "Who killed Martin Luther King Jr.? His family believes James Earl Ray was framed.",
     "link": "https://www.washingtonpost.com/news/retropolis/wp/2018/03/30/who-killed-martin-luther-king-jr-his-family-believes-james-earl-ray-was-framed/",
     "content": "In the five decades since Martin Luther King Jr. was shot dead by an assassin at age 39, his children have worked tirelessly to preserve his legacy, sometimes with sharply different views on how best to do that. But they are unanimous on one key point: James Earl Ray did not kill Martin Luther King.",
-    "word_count": 2852,
+    "word_count": 2836,
     "date_updated": "2018-04-04T13:46:19.000Z"
   },
   {
@@ -18791,7 +18945,7 @@
     "title": "Billy Bush",
     "link": "https://www.nytimes.com/2017/12/03/opinion/billy-bush-trump-access-hollywood-tape.html",
     "content": "He said it. “Grab ’em by the pussy.” Of course he said it. And we laughed along, without a single doubt that this was hypothetical hot air from America’s highest-rated bloviator.",
-    "word_count": 909,
+    "word_count": 902,
     "date_updated": "2017-12-04T12:57:55.000Z"
   },
   {
@@ -19239,7 +19393,7 @@
     "title": "Ur-Fascism",
     "link": "https://www.nybooks.com/articles/1995/06/22/ur-fascism/",
     "content": "In 1942, at the age of ten, I received the First Provincial Award of Ludi Juveniles (a voluntary, compulsory competition for young Italian Fascists—that is, for every young Italian).",
-    "word_count": 567,
+    "word_count": 570,
     "date_updated": "2017-11-19T15:33:58.000Z"
   },
   {
@@ -20413,7 +20567,7 @@
   },
   {
     "title": "Notes on Distributed Systems for Young Bloods – Something Similar",
-    "link": "https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/",
+    "link": "http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/",
     "content": "I’ve been thinking about the lessons distributed systems engineers learn on the job. A great deal of our instruction is through scars made by mistakes made in production traffic.",
     "word_count": 3756,
     "date_updated": "2017-09-25T09:56:33.000Z"
@@ -20583,7 +20737,7 @@
     "title": "Ellen Pao",
     "link": "https://www.nytimes.com/2017/09/16/opinion/sunday/ellen-pao-sexism-tech.html",
     "content": "San Francisco — Just five years ago, I sued Kleiner Perkins Caufield & Byers, the venture capital firm in Silicon Valley where I had worked since 2005, for bias and gender discrimination. The lawsuit, which I lost, led to the venture capital world closing ranks against me.",
-    "word_count": 1069,
+    "word_count": 1062,
     "date_updated": "2017-09-16T20:03:12.000Z"
   },
   {
@@ -20611,7 +20765,7 @@
     "title": "The Making and Unmaking of Iggy Azalea",
     "link": "https://jezebel.com/the-making-and-unmaking-of-iggy-azalea-1797030869",
     "content": "During the summer of 2010, Iggy Azalea lived free of charge in a guest house in Los Angeles, courtesy of Polow Da Don. As the producer behind Fergie’s biggest hits, he saw Iggy as the second coming and wanted to groom her into a pop star.",
-    "word_count": 5494,
+    "word_count": 5483,
     "date_updated": "2017-09-15T16:18:30.000Z"
   },
   {
@@ -22947,7 +23101,7 @@
   },
   {
     "title": "Vladimir Putin, Action Man",
-    "link": "http://www.theatlantic.com/infocus/2011/09/vladimir-putin-action-man/100147/",
+    "link": "https://www.theatlantic.com/infocus/2011/09/vladimir-putin-action-man/100147/",
     "content": "Vladimir Putin, the 58-year-old former president and current prime minister of Russia, has cultivated a swashbuckling public image over the past several years.",
     "word_count": 145,
     "date_updated": "2017-07-08T13:59:39.000Z"
@@ -24643,7 +24797,7 @@
     "title": "Monica Lewinsky",
     "link": "https://www.nytimes.com/2017/05/22/opinion/monica-lewinsky-roger-ailess-dream-was-my-nightmare.html",
     "content": "This is not another obituary for Roger Ailes, who died last week 10 months after being ousted at Fox News. It is, I hope, instead an obituary for the culture he purveyed — a culture that affected me profoundly and personally. Just two years after Rupert Murdoch appointed Mr.",
-    "word_count": 821,
+    "word_count": 814,
     "date_updated": "2017-05-22T22:36:58.000Z"
   },
   {
@@ -24949,7 +25103,7 @@
   },
   {
     "title": "Get started",
-    "link": "https://learningmusic.ableton.com",
+    "link": "https://learningmusic.ableton.com/",
     "content": "In these lessons, you'll learn the basics of music making. No prior experience or equipment is required; you'll do everything right here in your browser. To get started, check out the boxes below. Each one contains a small piece of music. Click a box to turn it on or off.",
     "word_count": 107,
     "date_updated": "2017-05-09T15:44:32.000Z"
@@ -25020,8 +25174,8 @@
   {
     "title": "You're not going to believe what I'm about to tell you",
     "link": "https://theoatmeal.com/comics/believe",
-    "content": "This comic was inspired by this three-part series on the backfire effect from the You Are Not So Smart Podcast. I would also like to thank my wonderful girlfriend Theresea for calling my attention to the backfire effect in the first place.",
-    "word_count": 318,
+    "content": "This is a comic about the backfire effect.",
+    "word_count": 0,
     "date_updated": "2017-05-08T16:21:40.000Z"
   },
   {
@@ -26075,8 +26229,8 @@
     "date_updated": "2017-04-14T16:10:06.000Z"
   },
   {
-    "title": "The Most Important Page on Your Portfolio",
-    "link": "https://www.vanschneider.com/the-most-important-page-on-your-portfolio",
+    "title": "The most important page on your portfolio",
+    "link": "https://vanschneider.com/the-most-important-page-on-your-portfolio",
     "content": "In recent years I've reviewed hundreds if not thousands of portfolios. This was while working at a range of agencies and especially after I founded Semplice (a portfolio tool for designers). I've seen so many portfolios that I've started to notice some patterns.",
     "word_count": 1110,
     "date_updated": "2017-04-14T15:53:29.000Z"
@@ -26866,10 +27020,10 @@
     "date_updated": "2017-03-27T22:43:59.000Z"
   },
   {
-    "title": "luanfujun/deep-photo-styletransfer",
+    "title": "deep-photo-styletransfer",
     "link": "https://github.com/luanfujun/deep-photo-styletransfer",
     "content": "This software is published for academic and non-commercial use only. This code is based on torch. It has been tested on Ubuntu 14.04 LTS.",
-    "word_count": 481,
+    "word_count": 539,
     "date_updated": "2017-03-27T22:41:58.000Z"
   },
   {
@@ -29485,7 +29639,7 @@
   },
   {
     "title": "1973 | Meet Donald Trump",
-    "link": "http://www.nytimes.com/times-insider/2015/07/30/1973-meet-donald-trump/",
+    "link": "https://www.nytimes.com/times-insider/2015/07/30/1973-meet-donald-trump/",
     "content": "David W. Dunlap is a Metro reporter, and writes the Building Blocks column. He has worked at The Times for 40 years. Some Americans are just getting to know Donald Trump. Readers of The Times have known him for 42 years.",
     "word_count": 827,
     "date_updated": "2017-01-15T09:57:29.000Z"
@@ -29991,7 +30145,7 @@
     "title": "Functional-Light JavaScript",
     "link": "https://github.com/getify/Functional-Light-JS",
     "content": "This book is a balanced, pragmatic look at FP in JavaScript. The first edition is now complete. Read here online for free, or: \"Functional-Light JavaScript\" explores the core principles of functional programming (FP) as they are applied to JavaScript.",
-    "word_count": 593,
+    "word_count": 539,
     "date_updated": "2016-12-28T08:57:09.000Z"
   },
   {
@@ -31131,8 +31285,8 @@
   {
     "title": "John von Neumann",
     "link": "https://en.wikipedia.org/wiki/John_von_Neumann",
-    "content": "John von Neumann (/vɒn ˈnɔɪmən/; Hungarian: Neumann János Lajos, pronounced [ˈnɒjmɒn ˈjaːnoʃ ˈlɒjoʃ]; December 28, 1903 – February 8, 1957) was a Hungarian-American mathematician, physicist, computer scientist, and polymath.",
-    "word_count": 15505,
+    "content": "John von Neumann (/vɒn ˈnɔɪmən/; Hungarian: Neumann János Lajos, pronounced [ˈnɒjmɒn ˈjaːnoʃ ˈlɒjoʃ]; December 28, 1903 – February 8, 1957) was a Hungarian-American mathematician, physicist, computer scientist, engineer and polymath.",
+    "word_count": 15630,
     "date_updated": "2016-12-04T07:31:07.000Z"
   },
   {
@@ -31216,7 +31370,7 @@
     "title": "Confessions of an Instagram Influencer",
     "link": "https://www.bloomberg.com/news/features/2016-11-30/confessions-of-an-instagram-influencer",
     "content": "I used to post cat photos. Then a marketing agency made me a star. And yet lately I’ve felt unrealized—incomplete, almost. Everywhere I look on social media, I’m surrounded by extremely attractive, superbly groomed men and women who eat meals that are not only healthy but impeccably plated.",
-    "word_count": 3284,
+    "word_count": 3308,
     "date_updated": "2016-12-02T12:22:59.000Z"
   },
   {
@@ -32112,7 +32266,7 @@
     "title": "Bernie Sanders",
     "link": "https://www.nytimes.com/2016/11/12/opinion/bernie-sanders-where-the-democrats-go-from-here.html",
     "content": "Millions of Americans registered a protest vote on Tuesday, expressing their fierce opposition to an economic and political system that puts wealthy and corporate interests over their own.",
-    "word_count": 848,
+    "word_count": 841,
     "date_updated": "2016-11-13T11:06:14.000Z"
   },
   {
@@ -32321,8 +32475,8 @@
   {
     "title": "Forget “Why?”, it’s time to get to work.",
     "link": "https://medium.com/@anildash/forget-why-its-time-to-get-to-work-c49ac5f0da20",
-    "content": "There are concrete steps we can take immediately, which can set up habits that we can sustain for the years of struggle to come.",
-    "word_count": 965,
+    "content": "Don’t waste a single moment listening to the hand-wringing of the pundit class about Why This Happened, or people on TV talking about What This Means. The most important thing is that we focus on the work that needs to be done now.",
+    "word_count": 1169,
     "date_updated": "2016-11-09T16:48:29.000Z"
   },
   {
@@ -32432,7 +32586,7 @@
   },
   {
     "title": "React Patterns",
-    "link": "https://reactpatterns.com/",
+    "link": "http://reactpatterns.com/",
     "content": "Get the latest React patterns, tips, and tricks right to your inbox. These translations are not verified and links are not endorsements.",
     "word_count": 2123,
     "date_updated": "2016-11-07T10:32:20.000Z"
@@ -33980,8 +34134,8 @@
   {
     "title": "Microservices",
     "link": "https://martinfowler.com/articles/microservices.html",
-    "content": "When talking about components we run into the difficult definition of what makes a component. Our definition is that a component is a unit of software that is independently replaceable and upgradeable.",
-    "word_count": 4291,
+    "content": "a definition of this new architectural term The term \"Microservice Architecture\" has sprung up over the last few years to describe a particular way of designing software applications as suites of independently deployable services.",
+    "word_count": 5902,
     "date_updated": "2016-10-12T11:55:31.000Z"
   },
   {
@@ -34844,159 +34998,5 @@
     "content": "Today we're ecstatic to introduce Now.app, our desktop app and the new distribution model for our cloud toolchain. You can jump straight to the download page, the code or read on for a quick overview! Why are we excited about it?",
     "word_count": 466,
     "date_updated": "2016-09-28T16:15:39.000Z"
-  },
-  {
-    "title": "",
-    "link": "https://getstorybook.io/docs/testing/react-ui-testing",
-    "content": "",
-    "word_count": 0,
-    "date_updated": "2016-09-28T11:29:26.000Z"
-  },
-  {
-    "title": "London's Mayor Photobombed Our Brexit Interview for Some Bromance",
-    "link": "https://www.globalcitizen.org/en/content/sadiq-khan-owen-jones-labour-party-conference/",
-    "content": "Despite the decisive tone of the slogan \"Brexit means Brexit,\" Britain is facing a period of serious national uncertainty. With a new government and a newly re-elected opposition leader, the country must wrestle with the divisions brought to the surface by the EU referendum campaign. ",
-    "word_count": 182,
-    "date_updated": "2016-09-28T10:40:32.000Z"
-  },
-  {
-    "title": "How to Contribute",
-    "link": "https://facebook.github.io/react/contributing/how-to-contribute.html",
-    "content": "React is one of Facebook's first open source projects that is both under very active development and is also being used to ship code to everybody on facebook.com.",
-    "word_count": 1521,
-    "date_updated": "2016-09-27T22:58:43.000Z"
-  },
-  {
-    "title": "Why I'm not a React Native Developer",
-    "link": "https://arielelkin.github.io/articles/why-im-not-a-react-native-developer",
-    "content": "Many people are currently assessing React Native as a platform to develop their next mobile app on. This is no trivial matter. Switching your software development platform involves a high setup cost and will profoundly impact your daily programming workflow.",
-    "word_count": 6926,
-    "date_updated": "2016-09-27T21:53:15.000Z"
-  },
-  {
-    "title": "Rich Trouton on iCloud Desktop and Documents in MacOS Sierra",
-    "link": "http://daringfireball.net/linked/2016/09/27/trouton-icloud-desktop",
-    "content": "Great piece by Rich Trouton exploring the details of how iCloud Desktop and Document syncing works. He makes a good point here:  Currently, Apple provides 5 GB of storage space for free for iCloud users.",
-    "word_count": 180,
-    "date_updated": "2016-09-27T17:55:32.000Z"
-  },
-  {
-    "title": "Drunk History’s co-creator tells us about storytelling and getting Lin-Manuel Miranda drunk at his parents’ house",
-    "link": "http://www.vox.com/culture/2016/9/27/13075244/drunk-history-season-4-interview-hamilton?utm_campaign=vox&utm_content=chorus&utm_medium=social&utm_source=twitter",
-    "content": "In the Comedy Central series Drunk History, a drunk comedian — gently guided by series co-creator and drinking buddy Derek Waters — tells a historical story, which in turn gets acted out with characters lip-syncing every one of the narrator’s sloshed words.",
-    "word_count": 1739,
-    "date_updated": "2016-09-27T17:32:33.000Z"
-  },
-  {
-    "title": "I have been terrified of an active shooter situation since I was 11 years old.",
-    "link": "https://medium.com/@mshannabrooks/i-have-been-terrified-of-an-active-shooter-situation-since-i-was-11-years-old-35842d06d359",
-    "content": "Spring has always been my dad’s favorite season; he says it’s because everything is green and new and fresh. In the Willamette Valley, that’s especially true.  On May 21, 1998, I was two days shy of my 11th birthday.",
-    "word_count": 1364,
-    "date_updated": "2016-09-27T17:21:25.000Z"
-  },
-  {
-    "title": "The Age of the Instagram Eyebrow",
-    "link": "https://howwegettonext.com/the-age-of-the-instagram-eyebrow-73f97cafab98?source=email-6f43efaaa5c7-1474991139080-digest.reader------1-3&gi=43377b3689a7",
-    "content": "You can probably tell a woman’s generation by the thickness of her eyebrows. I was a teen in the 90s, when a uniformly tweezed, slender arch was the norm—and when you pluck that much you just aren’t going to get it back. Now my natural brow’s not thick enough to be on trend.",
-    "word_count": 1582,
-    "date_updated": "2016-09-27T17:21:13.000Z"
-  },
-  {
-    "title": "10 Awesome Places to Find Background Music for Video",
-    "link": "https://medium.com/@larrykim/10-awesome-places-to-find-background-music-for-video-73b6870227c1",
-    "content": "Consumers find video engaging, compelling and convincing — so much so that they’re anywhere from 64% to 85% more likely to buy after watching a product video.  In fact, video on a landing page can boost conversions by an astonishing 80%.",
-    "word_count": 828,
-    "date_updated": "2016-09-27T17:21:03.000Z"
-  },
-  {
-    "title": "XYZ Affair",
-    "link": "http://en.m.wikipedia.org/wiki/XYZ_Affair",
-    "content": "XYZ Affair   This article is about a diplomatic episode. For the Brooklyn, New York, band, see The XYZ Affair. The XYZ Affair was a 1798 diplomatic episode during the administration of John Adams that Americans interpreted as an insult from France.",
-    "word_count": 941,
-    "date_updated": "2016-09-27T12:21:45.000Z"
-  },
-  {
-    "title": "People & Events",
-    "link": "http://www.pbs.org/wgbh/amex/adams/peopleevents/p_callender.html",
-    "content": "With the aid of his clandestine patron Thomas Jefferson, Scottish \"scandalmonger\" James Callender launched a print campaign against President John Adams that would make the election of 1800 one of the nastiest in history.",
-    "word_count": 691,
-    "date_updated": "2016-09-27T08:23:00.000Z"
-  },
-  {
-    "title": "Quasi-War",
-    "link": "https://en.m.wikipedia.org/wiki/Quasi-War",
-    "content": "American:Before U.S. military involvement:  After U.S. military involvement:",
-    "word_count": 1741,
-    "date_updated": "2016-09-27T08:21:52.000Z"
-  },
-  {
-    "title": "SVG has more potential",
-    "link": "https://madebymike.com.au//writing/svg-has-more-potential/",
-    "content": "I think many of us are not using SVG to its full potential. I often see SVG used as an alternative image format or as a simple solution for icons, and whilst it's great for these things, it's also a lot more than that. SVG can solve problems that HTML and CSS alone can't.",
-    "word_count": 1763,
-    "date_updated": "2016-09-27T08:21:51.000Z"
-  },
-  {
-    "title": "National Rail Enquiries - Official source for UK train times and timetables",
-    "link": "http://m.nationalrail.co.uk/pj/disruption/details/9A55B323EB734383AFD6513A84B8646D",
-    "content": "See live departures & arrivals for your favourite stations here Create an account or sign in. The generous support of people like you has enabled us to help thousands of street children around the world. Donate today",
-    "word_count": 99,
-    "date_updated": "2016-09-27T07:22:37.000Z"
-  },
-  {
-    "title": "Brand Design Inspiration: September 2016",
-    "link": "https://medium.com/@brandaiapp/brand-design-inspiration-september-2016-36c4e2265ba8#.34gafntdf",
-    "content": "Poplr’s focus is to build a Big Data solutions for the mobile platform with the focus on human behavior.  Flow Festival is a leading European music and arts boutique festival taking place in a historic power plant area in the capital of Finland, Helsinki.",
-    "word_count": 222,
-    "date_updated": "2016-09-26T21:38:23.000Z"
-  },
-  {
-    "title": "Damian Lewis as Antony in Julius Caesar: 'Friends, Romans, countrymen' | Shakespeare Solos",
-    "link": "https://www.youtube.com/watch?v=q89MLuLSJgk",
-    "content": "To mark the 400th anniversary of Shakespeare’s death, we asked leading actors to perform key speeches from his plays. Subscribe to Guardian Culture ► http://bit.ly/subgdncultureHere, Damian Lewis performs Antony’s lines from Act III, Scene 2 of Julius Caesar. Antony has been granted permission",
-    "word_count": 0,
-    "date_updated": "2016-09-26T19:14:43.000Z"
-  },
-  {
-    "title": "",
-    "link": "https://medium.com/@kentcdodds/why-users-care-about-how-you-write-code-2c7870858df",
-    "content": "",
-    "word_count": 0,
-    "date_updated": "2016-09-26T19:14:36.000Z"
-  },
-  {
-    "title": "THE NETWORK",
-    "link": "http://other-people.network/#/channels/333?_k=zn9crg",
-    "content": "Loading...",
-    "word_count": 1,
-    "date_updated": "2016-09-26T18:14:17.000Z"
-  },
-  {
-    "title": "Largest DDoS attack ever delivered by botnet of hijacked IoT devices",
-    "link": "http://www.networkworld.com/article/3123672/security/largest-ddos-attack-ever-delivered-by-botnet-of-hijacked-iot-devices.html",
-    "content": "Securing the internet of things should become a major priority now that an army of compromised devices – perhaps 1 million strong - has swamped one of the industry’s top distributed denial-of-service protection services.",
-    "word_count": 635,
-    "date_updated": "2016-09-26T18:14:03.000Z"
-  },
-  {
-    "title": "The Month That Killed the Sixties",
-    "link": "https://blog.longreads.com/2016/09/22/the-month-that-killed-the-sixties/?mc_cid=a3d2afeaa1&mc_eid=b40fd73cf8",
-    "content": "Below is an excerpt from Witness to the Revolution, an oral history of the political and cultural movements of the 1960s and early ’70s. In this excerpt, witnesses recall the month when everything seemed to fall apart. This story is recommended by Longreads contributing editor Dana Snitzky.",
-    "word_count": 8089,
-    "date_updated": "2016-09-26T18:10:27.000Z"
-  },
-  {
-    "title": "From Hiroko to Susie: The untold stories of Japanese war brides",
-    "link": "http://www.washingtonpost.com/sf/national/2016/09/22/from-hiroko-to-susie-the-untold-stories-of-japanese-war-brides/",
-    "content": "I thought she was beautiful, although I never understood why she plucked her eyebrows off and penciled them on every morning an inch higher. She had been captain of her high school basketball team in Japan, and she ran circles around us kids on a dirt court in our small town in Upstate New York.",
-    "word_count": 4552,
-    "date_updated": "2016-09-26T18:10:12.000Z"
-  },
-  {
-    "title": "Ruby vs Python, the Definitive FAQ",
-    "link": "https://hackernoon.com/ruby-vs-python-the-definitive-faq-5cb0046292be?source=email-6f43efaaa5c7-1474732122406-digest.reader------0-3&gi=d5c0ff99d090",
-    "content": "“Python or Ruby” is the one of the most hotly debated topics in the programming world, ranking just behind “emacs or vim” and “pro-skub or anti-skub” in importance and complexity.",
-    "word_count": 468,
-    "date_updated": "2016-09-26T18:09:24.000Z"
   }
 ]
