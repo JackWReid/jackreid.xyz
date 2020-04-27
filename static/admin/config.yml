@@ -13,11 +13,9 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}T{{hour}}-{{minute}}-{{second}}"
     fields:
-      - { label: 'Title', name: "title", widget: "string" }
       - { label: "Slug", name: "slug", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Draft", name: "draft", widget: "boolean" }
-      - { label: "Tags", name: "tags", widget: "list" }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: post
     label: Post
@@ -32,3 +30,28 @@ collections:
       - { label: "Draft", name: "draft", widget: "boolean" }
       - { label: "Tags", name: "tags", widget: "list" }
       - { label: "Body", name: "body", widget: "markdown" }
+  - name: highlight
+    label: Highlight
+    folder: "content/highlight"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}T{{hour}}-{{minute}}-{{second}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Slug", name: "slug", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Draft", name: "draft", widget: "boolean" }
+      - { label: "Tags", name: "tags", widget: "list" }
+      - { label: "Link", name: "link", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: link
+    label: Link
+    folder: "content/link"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}T{{hour}}-{{minute}}-{{second}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Link", name: "link", widget: "string" }
+      - { label: "Slug", name: "slug", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Draft", name: "draft", widget: "boolean" }
+      - { label: "Tags", name: "tags", widget: "list" }
