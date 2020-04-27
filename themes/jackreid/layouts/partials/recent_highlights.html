@@ -1,7 +1,7 @@
 <ul class="recent-highlights">
   <h3>Recent Highlights</h3>
   <ul>
-  {{ range where .Site.Pages "Section" "highlight" }}
+  {{ range first 5 (where .Site.Pages "Section" "highlight") }}
     <li>
       {{- partial "card/highlight.html" . -}}
     </li>

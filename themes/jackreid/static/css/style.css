@@ -108,14 +108,16 @@ ul {
 }
 
 .site-header {
-  display: flex;
-  justify-content: space-between;
 }
 
 .site-header__title {
-  margin: 0;
+  margin: 0 0 .2rem;
   font-size: 1rem;
   text-transform: lowercase;
+}
+
+.site-header__title a {
+  text-decoration: none;
 }
 
 .site-header__nav {
@@ -268,10 +270,15 @@ ul {
   background: var(--c-accent);
 }
 
-.note-list__list {
+.note-list__list,
+.photo-list__list {
   margin: 2rem 0 0;
   padding: 0;
   list-style: none;
+}
+
+.note-list__list li {
+  margin-bottom: 4rem;
 }
 
 .post-list__list-item-title {
@@ -298,6 +305,20 @@ ul {
   margin-bottom: 4rem;
 }
 
+.photo-list__list-item {
+  margin-bottom: 4rem;
+}
+
+.photo-list__list-item-title {
+  margin-bottom: 0;
+}
+
+.photo-list__list-item-permalink {
+  display: block;
+  margin-bottom: 1rem;
+}
+
+
 /**
  * Highlight Card
  */
@@ -316,6 +337,9 @@ ul {
 /**
  * Note Card
  */
+.note-card {
+}
+
 .note-card__content {
   font-size: 1.5rem;
 }

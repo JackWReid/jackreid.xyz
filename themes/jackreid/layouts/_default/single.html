@@ -12,9 +12,13 @@
   {{ if eq .Section "about" }}
   <h2 class="page-title">{{ .Title }}</h2>
   {{ else }}
-  <h2 class="p-name single-article__title">{{ .Title }}</h2>
+    {{ if .Title }}
+    <h2 class="p-name single-article__title">{{ .Title }}</h2>
+    {{ end }}
   {{ end }}
-  <h3 class="single-article__subtitle">{{ .Params.subtitle }}</h3>
+  {{ if .Params.subtitle }}
+    <h3 class="single-article__subtitle">{{ .Params.subtitle }}</h3>
+  {{ end }}
   <article class="single-article__article">
     {{ with .Resources.ByType "image" }}
       {{ range . }}
@@ -22,13 +26,13 @@
         <img class="single-article__resource-image" src="{{ $image.RelPermalink | absURL }}" alt="{{ .Name }}">
       {{ end }}
     {{ end }}
-    {{ if .Params.instagram }}
-      <a href="https://instagram.com/p/{{.Params.instagram}}">Also available on Instagram</a>
-    {{ end }}
-
+    {{ if eq .Section "note" }}
+    {{- partial "card/note.html" . -}}
+    {{ else }}
     <div class="e-content">
       {{ .Content }}
     </div>
+    {{ end }}
   </article>
 </section>
 <aside>
