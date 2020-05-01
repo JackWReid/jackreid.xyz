@@ -1,5 +1,12 @@
 [
   {
+    "title": "Prioritizing users in a crisis: Building the California COVID-19 response site",
+    "link": "https://news.alpha.ca.gov/prioritizing-users-in-a-crisis-building-covid19-ca-gov/",
+    "content": "The CA.gov Alpha team was tasked with developing the California state COVID-19 emergency response website in collaboration with the CHHS Office of Innovation and the California Department of Technology.",
+    "word_count": 1572,
+    "date_updated": "2020-05-01T07:06:10.000Z"
+  },
+  {
     "title": "Collections: The Battle of Helm’s Deep, Part I: Bargaining for Goods at Helm’s Gate",
     "link": "https://acoup.blog/2020/05/01/collections-the-battle-of-helms-deep-part-i-bargaining-for-goods-at-helms-gate/",
     "content": "This is the long-awaited first part of a series taking a historian’s look at the Battle of Helm’s Deep from both J.R.R. Tolkien’s The Two Towers (1954) and Peter Jackson’s 2002 film of the same name.",
@@ -34991,12 +34998,5 @@
     "content": "I'm making some sort of quiz app (using redux for state management). (showing the important bits here)  The problem lies within the rendering of MultipleChoice. It uses internal state to show which answer is wrong and right.",
     "word_count": 898,
     "date_updated": "2016-09-28T18:50:41.000Z"
-  },
-  {
-    "title": "Humans: Unusually Murderous Mammals, Typically Murderous Primates",
-    "link": "https://www.theatlantic.com/science/archive/2016/09/humans-are-unusually-violent-mammals-but-averagely-violent-primates/501935/",
-    "content": "Which mammal is most likely to be murdered by its own kind? It’s certainly not humans—not even close. Nor is it a top predator like the grey wolf or lion, although those at least are #11 and #9 in the league table of murdery mammals.",
-    "word_count": 1290,
-    "date_updated": "2016-09-28T18:48:20.000Z"
   }
 ]
