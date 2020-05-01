@@ -1,5 +1,12 @@
 [
   {
+    "title": "Inside the house built in middle of M62 motorway as owners explain why it's there",
+    "link": "https://www.mirror.co.uk/news/uk-news/inside-house-built-middle-m62-21948351",
+    "content": "It's one of the most famous homes in the north of England - the house that's built slap bang in the middle of the M62 motorway.",
+    "word_count": 511,
+    "date_updated": "2020-05-01T13:59:15.000Z"
+  },
+  {
     "title": "Prioritizing users in a crisis: Building the California COVID-19 response site",
     "link": "https://news.alpha.ca.gov/prioritizing-users-in-a-crisis-building-covid19-ca-gov/",
     "content": "The CA.gov Alpha team was tasked with developing the California state COVID-19 emergency response website in collaboration with the CHHS Office of Innovation and the California Department of Technology.",
@@ -34991,12 +34998,5 @@
     "content": "Donald Trump’s sniffles during last night’s debate were not the result of a cold or a sign of cocaine use, as Howard Dean suggested, because, as Trump told Fox & Friends this morning, he didn’t sniffle at all.",
     "word_count": 114,
     "date_updated": "2016-09-28T18:55:45.000Z"
-  },
-  {
-    "title": "Make sure a new instance of certain component is used",
-    "link": "http://stackoverflow.com/a/39708940",
-    "content": "I'm making some sort of quiz app (using redux for state management). (showing the important bits here)  The problem lies within the rendering of MultipleChoice. It uses internal state to show which answer is wrong and right.",
-    "word_count": 898,
-    "date_updated": "2016-09-28T18:50:41.000Z"
   }
 ]
