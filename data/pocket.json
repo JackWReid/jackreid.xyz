@@ -1,5 +1,12 @@
 [
   {
+    "title": "Collections: The Battle of Helm’s Deep, Part I: Bargaining for Goods at Helm’s Gate",
+    "link": "https://acoup.blog/2020/05/01/collections-the-battle-of-helms-deep-part-i-bargaining-for-goods-at-helms-gate/",
+    "content": "This is the long-awaited first part of a series taking a historian’s look at the Battle of Helm’s Deep from both J.R.R. Tolkien’s The Two Towers (1954) and Peter Jackson’s 2002 film of the same name.",
+    "word_count": 9221,
+    "date_updated": "2020-05-01T06:40:44.000Z"
+  },
+  {
     "title": "Software Folklore",
     "link": "http://beza1e1.tuxen.de/lore/index.html",
     "content": "Sometimes bugs have symptoms beyond belief. This is a collection of such stories from around the web. Send me more stories, if you know some.",
@@ -34991,12 +34998,5 @@
     "content": "Which mammal is most likely to be murdered by its own kind? It’s certainly not humans—not even close. Nor is it a top predator like the grey wolf or lion, although those at least are #11 and #9 in the league table of murdery mammals.",
     "word_count": 1290,
     "date_updated": "2016-09-28T18:48:20.000Z"
-  },
-  {
-    "title": "Our First 50,000 Stars",
-    "link": "https://facebook.github.io/react/blog/2016/09/28/our-first-50000-stars.html",
-    "content": "Just three and a half years ago we open sourced a little JavaScript library called React. The journey since that day has been incredibly exciting.  In order to celebrate 50,000 GitHub stars, Maggie Appleton from egghead.",
-    "word_count": 1728,
-    "date_updated": "2016-09-28T18:47:40.000Z"
   }
 ]
