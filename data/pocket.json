@@ -23809,7 +23809,7 @@
   {
     "title": "prettier/prettier",
     "link": "https://github.com/prettier/prettier",
-    "content": "JavaScript · TypeScript · Flow · JSX · JSON CSS · SCSS · Less HTML · Vue · Angular GraphQL · Markdown · YAML Your favorite language?",
+    "content": "JavaScript · TypeScript · Flow · JSX · JSON CSS · SCSS · Less HTML · Vue · Angular GraphQL · Markdown · YAML Your favorite language? Prettier is an opinionated code formatter.",
     "word_count": 142,
     "date_updated": "2017-06-23T10:34:51.000Z"
   },
