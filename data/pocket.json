@@ -1,5 +1,12 @@
 [
   {
+    "title": "How to use your DSLR or mirrorless camera as a webcam",
+    "link": "https://www.theverge.com/21244380/webcam-camera-how-to-dslr-mirrorless-capture-card-usb-hdmi",
+    "content": "If you’ve been working from home for the past few weeks, you’ve probably had to join more than a few video conference calls. Or perhaps you’ve been using video chat apps to keep in touch with friends and family while social distancing.",
+    "word_count": 1082,
+    "date_updated": "2020-05-02T07:55:52.000Z"
+  },
+  {
     "title": "",
     "link": "https://www.vox.com/the-highlight/2020/4/23/21231596/coronavirus-covid-19-mental-health-ptsd-anxiety-depression",
     "content": "",
@@ -34991,12 +34998,5 @@
     "content": "Yea, ES6 classes aren’t really fully baked without this feature in my opinion. At least the language finally has classes which is a step up from the messy prototype declarations we had before. So yes, it’s a bit bumpy at the moment but hopefully will improve in future ES versions.",
     "word_count": 863,
     "date_updated": "2016-09-28T19:19:58.000Z"
-  },
-  {
-    "title": "White House: Override of 9/11 bill veto the \"most embarrassing thing the Senate has done\"",
-    "link": "http://www.vox.com/2016/4/27/11464180/9-11-saudi-lawsuit?utm_campaign=vox.social&utm_medium=social&utm_content=voxdotcom&utm_source=twitter",
-    "content": "The Senate on Wednesday voted 97-1 to override President Obama's veto of a controversial bill, known as the Justice Against Sponsors of Terrorism Act (JASTA), that would allow the families of 9/11 victims to sue the government of Saudi Arabia for its alleged financial support of al-Qaeda.",
-    "word_count": 1525,
-    "date_updated": "2016-09-28T18:56:03.000Z"
   }
 ]
