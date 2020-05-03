@@ -1,5 +1,23 @@
 [
   {
+    "title": "The Masque of the Red Death",
+    "author": "Edgar Allan Poe",
+    "image": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+    "date_updated": "2020-05-03T13:05:13.000Z"
+  },
+  {
+    "title": "Exhalation",
+    "author": "Ted Chiang",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552820537l/44175374._SX98_.jpg",
+    "date_updated": "2020-05-03T13:04:40.000Z"
+  },
+  {
+    "title": "Kindred",
+    "author": "Octavia E. Butler",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1339423248l/60931._SX98_.jpg",
+    "date_updated": "2020-05-02T04:52:20.000Z"
+  },
+  {
     "title": "Henry and June",
     "author": "Anaïs Nin",
     "image": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
@@ -120,7 +138,7 @@
     "date_updated": "2020-01-21T06:50:19.000Z"
   },
   {
-    "title": "Frankenstein",
+    "title": "Frankenstein: The 1818 Text",
     "author": "Mary Wollstonecraft Shelley",
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498841231l/35031085._SX98_.jpg",
     "date_updated": "2020-01-21T06:50:09.000Z"
@@ -546,9 +564,9 @@
     "date_updated": "2019-03-13T09:47:20.000Z"
   },
   {
-    "title": "Sprint: A Radically New Way to Test Ideas, Solve Problems and Answer Your Most Pressing Questions",
-    "author": "Jake Knapp",
-    "image": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+    "title": "Grief Is the Thing with Feathers",
+    "author": "Max Porter",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473000973l/29376835._SX98_.jpg",
     "date_updated": "2019-03-13T09:47:19.000Z"
   },
   {
@@ -564,9 +582,9 @@
     "date_updated": "2019-03-13T09:47:19.000Z"
   },
   {
-    "title": "Grief Is the Thing with Feathers",
-    "author": "Max Porter",
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473000973l/29376835._SX98_.jpg",
+    "title": "Sprint: A Radically New Way to Test Ideas, Solve Problems and Answer Your Most Pressing Questions",
+    "author": "Jake Knapp",
+    "image": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
     "date_updated": "2019-03-13T09:47:19.000Z"
   },
   {
@@ -576,9 +594,9 @@
     "date_updated": "2019-03-13T09:47:18.000Z"
   },
   {
-    "title": "Prisoners of Geography",
-    "author": "Tim Marshall",
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470652232l/28657942._SX98_.jpg",
+    "title": "Sister Outsider: Essays and Speeches",
+    "author": "Audre Lorde",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320399808l/730745._SX98_.jpg",
     "date_updated": "2019-03-13T09:47:18.000Z"
   },
   {
@@ -588,10 +606,16 @@
     "date_updated": "2019-03-13T09:47:18.000Z"
   },
   {
-    "title": "Sister Outsider: Essays and Speeches",
-    "author": "Audre Lorde",
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320399808l/730745._SX98_.jpg",
+    "title": "Prisoners of Geography",
+    "author": "Tim Marshall",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470652232l/28657942._SX98_.jpg",
     "date_updated": "2019-03-13T09:47:18.000Z"
+  },
+  {
+    "title": "Van Gogh: The Complete Paintings",
+    "author": "Ingo F. Walther",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348541391l/15808164._SX98_.jpg",
+    "date_updated": "2019-03-13T09:47:17.000Z"
   },
   {
     "title": "Agamemnon",
@@ -612,18 +636,6 @@
     "date_updated": "2019-03-13T09:47:17.000Z"
   },
   {
-    "title": "Van Gogh: The Complete Paintings",
-    "author": "Ingo F. Walther",
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348541391l/15808164._SX98_.jpg",
-    "date_updated": "2019-03-13T09:47:17.000Z"
-  },
-  {
-    "title": "Conversations with Friends",
-    "author": "Sally Rooney",
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500031338l/32187419._SX98_.jpg",
-    "date_updated": "2019-03-13T09:47:16.000Z"
-  },
-  {
     "title": "Henry V",
     "author": "William Shakespeare",
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331563646l/37526._SY160_.jpg",
@@ -639,6 +651,12 @@
     "title": "Enduring Love",
     "author": "Ian McEwan",
     "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1313656531l/6870._SX98_.jpg",
+    "date_updated": "2019-03-13T09:47:16.000Z"
+  },
+  {
+    "title": "Conversations with Friends",
+    "author": "Sally Rooney",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500031338l/32187419._SX98_.jpg",
     "date_updated": "2019-03-13T09:47:16.000Z"
   },
   {
