@@ -1,5 +1,26 @@
 [
   {
+    "title": "Be careful with those router configs",
+    "link": "https://rachelbythebay.com/w/2012/01/08/blackhole/",
+    "content": "One fine day, I was just doing my own thing at work. Everything was working fine, and then something changed. All of the sudden, DNS resolution out to most of the world quit working. It wasn't just me, either. People I could reach through various channels in other offices were having trouble, too.",
+    "word_count": 522,
+    "date_updated": "2020-05-03T08:30:02.000Z"
+  },
+  {
+    "title": "That packet looks familiar, and that one, and that one...",
+    "link": "http://rachelbythebay.com/w/2019/11/30/plug/",
+    "content": "Sometimes I tell stories about service outages from the point of view of it having already happened, and provide this kind of \"omniscient narrator\" perspective as it goes along. I can tell you to look out for things, since they'll come in handy later, and so on.",
+    "word_count": 1799,
+    "date_updated": "2020-05-03T08:29:57.000Z"
+  },
+  {
+    "title": "The Songs of 1984",
+    "link": "https://kottke.org/20/05/the-songs-of-1984",
+    "content": "You might remember last year1 when the Hood Internet released a series of videos mashing up the top songs of 1979-1983. Over the next few weeks, they’re going to finish up the 80s. The video from 1984 is up first:",
+    "word_count": 61,
+    "date_updated": "2020-05-03T08:25:43.000Z"
+  },
+  {
     "title": "How to use your DSLR or mirrorless camera as a webcam",
     "link": "https://www.theverge.com/21244380/webcam-camera-how-to-dslr-mirrorless-capture-card-usb-hdmi",
     "content": "If you’ve been working from home for the past few weeks, you’ve probably had to join more than a few video conference calls. Or perhaps you’ve been using video chat apps to keep in touch with friends and family while social distancing.",
@@ -34977,26 +34998,5 @@
     "content": "The obscure research that predicted Donald Trump.For more, read Amanda Taub's feature \"The rise of American authoritarianism\": http://www.vox.com/2016/3/1/11127424/..., and her analysis of the consequences for the Republican Party: http://www.vox.com/2016/4/28/11431892...Subscribe to our channel! ht",
     "word_count": 0,
     "date_updated": "2016-09-29T08:20:32.000Z"
-  },
-  {
-    "title": "Apple is moving its UK headquarters to London's iconic Battersea power station",
-    "link": "http://www.theverge.com/2016/9/29/13103702/apple-uk-hq-london-battersea-power-station",
-    "content": "Apple is moving its UK headquarters to Battersea power station — an iconic building in South West London in the middle of a $10 billion regeneration project.",
-    "word_count": 362,
-    "date_updated": "2016-09-29T07:51:15.000Z"
-  },
-  {
-    "title": "Total Infrastructure Awareness",
-    "link": "https://www.datadoghq.com/devops/?utm_source=Advertisement&utm_medium=TwitterAds&utm_campaign=TwiterAds-ConsulHAproxyApacheNGINX",
-    "content": "",
-    "word_count": 0,
-    "date_updated": "2016-09-28T19:45:54.000Z"
-  },
-  {
-    "title": "fat Arrow vS Autobind VS bind();Bind();Bind();Bind();Bind()?",
-    "link": "https://www.reddit.com/r/reactjs/comments/54xnao/fat_arrow_vs_autobind_vs_bindbindbindbindbind/d85wj0l",
-    "content": "Yea, ES6 classes aren’t really fully baked without this feature in my opinion. At least the language finally has classes which is a step up from the messy prototype declarations we had before. So yes, it’s a bit bumpy at the moment but hopefully will improve in future ES versions.",
-    "word_count": 863,
-    "date_updated": "2016-09-28T19:19:58.000Z"
   }
 ]
