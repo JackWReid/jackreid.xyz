@@ -1,5 +1,19 @@
 [
   {
+    "title": "Negroni Season",
+    "link": "https://www.theawl.com/2010/05/negroni-season/",
+    "content": "It’s been a long time since we’ve heard one of Evelyn Everlady’s horrifying true stories about The Worst Boyfriend in the World. So before we leave you for the long weekend, and to wrap up our welcome to summer series, she’s baaaaack. Why? Because now it is Negroni Season.",
+    "word_count": 2040,
+    "date_updated": "2020-05-03T22:45:08.000Z"
+  },
+  {
+    "title": "What to Do If This Pandemic Is Making You Hate Literally Everyone",
+    "link": "https://www.vice.com/en_us/article/qjdgn3/coronavirus-pandemic-how-to-deal-with-anger",
+    "content": "There’s a lot to be angry about right now. For starters, there’s government incompetence and flat-out lying to the American people.",
+    "word_count": 2227,
+    "date_updated": "2020-05-03T22:44:42.000Z"
+  },
+  {
     "title": "To Restart After Lockdown, Theaters Need to Think Small",
     "link": "https://www.nytimes.com/2020/04/30/theater/theater-after-lockdown.html",
     "content": "Theatrical extravaganzas could be a long time returning. But until then, there are plenty of great plays with tiny casts. LONDON — Right now, it feels like time’s been put on hold.",
@@ -34984,19 +34998,5 @@
     "content": "Integrating the Appboy SDK will provide you with basic analytics functionality as well as in-app messages with which you can engage your users.  To integrate the Appboy Web SDK, simply follow the instructions in the “Getting Started” section of the Appboy Web SDK Github Repository.",
     "word_count": 5791,
     "date_updated": "2016-09-30T09:53:25.000Z"
-  },
-  {
-    "title": "'I Felt My Blackness Being Chipped Away Bit by Bit'",
-    "link": "http://www.theatlantic.com/notes/2016/09/south-korea/502142/?utm_source=atltw",
-    "content": "",
-    "word_count": 0,
-    "date_updated": "2016-09-29T12:18:58.000Z"
-  },
-  {
-    "title": "React Core #",
-    "link": "https://facebook.github.io/react/contributing/codebase-overview.html",
-    "content": "React core only includes the APIs necessary to define components. It does not include the reconciliation algorithm or any platform-specific code. It is used both by React DOM and React Native components.  The code for React core is located in src/isomorphic in the source tree.",
-    "word_count": 1201,
-    "date_updated": "2016-09-29T12:16:53.000Z"
   }
 ]
