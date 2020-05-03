@@ -1,5 +1,19 @@
 [
   {
+    "title": "To Restart After Lockdown, Theaters Need to Think Small",
+    "link": "https://www.nytimes.com/2020/04/30/theater/theater-after-lockdown.html",
+    "content": "Theatrical extravaganzas could be a long time returning. But until then, there are plenty of great plays with tiny casts. LONDON — Right now, it feels like time’s been put on hold.",
+    "word_count": 987,
+    "date_updated": "2020-05-03T11:38:31.000Z"
+  },
+  {
+    "title": "‘I feel like a 1950s housewife’: how lockdown has exposed the gender divide",
+    "link": "https://www.theguardian.com/world/2020/may/03/i-feel-like-a-1950s-housewife-how-lockdown-has-exposed-the-gender-divide",
+    "content": "During the lockdown, Anna Bosworth, a freelance marketing consultant, has given up on her career so that her husband can concentrate on his. “There isn’t a second I can work, from 5am until my kids go to sleep at 8.30pm,” she says. “I can’t do anything productive.”",
+    "word_count": 1452,
+    "date_updated": "2020-05-03T11:38:13.000Z"
+  },
+  {
     "title": "Be careful with those router configs",
     "link": "https://rachelbythebay.com/w/2012/01/08/blackhole/",
     "content": "One fine day, I was just doing my own thing at work. Everything was working fine, and then something changed. All of the sudden, DNS resolution out to most of the world quit working. It wasn't just me, either. People I could reach through various channels in other offices were having trouble, too.",
@@ -34984,19 +34998,5 @@
     "content": "React core only includes the APIs necessary to define components. It does not include the reconciliation algorithm or any platform-specific code. It is used both by React DOM and React Native components.  The code for React core is located in src/isomorphic in the source tree.",
     "word_count": 1201,
     "date_updated": "2016-09-29T12:16:53.000Z"
-  },
-  {
-    "title": "Seven rules for perfect Japanese typography",
-    "link": "https://medium.com/aq-writes/seven-rules-for-perfect-japanese-typography-c377fbf49d5",
-    "content": "If you find yourself asking this question, you’re in good company. Japan is an amazing place to have a following, as many startups have discovered. With 115 million internet users and a sophisticated consumer culture, anything is possible here.",
-    "word_count": 941,
-    "date_updated": "2016-09-29T12:12:49.000Z"
-  },
-  {
-    "title": "Authoritarianism: The political science that explains Trump",
-    "link": "https://www.youtube.com/watch?v=5YU9djt_CQM",
-    "content": "The obscure research that predicted Donald Trump.For more, read Amanda Taub's feature \"The rise of American authoritarianism\": http://www.vox.com/2016/3/1/11127424/..., and her analysis of the consequences for the Republican Party: http://www.vox.com/2016/4/28/11431892...Subscribe to our channel! ht",
-    "word_count": 0,
-    "date_updated": "2016-09-29T08:20:32.000Z"
   }
 ]
