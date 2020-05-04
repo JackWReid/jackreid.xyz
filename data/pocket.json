@@ -1,5 +1,12 @@
 [
   {
+    "title": "Vesper Box Small White - Cozy Sleeping Cube Cat Furniture",
+    "link": "https://www.lordsandlabradors.co.uk/products/vesper-small-box-walnut",
+    "content": "The Vesper Box Small in Wlnut is a compact piece of cat furniture featuring a cozy cube den at th bottom, a scratch post and viewing platform. Shop here!",
+    "word_count": 0,
+    "date_updated": "2020-05-04T22:58:22.000Z"
+  },
+  {
     "title": "You can't rewrite history, but you can re-type it May 3, 2020 8:53 PM Subscribe",
     "link": "https://www.metafilter.com/186865/You-cant-rewrite-history-but-you-can-re-type-it",
     "content": "Libraries and archives are turning to volunteers to help out with transcribing handwritten documents, tagging them, and adding comments to existing transcriptions.",
@@ -346,7 +353,7 @@
     "title": "Carta’s covid-19 layoff",
     "link": "https://medium.com/@henrysward/cartas-covid-19-layoff-cbb80e3e8a5d",
     "content": "Today we announced layoffs at Carta of 161 people. Below is the announcement I made to the company at our all hands this morning. I’m sharing in the hope that it will help other ceos as they think about their layoff programs.",
-    "word_count": 1784,
+    "word_count": 1781,
     "date_updated": "2020-04-17T09:20:38.000Z"
   },
   {
@@ -34991,12 +34998,5 @@
     "content": "I recently read posts by Aaron Gustafson and Heydon Pickering about quantity queries, and I thought they would make a really good continuation to my previous post on flexbox grids.",
     "word_count": 1057,
     "date_updated": "2016-09-30T12:51:27.000Z"
-  },
-  {
-    "title": "Things you probably didn’t know you could do with Chrome’s Developer Console",
-    "link": "https://medium.freecodecamp.com/10-tips-to-maximize-your-javascript-debugging-experience-b69a75859329?gi=c0fad15a35e3",
-    "content": "Chrome comes with built-in developer tools. This comes with a wide variety of features, such as Elements, Network, and Security. Today, we’ll focus 100% on its JavaScript console.",
-    "word_count": 1270,
-    "date_updated": "2016-09-30T12:51:09.000Z"
   }
 ]
