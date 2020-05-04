@@ -1,5 +1,19 @@
 [
   {
+    "title": "You can't rewrite history, but you can re-type it May 3, 2020 8:53 PM Subscribe",
+    "link": "https://www.metafilter.com/186865/You-cant-rewrite-history-but-you-can-re-type-it",
+    "content": "Libraries and archives are turning to volunteers to help out with transcribing handwritten documents, tagging them, and adding comments to existing transcriptions.",
+    "word_count": 693,
+    "date_updated": "2020-05-04T19:57:30.000Z"
+  },
+  {
+    "title": "window.location Cheatsheet",
+    "link": "https://www.samanthaming.com/tidbits/86-window-location-cheatsheet/",
+    "content": "Looking for a site's URL information, then the window.location object is for you! Use its properties to get information on the current page address or use its methods to do some page redirect or refresh 💫 In my above example, you will notice that host and hostname returns the value.",
+    "word_count": 1239,
+    "date_updated": "2020-05-04T19:18:01.000Z"
+  },
+  {
     "title": "When Oil Derricks Ruled the L.A. Landscape",
     "link": "https://www.kcet.org/shows/lost-la/when-oil-derricks-ruled-the-la-landscape",
     "content": "Oil extraction is still big business in the Southland, but today locating signs of the industry can require a careful eye. Wells hide in plain sight as office buildings or masquerade offshore as tropical islands.",
@@ -34984,19 +34998,5 @@
     "content": "Chrome comes with built-in developer tools. This comes with a wide variety of features, such as Elements, Network, and Security. Today, we’ll focus 100% on its JavaScript console.",
     "word_count": 1270,
     "date_updated": "2016-09-30T12:51:09.000Z"
-  },
-  {
-    "title": "The Unbearable Smallness of Benjamin Netanyahu",
-    "link": "https://www.theatlantic.com/international/archive/2016/09/shimon-peres-benjamin-netanyahu/502319/",
-    "content": "The Book of Proverbs teaches us that where there is no vision, the people perish. The people of Israel, now bereft of Shimon Peres, will not perish, because survival—or, at least, muddling through—is a Jewish specialty.",
-    "word_count": 1356,
-    "date_updated": "2016-09-30T12:43:08.000Z"
-  },
-  {
-    "title": "In Cold Offices, It's All About Your Feet",
-    "link": "https://www.theatlantic.com/health/archive/2016/09/office-too-cold-shoes/502184/",
-    "content": "When a tech company recently came to Stefano Schiavon at the University of California, Berkeley to test an air-conditioning system for its office, his mind went to flip-flops.",
-    "word_count": 840,
-    "date_updated": "2016-09-30T12:42:29.000Z"
   }
 ]
