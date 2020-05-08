@@ -22,15 +22,15 @@ git checkout -f;
 git pull origin master;
 
 # Download latest data from API
-curl -L https://api.jackreid.xyz/books/reading?limit=5000 | jq . > $PWD/data/books/reading.json;
-curl -L https://api.jackreid.xyz/books/toread?limit=5000 | jq . > $PWD/data/books/toread.json;
-curl -L https://api.jackreid.xyz/books/read?limit=5000 | jq . > $PWD/data/books/read.json;
+curl -Lk https://api.jackreid.xyz/books/reading?limit=5000 | jq . > $PWD/data/books/reading.json;
+curl -Lk https://api.jackreid.xyz/books/toread?limit=5000 | jq . > $PWD/data/books/toread.json;
+curl -Lk https://api.jackreid.xyz/books/read?limit=5000 | jq . > $PWD/data/books/read.json;
 
-curl -L https://api.jackreid.xyz/films/watched?limit=5000 | jq . > $PWD/data/films/watched.json;
-curl -L https://api.jackreid.xyz/films/towatch?limit=5000 | jq . > $PWD/data/films/towatch.json;
+curl -Lk https://api.jackreid.xyz/films/watched?limit=5000 | jq . > $PWD/data/films/watched.json;
+curl -Lk https://api.jackreid.xyz/films/towatch?limit=5000 | jq . > $PWD/data/films/towatch.json;
 
-curl -L https://api.jackreid.xyz/pocket?limit=5000 | jq . > $PWD/data/pocket.json;
-curl -L https://api.jackreid.xyz/articles?limit=5000 | jq . > $PWD/data/articles.json;
+curl -Lk https://api.jackreid.xyz/pocket?limit=5000 | jq . > $PWD/data/pocket.json;
+curl -Lk https://api.jackreid.xyz/articles?limit=5000 | jq . > $PWD/data/articles.json;
 
 # Update git
 echo "[$(date)] Committing updated media data files"
