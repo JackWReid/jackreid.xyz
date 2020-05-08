@@ -81,6 +81,14 @@ ul {
   margin: 0;
 }
 
+pre {
+  max-width: 100%;
+  padding: 1rem .5rem;
+  overflow-y: scroll;
+  background: var(--c-i-two);
+  border-radius: 3px;
+}
+
 .pagination {
   margin-top: 2rem;
   display: flex;
@@ -574,6 +582,6 @@ td {
   text-align: left;
 }
 
-.recent-highlights ul li {
+.recent-highlights ul > li {
   margin-bottom: 2rem;
 }
