@@ -16,6 +16,10 @@
     --c-i-two: #eebbc3;
     --c-i-accent: #eebbc3;
   }
+
+  pre {
+    color: var(--c-bg);
+  }
 }
 
 * {
@@ -88,6 +92,8 @@ pre {
   background: var(--c-i-two);
   border-radius: 3px;
 }
+
+
 
 .pagination {
   margin-top: 2rem;
