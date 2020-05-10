@@ -1,5 +1,11 @@
 [
   {
+    "name": "The Assistant",
+    "year": 2019,
+    "link": "https://letterboxd.com/film/the-assistant-2019/",
+    "date_updated": "2020-05-11T00:00:00.000Z"
+  },
+  {
     "name": "Heaven Knows What",
     "year": 2014,
     "link": "https://letterboxd.com/film/heaven-knows-what/",
@@ -162,9 +168,9 @@
     "date_updated": "2020-03-30T00:00:00.000Z"
   },
   {
-    "name": "Bombshell",
-    "year": 2019,
-    "link": "https://letterboxd.com/film/bombshell-2019/",
+    "name": "Happy New Year, Colin Burstead",
+    "year": 2018,
+    "link": "https://letterboxd.com/film/happy-new-year-colin-burstead/",
     "date_updated": "2020-03-22T00:00:00.000Z"
   },
   {
@@ -186,9 +192,9 @@
     "date_updated": "2020-03-22T00:00:00.000Z"
   },
   {
-    "name": "Happy New Year, Colin Burstead",
-    "year": 2018,
-    "link": "https://letterboxd.com/film/happy-new-year-colin-burstead/",
+    "name": "Bombshell",
+    "year": 2019,
+    "link": "https://letterboxd.com/film/bombshell-2019/",
     "date_updated": "2020-03-22T00:00:00.000Z"
   },
   {
@@ -426,15 +432,15 @@
     "date_updated": "2019-09-15T00:00:00.000Z"
   },
   {
-    "name": "Her Smell",
-    "year": 2018,
-    "link": "https://letterboxd.com/film/her-smell/",
-    "date_updated": "2019-09-07T00:00:00.000Z"
-  },
-  {
     "name": "The Town",
     "year": 2010,
     "link": "https://letterboxd.com/film/the-town/",
+    "date_updated": "2019-09-07T00:00:00.000Z"
+  },
+  {
+    "name": "Her Smell",
+    "year": 2018,
+    "link": "https://letterboxd.com/film/her-smell/",
     "date_updated": "2019-09-07T00:00:00.000Z"
   },
   {
@@ -478,12 +484,6 @@
     "year": 2019,
     "link": "https://letterboxd.com/film/black-mirror-rachel-jack-and-ashley-too/",
     "date_updated": "2019-07-25T00:00:00.000Z"
-  },
-  {
-    "name": "District 9",
-    "year": 2009,
-    "link": "https://letterboxd.com/film/district-9/",
-    "date_updated": "2019-07-23T00:00:00.000Z"
   },
   {
     "name": "One Flew Over the Cuckoo's Nest",
@@ -1785,6 +1785,12 @@
     "name": "Casablanca",
     "year": 1942,
     "link": "https://letterboxd.com/film/casablanca/",
+    "date_updated": "2019-07-23T00:00:00.000Z"
+  },
+  {
+    "name": "District 9",
+    "year": 2009,
+    "link": "https://letterboxd.com/film/district-9/",
     "date_updated": "2019-07-23T00:00:00.000Z"
   },
   {
