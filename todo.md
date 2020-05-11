@@ -9,10 +9,6 @@
 ## Media
 - Look at pagination or filtering for the longer media lists
 
-## Links
-- Change the layout into a table so variable width dates are consistent
-- Consider a date-after layout
-
 ## Photos
 - Change the format of photo posts into real .md files rather than template tricks
 - Lightbox the photos, with captions
