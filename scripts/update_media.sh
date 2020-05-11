@@ -40,3 +40,5 @@ else
 	echo "[$(date)] Changes found"
 	git add . && git commit -m "[$(date)] Updated media data files" && git push origin master;
 fi
+
+hugo
