@@ -1,5 +1,12 @@
 [
   {
+    "title": "Names, Legal Names, and Fractally Deferred Responsibility",
+    "link": "https://nora.codes/post/names-legal-names-and-fractally-deferred-responsibility/",
+    "content": "A person’s “preferred name” is their name, their “legal name” is something else, and it’s our duty as software engineers not to muddle the two up.",
+    "word_count": 1733,
+    "date_updated": "2020-05-12T12:06:39.000Z"
+  },
+  {
     "title": "dceoy/docker-hugo",
     "link": "https://github.com/dceoy/docker-hugo",
     "content": "Pull the image from Docker Hub.",
@@ -34991,12 +34998,5 @@
     "content": "Do you love the object tag, too? How do you feel about responsive image maps? Have you ever tried to work around complex tables, nasty carousels, endless country selectors and complex user interfaces? Well, let’s bring it on!In this talk, Vitaly Friedman, editor-in-chief of Smashing Magazine, will",
     "word_count": 0,
     "date_updated": "2016-10-03T21:21:21.000Z"
-  },
-  {
-    "title": "Diving Deep Into Browserify - Yoshua Wuyts",
-    "link": "http://www.youtube.com/watch?v=-LCLeV7swkA",
-    "content": "Diving Deep Into Browserify - Yoshua WuytsBrowserify has been one of the staple tools for packaging javascript and shipping it to the browser. In this talk Yosh will explain browserify's internals, the current state of tooling and the path that's currently set for the future.",
-    "word_count": 0,
-    "date_updated": "2016-10-03T21:10:43.000Z"
   }
 ]
